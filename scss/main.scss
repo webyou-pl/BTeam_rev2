@@ -1,0 +1,32 @@
+// template
+    @import
+        "utils/variables.scss",
+        "utils/mixins.scss";
+
+
+// base
+    @import 
+        "base/forms.scss",
+        "base/reset.scss",
+        "base/buttons.scss",
+        "base/base.scss",
+        "base/typography.scss";
+
+// layout
+    @import 
+        "layout/header.scss",
+        "layout/cta.scss",
+        "layout/breadcrumbs.scss",
+        "layout/navbar.scss",
+        "layout/copyright.scss",
+        "layout/footer.scss";
+
+
+//components
+    // @import 
+    //     "components/nazwa.scss";
+
+
+// pages
+    @import 
+        "pages/homepage.scss";

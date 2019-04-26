@@ -1,0 +1,32 @@
+.btn{
+    padding: .5rem 2.4rem;
+}
+
+.btn-primary{
+    color: #fff;
+    background-color: $secondary;
+    border-color: $secondary;
+
+    &:hover, &:active{
+        color: color-yiq($secondary);
+        border-color: $secondary;
+        background-color: rgba($secondary, .75) !important;
+      }
+    &:active{
+        border-color: $secondary !important;
+    }
+    &:focus{
+        box-shadow: 0 0 0 0.2rem rgba(235, 202, 227, .5);
+    }   
+}
+
+.btn-white{
+    color: #000;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    &:hover, &:active{
+        color: color-yiq($secondary);
+        border-color: $secondary;
+        background-color: rgba($secondary, .75) !important;
+      }
+}
