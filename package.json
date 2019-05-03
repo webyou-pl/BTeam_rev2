@@ -1,7 +1,7 @@
 {
-  "name": "template-webyou",
+  "name": "bteam",
   "version": "1.0.0",
-  "description": "template-webyou",
+  "description": "bteam",
   "main": "index.js",
   "dependencies": {
     "gulp-autoprefixer": "^6.0.0",
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webyou-pl/template-webyou.git"
+    "url": "git+https://github.com/webyou-pl/BTeam_rev2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/webyou-pl/template-webyou.git"
+    "url": "https://github.com/webyou-pl/BTeam_rev2.git"
   },
-  "homepage": "https://github.com/webyou-pl/template-webyou.git"
+  "homepage": "https://github.com/webyou-pl/BTeam_rev2.git"
 }

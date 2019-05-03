@@ -75,7 +75,7 @@ $socialMedia_fix = '
 $template_copyright = '	    
     <div id="copyright">
         <div class="container text-center">
-            ©2019 <a href="http://www.webyou.pl" target="_blank" >www.webyou.pl</a> - wszelkie prawa zastrzeżone. Projekt zrealizowany przez zespół <a href="http://www.webyou.pl" target="_blank" ><strong>webyou.pl</strong></a>.
+            ©2019 <a href="http://www.BTeam.pl" target="_blank" >www.webyou.pl</a> - wszelkie prawa zastrzeżone. Projekt zrealizowany przez zespół <a href="http://www.webyou.pl" target="_blank" ><strong>webyou.pl</strong></a>.
         </div>  
     </div>  
 ';	
