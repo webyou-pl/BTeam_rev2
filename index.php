@@ -15,11 +15,14 @@
             </div>
         </header>
 
-        <section id="nazwa-sekcji">
+        <section id="main">
             <div class="container">
                 <div class="row">
                     <div class="col-6">
-                        <p>sekcja</p>
+                        <div class="main__text">
+                            <p>BTeam</p>
+                            <p>Lorem a ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
                     </div>
                 </div>
             </div>
