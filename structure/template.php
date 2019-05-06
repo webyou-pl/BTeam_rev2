@@ -1,5 +1,5 @@
 ﻿<?php
-$address = 'https://'.$_SERVER['SERVER_NAME'].'/AMovementRoom';
+$address = 'https://'.$_SERVER['SERVER_NAME'].'/BTeam_rev2';
 
 $template_start_head = ' 
 <head>
