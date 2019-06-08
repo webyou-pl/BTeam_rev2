@@ -37,12 +37,20 @@ $template_end_body = '
 ';
 
 $nav_menu = '
-    <nav id="menu" class="">
-        <ul>
-            <li><a href="'.$address.'/index.php">Strona główna</a></li>
-            <li><a href="'.$address.'/subpages/nazwa.php">Link</a></li>
-        </ul>
-    </nav>
+<nav class="navbar navbar-expand-lg navbar-dark" id="menu_nav">
+  
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+    <div class="navbar-nav ul">
+      
+      <a class="nav-item nav-link li" href="#">Features</a>
+      <a class="nav-item nav-link li" href="#">Pricing</a>
+     
+    </div>
+  </div>
+</nav>
 ';
 
 $cta = '

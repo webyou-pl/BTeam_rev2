@@ -5,28 +5,23 @@
 <!doctype html>
 <html lang="pl">
     <?php echo $template_start_head; ?>
-    <title>Nazwa Sara</title>
+    <title>BTeam</title>
     <?php echo $template_end_head; ?>
-    <body>
-        <header id="header">
+           <header id="hea[der">
             <?php echo $nav_menu; ?>
-            <div id="slider" class="text-center">
-                <p>slider</p>
-            </div>
-        </header>
 
-        <section id="main">
-            <div class="container">
-                <div class="row">
-                    <div class="col-6">
-                        <div class="main__text">
-                            <p>BTeam</p>
-                            <p>Lorem a ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                        </div>
-                    </div>
-                </div>
+    <body>
+ 
+        
+
+        <section class="main" id="main">
+            <div class="col-8 main__content">
+                <h1 class="main__title">BTeam</h1>
+                <p class="main__text">Just a random text here for example.</p>
             </div>
         </section>
+
+        
 
 
         <?php echo $cta;

@@ -1,0 +1,27 @@
+#main{
+   
+    background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/1.jpg");
+    background-size: cover;
+    background-attachment:fixed;
+    height: 100vh;
+    max-width:100%; 
+        .main__content{
+    position:absolute;
+    top:65%;
+    width: auto;
+    left:50%;
+    transform:translate(-50%, -50%);
+    color:#fff;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+            .main__title {
+                font-size: 100px;
+                
+            }
+            .main__text {
+                    text-transform: uppercase;
+                    font-size:25px;
+            }
+        }
+       
+}

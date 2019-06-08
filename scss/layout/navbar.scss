@@ -1,15 +1,18 @@
-#menu{
-    position: fixed;
+
+#menu_nav{
+
+    background-color: rgba(211, 30, 30, 0);
+    position: absolute;
     top: 0;
-    left: 0px;
     width: 100%;
     z-index: 90;
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     @include transition(.9s);
+    
  
     &.scroll-nav{
-        background: #fff;
+        background: rgba(221, 20, 20, 0.856);
         padding-top: 6px;
         padding-bottom: 5px;
         @include box-shadow();
@@ -25,15 +28,18 @@
         }
     }
 
-    ul{
+    .ul{
         display: flex;
-        justify-content: center;
-        align-items: center;
+        margin-right: 150px;
+            
+        
+        
 
-        li{
+        .li{
             display: inline-block;
             margin: 0 1rem;
             font-size: 1.2rem;
+            
             &::after{
                 content: '';
                 position: relative;
@@ -44,31 +50,47 @@
                 margin: auto;
                 background-image: linear-gradient(to right, transparent, $primary, $primary, transparent);
                 @include transition(.2s);
+     
+            
                 }
 
             &:hover{
                 &::after{
                     width: 100%;
+                            @media (min-width: 0px)and (max-width: 991.98px) {
+                                width: 0%;
+                                background-image: none;
+                            }
                 }
             }
         }
 
-        li.logo-menu{
-            margin: 0 2rem;
-            width: auto;
-            @include transition(.2s);
-            img{
-                max-height: 50px;
-                transform: scale(1);
+
+    }
+    
+            img {
+                position: absolute;
+                margin: 0 2rem;
+                width: auto;
                 @include transition(.2s);
+
+                display: none;
+
+                
+                img {
+                    max-height: 50px;
+                    transform: scale(1);
+                    @include transition(.2s);
+
+                }
+
+                &::after {
+                    display: none;
+                }
+
+                &:hover {
+                    transform: scale(1.1);
+                }
                 
             }
-            &::after{
-                display: none;
-            }
-            &:hover{
-                transform: scale(1.1);
-            }
-        }
-    }
 }
