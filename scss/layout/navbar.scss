@@ -1,6 +1,6 @@
 
 #menu_nav{
-
+    
     background-color: rgba(211, 30, 30, 0);
     position: absolute;
     top: 0;
@@ -31,23 +31,25 @@
     .ul{
         display: flex;
         margin-right: 150px;
-            
+        
         
         
 
         .li{
             display: inline-block;
             margin: 0 1rem;
-            font-size: 1.2rem;
-            
+            font-size: 1.4rem;
+            text-transform: uppercase;
+            color:$maintext;
             &::after{
                 content: '';
                 position: relative;
                 bottom: -5px;
                 display: block;
-                height: 2px;
+                height: 5px;
                 width: 0%;
                 margin: auto;
+                
                 background-image: linear-gradient(to right, transparent, $primary, $primary, transparent);
                 @include transition(.2s);
      

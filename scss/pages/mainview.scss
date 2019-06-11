@@ -1,10 +1,15 @@
 #main{
-   
+    background-color:$backgroundsecondary;
+.main_photo{
+
+
     background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/1.jpg");
     background-size: cover;
-    background-attachment:fixed;
     height: 100vh;
     max-width:100%; 
+    -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+    clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+   
         .main__content{
     position:absolute;
     top:65%;
@@ -24,4 +29,5 @@
             }
         }
        
+}
 }

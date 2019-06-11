@@ -13,17 +13,21 @@ html{
 }
 
 p{
-    line-height: 1.6rem;
+    line-height: 1.5rem;
     font-family: $SourceSansPro;
 }
 
 h1, .h1{
     font-family: $Caveat;
     font-size: 3.8rem;
+    
 }
 h2, .h2{
     font-family: $Caveat;
     font-size: 3.5rem;
+    text-transform: uppercase;
+    padding-top: $main-top;
+    padding-bottom: $main-bottom;
 }
 h3, .h3{
     font-size: 3rem;
@@ -38,6 +42,8 @@ h4, .h4{
 h5, .h5{
         font-size: 1.5rem;
 }
+
+
 
 a{
     color: #000;

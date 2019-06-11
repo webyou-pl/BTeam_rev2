@@ -1,0 +1,67 @@
+#oNas{
+    background-color:$backgroundsecondary;
+    width: 100%;
+    padding-bottom: $main-bottom;
+   .oNas__title {
+       text-align: center;
+       color: $primary;
+   }
+
+   .oNas_top-box {
+       
+       background-color: black;
+        color:white;
+        text-align: center;
+        p{
+                padding-bottom:15px;
+             padding-top:5px;
+             padding-right:15px;
+             padding-left:15px;
+     
+        }
+        .oNas__top-text{
+            margin-top:10px;
+            font-size:30px;
+            text-transform: uppercase;
+        }
+        img{
+            margin-top:20px;
+             max-width: 650px;
+             width: 100%;
+             max-height: auto;
+             -webkit-clip-path: polygon(50% 0%, 100% 10%, 100% 100%, 0 100%, 0 10%);
+             clip-path: polygon(50% 0%, 100% 10%, 100% 100%, 0 100%, 0 10%);
+        }
+   }
+
+
+   .oNas_bottom-box {
+         
+         background-color: black;
+         color:white;
+         text-align: center;
+
+        p{
+             padding-bottom:5px;
+             padding-top:15px;
+             padding-right:15px;
+             padding-left:15px;
+             
+     
+        }
+        .oNas__bottom-text{
+            
+            font-size:30px;
+            text-transform: uppercase;
+        }
+
+               img {
+                        max-width: 650px;
+                        width: 100%;
+                        max-height: auto;
+                        -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+                        clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+               }
+   }
+
+}

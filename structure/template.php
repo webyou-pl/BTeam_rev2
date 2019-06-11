@@ -52,7 +52,7 @@ $nav_menu = '
   </div>
 </nav>
 ';
-
+/*
 $cta = '
     <section id="cta">
         <div class="trianglesInImages-up"></div>
@@ -63,7 +63,7 @@ $cta = '
         <div class="trianglesInImages-down"></div>
     </section>
 ';
-
+*/
 $footer = '
     <footer id="footer">
         <div class="container">
