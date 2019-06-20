@@ -2,9 +2,7 @@
     background-color:$backgroundsecondary;
     width: 100%;
     padding-bottom: $main-bottom;
-    -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
-    clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
-    // pamiętać aby przy RWD zmienic 90% na 95%!
+
    .oNas__title {
        text-align: center;
        color: $primary;

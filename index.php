@@ -56,7 +56,7 @@
 
             <div class="container">
                     <div class="row">
-                        <div class="col-4 d-flex">
+                        <div class="col-sm-12 col-lg-4 d-flex">
                             <div class="oferta__box">
                                 <div>
                                     <h3 class="h3">Przygotowanie Motoryczne</h3></div>
@@ -69,15 +69,15 @@
                                         Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!      Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
                                     </p>  
                                 </div>
-                                <div class="btn btn-white">
-                                    <a href="#" class="">Kontakt</a>
+                                <div class="col-12 text-center"> 
+                                     <button id="singlebutton" name="singlebutton" class="btn btn-primary">Next Step!</button> 
                                 </div>
                             </div>
                         </div>
-                        <div class="col-4 d-flex">
+                        <div class="col-sm-12 col-lg-4 d-flex">
                             <div class="oferta__box">
                                 <div>
-                                    <h3 class="h3">Trening Personalny</h3></div>
+                                    <h3 class="h3">Trening <br>Personalny</h3></div>
                                 <div>
                                     <img src="images/galleries/oferta/305A3657%5B1%5D.jpg" class="oferta_image">
                                 </div>
@@ -87,15 +87,15 @@
                                         Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!      Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
                                     </p>  
                                 </div>
-                                <div class="btn btn-primary">
-                                    <a href="#" class="">Kontakt</a>
+                                <div class="col-12 text-center"> 
+                                     <button id="singlebutton" name="singlebutton" class="btn btn-primary">Next Step!</button> 
                                 </div>
                             </div>
                         </div>            
-                       <div class="col-4 d-flex">
+                       <div class="col-sm-12 col-lg-4 d-flex">
                             <div class="oferta__box">
                                 <div>
-                                    <h3 class="h3">Diagnostyka</h3></div>
+                                    <h3 class="h3">Diagnostyka <span>dummy</span></h3></div>
                                 <div>
                                     <img src="images/galleries/oferta/305A3657%5B1%5D.jpg" class="oferta_image">
                                 </div>
@@ -105,8 +105,8 @@
                                         Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!      Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
                                     </p>  
                                 </div>
-                                <div class="btn btn-white">
-                                    <a href="#" class="">Kontakt</a>
+                                <div class="col-12 text-center"> 
+                                     <button id="singlebutton" name="singlebutton" class="btn btn-primary">Next Step!</button> 
                                 </div>
                             </div>
                         </div>    
