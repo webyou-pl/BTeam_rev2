@@ -1,0 +1,39 @@
+#oferta{
+    background:$backgroundprimary;
+    padding-bottom:$main-bottom;
+
+    .oferta__box{
+        background-color: black;
+        margin-bottom: 20px;
+
+        .h3{
+            border-bottom: 5px solid $primary;
+            margin-bottom: 0px;
+            padding:5px;
+            text-align: center;
+            span{
+                visibility: hidden;
+            }
+            
+        }
+        .oferta_image{
+
+            width: 100%;
+            height: auto;
+        }
+        .oferta__text{
+            color:white;
+            padding:10px 20px;
+        }
+        .btn{
+            
+            bottom:0px;
+            margin-bottom: 10px;
+        }
+    }
+
+
+
+
+
+}
