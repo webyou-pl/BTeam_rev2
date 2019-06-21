@@ -1,0 +1,38 @@
+#referencje{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),
+    url("../images/backgrounds/referencje/ScottWebb.jpg");
+    height: 90vh;
+       background-repeat: no-repeat;
+       //background-position: center;
+       background-size: cover;
+             .referencje__title {
+                 text-align: center;
+                 color: $primary;
+             }
+}
+
+#carouselExampleIndicators{
+    top:100px;
+    .carousel-inner{
+
+
+        .carousel-item{
+          
+            text-align: center;
+            padding:50px;
+            img {
+                
+            }
+           .carousel-caption{
+                bottom:30%;
+            h5{
+                padding-bottom: 20px;
+            }
+            p{
+                
+            }
+           }
+       }
+    }
+ 
+}

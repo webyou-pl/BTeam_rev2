@@ -1,38 +1,54 @@
 #oferta{
-    background:$backgroundprimary;
-    padding-bottom:$main-bottom;
-
-    .oferta__box{
-        background-color: black;
-        margin-bottom: 20px;
-
-        .h3{
-            border-bottom: 5px solid $primary;
-            margin-bottom: 0px;
-            padding:5px;
-            text-align: center;
-            span{
-                visibility: hidden;
-            }
-            
-        }
-        .oferta_image{
-
-            width: 100%;
-            height: auto;
-        }
-        .oferta__text{
-            color:white;
-            padding:10px 20px;
-        }
-        .btn{
-            
-            bottom:0px;
-            margin-bottom: 10px;
-        }
+background:$backgroundsecondary;
+    .test{
+           background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),
+           url("../images/backgrounds/oferta/1.jpg");
+           //background:$backgroundprimary;
+           padding-bottom:$main-bottom;
+           background-repeat: no-repeat;
+           //background-position: center;
+           background-size: cover;
+           -webkit-clip-path: polygon(50% 0%, 100% 10%, 100% 100%, 0 100%, 0 10%);
+           clip-path: polygon(50% 0%, 100% 10%, 100% 100%, 0 100%, 0 10%);
     }
 
+    
+        .oferta__box{
+            background-color: black;
+            margin-bottom: 20px;
 
+            .h3{
+                border-bottom: 5px solid $primary;
+                margin-bottom: 0px;
+                padding:5px;
+                text-align: center;
+                span{
+                    visibility: hidden;
+                }
+                
+                &_center{
+                    height:110.56px;
+                    padding:30px;
+                }
+                
+            }
+            .oferta_image{
+
+                width: 100%;
+                height: auto;
+            }
+            .oferta__text{
+                color:white;
+                padding:10px 20px;
+            }
+            .btn{
+                
+                bottom:0px;
+                margin-bottom: 10px;
+            }
+        }
+
+   
 
 
 
