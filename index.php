@@ -48,7 +48,7 @@
     </section>
 
 <section class="oferta" id="oferta">
-    <div class="test">
+    <div class="oferta-body">
       
             <div class="oferta__title">
                 <h2 class="h2">Oferta</h2>
@@ -117,6 +117,7 @@
     </section>
 
    <section class="referencje" id="referencje">
+<div class="referencje-body">
             <div class="referencje__title">
                 <h2 class="h2">Referencje</h2>
             </div>
@@ -131,8 +132,9 @@
                     </ol>
                     <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22800%22%20height%3D%22400%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20400%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_16b79c71f67%20text%20%7B%20fill%3A%23555%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A40pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_16b79c71f67%22%3E%3Crect%20width%3D%22800%22%20height%3D%22400%22%20fill%3D%22%23777%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22285.9140625%22%20y%3D%22217.7%22%3EFirst%20slide%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="1">
+                                    <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22800%22%20height%3D%22400%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20400%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_16b79c71f67%20text%20%7B%20fill%3A%23555%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A40pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_16b79c71f67%22%3E%3Crect%20width%3D%22800%22%20height%3D%22400%22%20fill%3D%22%23777%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22285.9140625%22%20y%3D%22217.7%22%3EFirst%20slide%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="1" class="carousel__image">
                                     <div class="carousel-caption d-none d-md-block">
+                                        <img src="images/galleries/referencje/1.jpg">
                                         <h5>Panna XYZ</h5>
                                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
                                     </div>
@@ -140,6 +142,7 @@
                                 <div class="carousel-item">
                                     <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22800%22%20height%3D%22400%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20400%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_16b79c71f69%20text%20%7B%20fill%3A%23444%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A40pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_16b79c71f69%22%3E%3Crect%20width%3D%22800%22%20height%3D%22400%22%20fill%3D%22%23666%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22247.3125%22%20y%3D%22217.7%22%3ESecond%20slide%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="2">
                                     <div class="carousel-caption d-none d-md-block">
+                                        <img src="images/galleries/referencje/2.jpg">
                                         <h5>Panna XYZ</h5>
                                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
                                     </div>
@@ -147,6 +150,7 @@
                                 <div class="carousel-item">
                                     <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22800%22%20height%3D%22400%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20400%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_16b79c71f69%20text%20%7B%20fill%3A%23333%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A40pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_16b79c71f69%22%3E%3Crect%20width%3D%22800%22%20height%3D%22400%22%20fill%3D%22%23555%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22276.9921875%22%20y%3D%22217.7%22%3EThird%20slide%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="3">
                                     <div class="carousel-caption d-none d-md-block">
+                                        <img src="images/galleries/referencje/3.jpg">
                                         <h5>Panna XYZ</h5>
                                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
                                     </div>
@@ -164,9 +168,111 @@
                  </div>
 
 </div>
-        </section>  
+</div>
+</section>
+
+    <!--Section: Contact v.1-->
+<section class="kontant section pb-5" id="kontakt">
+
+    <!--Section heading-->
+                <div class="kontakt__title">
+                    <h2 class="h2">Kontakt</h2>
+                </div>
+    <!--Section description-->
+
+    <div class="container">
+            <div class="row kontakt-body">
+                
+                <!--Grid column-->
+                <div class="col-lg-6 kontakt-body-column">
+
+                    <!--Form with header-->
+                    <div class="card">
+
+                        <div class="card-body">
+                            <!--Header-->
+                            <div class="form-header kontakt-text text-center">
+                                <h3><i class="fas fa-envelope"></i> Skontaktuj się z nami:</h3>
+                            </div>
 
 
+                            <!--Body-->
+                            <div class="md-form">
+                                <label for="form-name">Your name</label>
+                                <i class="fas fa-user prefix grey-text"></i>
+                                <input type="text" id="form-name" class="form-control">
+                                
+                            </div>
+
+                            <div class="md-form">
+                                <label for="form-email">Your email</label>
+                                <i class="fas fa-envelope prefix grey-text"></i>
+                                <input type="text" id="form-email" class="form-control">
+                                
+                            </div>
+
+                            <div class="md-form">
+                                <label for="form-Subject">Subject</label>
+                                <i class="fas fa-tag prefix grey-text"></i>
+                                <input type="text" id="form-Subject" class="form-control">
+                                
+                            </div>
+
+                            <div class="md-form">
+                                <label for="form-text">Icon Prefix</label>
+                                <i class="fas fa-pencil-alt prefix grey-text"></i>
+                                <textarea id="form-text" class="form-control md-textarea" rows="3"></textarea>
+                                
+                            </div>
+
+                            <div class="text-center kontakt-btn">
+                                <button id="singlebutton" name="singlebutton" class="btn btn-primary ">Submit</button>
+                            </div>
+
+                    </div>
+
+                </div>
+                <!--Form with header-->
+
+                </div>
+                <!--Grid column-->
+
+                <!--Grid column-->
+                <div class="col-lg-6 kontakt-body-column">
+
+                        <!--Google map-->
+                    <div class="col-md-12">
+                        <div id="googlemap" ></div>
+                    </div>
+
+                        <br>
+                        <!--Buttons-->
+                        <div class="row text-center kontakt-dane">
+                            <div class="col-md-4">
+                            <p>San Francisco, CA 94126</p>
+                            <p>United States</p>
+                            </div>
+
+                            <div class="col-md-4">
+                            <p>+ 01 234 567 89</p>
+                            <p>Mon - Fri, 8:00-22:00</p>
+                            </div>
+
+                            <div class="col-md-4">
+                            <p>info@gmail.com</p>
+                            <p>sale@gmail.com</p>
+                            </div>
+                        </div>
+                        </div>
+                        <!--Grid column-->
+
+            </div>
+    </div>
+</section>
+<!--Section: Contact v.1-->
+
+
+<script src="https://maps.googleapis.com/maps/api/js"></script>
         <?php echo $cta;
         echo $footer;
         echo $template_copyright;

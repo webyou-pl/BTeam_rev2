@@ -1,0 +1,57 @@
+#kontakt{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),
+    url("../images/backgrounds/kontakt/2.jpg");
+    
+    height: 80vh;
+    background-size: 100%;
+    .kontakt-body{
+        .kontakt-body-column{
+        padding:15px;
+        .card{
+           border: none;
+           border-radius: 17px;
+           height: 100%;
+            .card-body{
+                background-image:  url("../images/backgrounds/kontakt/1.jpg");
+                background-size: 110%;
+                border-radius: 15px;
+                .kontakt-text {
+                    h3{
+                       color:white[];
+                       margin-bottom: 5px; 
+                        
+                    }
+                }
+                .md-form{
+                    padding: 5px;
+                    label{
+                    padding:5px;
+                    width:30%;
+                    color:$secondary;
+                    }
+                    .form-control{
+                    background:rgb(195, 195, 195)
+                    }
+                }
+                button {
+                    margin-top: 10%;
+                }
+            }
+        }
+    }
+        #googlemap {
+            width: 100%;
+            height: 390px;
+        }
+        .kontakt-dane{
+            margin-top: 4%;
+            text-align: center;
+            padding:5px;
+            p{
+                font-size: 80%;
+                font-weight: bold;
+                color:white;
+            }
+        }
+    }
+}
