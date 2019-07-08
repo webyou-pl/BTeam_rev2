@@ -1,9 +1,10 @@
 #kontakt{
     background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),
     url("../images/backgrounds/kontakt/2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     
-    height: 80vh;
-    background-size: 100%;
+    
     .kontakt-body{
         .kontakt-body-column{
         padding:15px;
@@ -12,12 +13,13 @@
            border-radius: 17px;
            height: 100%;
             .card-body{
-                background-image:  url("../images/backgrounds/kontakt/1.jpg");
+               // background-image:  url("../images/backgrounds/kontakt/1.jpg");
+               background:black;
                 background-size: 110%;
                 border-radius: 15px;
                 .kontakt-text {
                     h3{
-                       color:white[];
+                       color:white;
                        margin-bottom: 5px; 
                         
                     }
