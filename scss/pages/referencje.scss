@@ -1,9 +1,10 @@
 #referencje{
-    background:$backgroundsecondary;
+    //background:$backgroundsecondary;
    
              .referencje__title {
                  text-align: center;
                  color: $primary;
+                
              }
              .referencje-body{
                   background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),
@@ -16,7 +17,7 @@
              }
 }
 #carouselExampleIndicators{
-    top:100px;
+    top:30px;
     .carousel-inner{
         .carousel-item{
             text-align: center;

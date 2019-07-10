@@ -1,5 +1,5 @@
 #oferta{
-background:$backgroundsecondary;
+//background:$backgroundsecondary;
     .oferta-body {
            background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),
            url("../images/backgrounds/oferta/1.jpg");
@@ -7,11 +7,13 @@ background:$backgroundsecondary;
            padding-bottom:$main-bottom;
            background-repeat: no-repeat;
            background-size: cover;
-           -webkit-clip-path: polygon(50% 0%, 100% 10%, 100% 100%, 0 100%, 0 10%);
-           clip-path: polygon(50% 0%, 100% 10%, 100% 100%, 0 100%, 0 10%);
+            clip-path: polygon(50% 10%, 100% 0, 100% 100%, 0 100%, 0 0);
+            padding-bottom: 50px
     }
 
-    
+        .oferta__title{
+            padding-top: 100px;
+        }
         .oferta__box{
             background-color: black;
             margin-bottom: 20px;
