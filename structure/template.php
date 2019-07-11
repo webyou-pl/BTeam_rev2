@@ -38,20 +38,33 @@ $template_end_body = '
 
 $nav_menu = '
 
-<nav class="navbar navbar-expand-lg navbar-dark" id="menu_nav">
-  
-
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-    <div class="navbar-nav ul">
-      <a class="nav-item nav-link li" href="#">O Nas</a>
-      <a class="nav-item nav-link li" href="#">Oferta</a>
-      <a class="nav-item nav-link li" href="#">Referencje</a>
-      <a class="nav-item nav-link li" href="#">Kontakt</a>
-      <a class="nav-item nav-link li" href="#">Partnerzy</a>
-     
+<nav class="navbar navbar-expand-lg navbar-dark static-top" id="navbar">
+  <div class="container">
+    <a class="navbar-brand" href="#">
+          <img src="images/galleries/logo/bteam.jpg" style="height:100px; width:100px;" alt="">
+        </a>
+    <button class="navbar-toggler bg-dark" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+       
+        <li class="nav-item">
+          <a class="nav-link" href="#">O Nas</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Oferta</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Referencje</a>
+        </li>
+                <li class="nav-item">
+          <a class="nav-link" href="#">Kontakt</a>
+        </li>
+                <li class="nav-item">
+          <a class="nav-link" href="#">Partnerzy</a>
+        </li>
+      </ul>
     </div>
   </div>
 </nav>
