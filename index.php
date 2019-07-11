@@ -273,7 +273,7 @@
     </div>
 </section>
 <!--Section: Contact v.1-->
-</div>
+
 
 <section id="partners">
     
@@ -297,10 +297,11 @@
     
 </section>
 
-
+</div>
 <script src="https://maps.googleapis.com/maps/api/js"></script>
-        <?php echo $cta;
-        echo $footer;
+        <?php 
+        /* echo $cta; */
+        // echo $footer;
         echo $template_copyright;
         echo $socialMedia_fix;
      echo $template_end_body; ?>

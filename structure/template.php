@@ -37,22 +37,26 @@ $template_end_body = '
 ';
 
 $nav_menu = '
+
 <nav class="navbar navbar-expand-lg navbar-dark" id="menu_nav">
   
+
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
     <div class="navbar-nav ul">
-      
-      <a class="nav-item nav-link li" href="#">Features</a>
-      <a class="nav-item nav-link li" href="#">Pricing</a>
+      <a class="nav-item nav-link li" href="#">O Nas</a>
+      <a class="nav-item nav-link li" href="#">Oferta</a>
+      <a class="nav-item nav-link li" href="#">Referencje</a>
+      <a class="nav-item nav-link li" href="#">Kontakt</a>
+      <a class="nav-item nav-link li" href="#">Partnerzy</a>
      
     </div>
   </div>
 </nav>
 ';
-/*
+
 $cta = '
     <section id="cta">
         <div class="trianglesInImages-up"></div>
@@ -63,17 +67,17 @@ $cta = '
         <div class="trianglesInImages-down"></div>
     </section>
 ';
-*/
-$footer = '
-    <footer id="footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p>footer</p>
-                </div>
-        </div>
-    </footer>
-';
+
+// $footer = '
+//     <footer id="footer">
+//         <div class="container">
+//             <div class="row">
+//                 <div class="col-12">
+//                     <p>footer</p>
+//                 </div>
+//         </div>
+//     </footer>
+// ';
 
 $socialMedia_fix = '
     <aside id="socialMedia-fix">

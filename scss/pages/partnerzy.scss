@@ -1,7 +1,11 @@
 #partners{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),
-    url("../images/galleries/oNas/e892e0e6-6211-4f25-aaa9-671bde990c89.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.795)),
+    url("../images/backgrounds/oNas/shivanshu-gaur-tYans8xqIHw-unsplash.jpg");
     text-align: center;
+    clip-path: polygon(50% 10%, 100% 0, 100% 100%, 0 100%, 0 0);
+    .partners__title{
+        padding-top: $section-space-from-top;
+    }
     img{
         width:100%;
     }
