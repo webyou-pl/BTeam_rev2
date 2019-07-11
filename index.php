@@ -275,6 +275,29 @@
 <!--Section: Contact v.1-->
 </div>
 
+<section id="partners">
+    
+
+    <div class="container">
+        <div class="partners__title">
+            <h2 class="h2"> Partnerzy <h2>
+        <div>
+        <div class="row">
+            <div class="position col-sm-12 col-md-4">
+                <img src="images/galleries/partnerzy/crossbox_morskieoko_logo.png" class=".img-fluid" >
+            </div>
+            <div class="position col-sm-12 col-md-4">
+                <img src="images/galleries/partnerzy/PZTP.jpg" class=".img-fluid">
+            </div>
+            <div class="position col-sm-12 col-md-4"> 
+                <img src="images/galleries/partnerzy/projekt_fabryczna_logo.png" class=".img-fluid">
+            </div>
+        <div>
+    </div>
+    
+</section>
+
+
 <script src="https://maps.googleapis.com/maps/api/js"></script>
         <?php echo $cta;
         echo $footer;
