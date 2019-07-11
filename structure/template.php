@@ -78,7 +78,7 @@ $footer = '
 $socialMedia_fix = '
     <aside id="socialMedia-fix">
         <div class="fixedFb">
-            <a target="_blank" href="https://www.facebook.com/Sara-Nowodworska-Sara-Nails-2113993628851184">
+            <a target="_blank" href="https://www.facebook.com/%C5%81P-Bochenkiewicz-Bteam-455067328026150/">
                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48" version="1.1">
                     <g id="surface1">
                         <path style=" fill:#3F51B5;" d="M 42 37 C 42 39.761719 39.761719 42 37 42 L 11 42 C 8.238281 42 6 39.761719 6 37 L 6 11 C 6 8.238281 8.238281 6 11 6 L 37 6 C 39.761719 6 42 8.238281 42 11 Z "></path>
@@ -88,7 +88,7 @@ $socialMedia_fix = '
             </a>
         </div>
         <div class="fixedIn">
-            <a target="_blank" href="https://www.instagram.com/saranowodworska_sara_nails/">
+            <a target="_blank" href="#">
                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
                     <g id="surface1">
                         <path style="fill:#304FFE;" d="M32,42H16c-5.5,0-10-4.5-10-10V16c0-5.5,4.5-10,10-10h16c5.5,0,10,4.5,10,10v16   C42,37.5,37.5,42,32,42z"></path>
