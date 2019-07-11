@@ -23,3 +23,23 @@ footer#footer{
 	   background-repeat: no-repeat;
 	   background-size: cover;
 }
+
+#socialMedia-fix {
+	position: fixed;
+	top: 200px;
+	right: -15px;
+
+	.fixedFb,
+	.fixedIn {
+		height: 50px;
+		width: 50px;
+		position: relative;
+		left: 0;
+		@include transition(.3s);
+
+		&:hover {
+			left: -10px;
+			@include opacity;
+		}
+	}
+}
