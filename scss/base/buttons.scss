@@ -1,16 +1,19 @@
 .btn{
     padding: .5rem 2.4rem;
+    
 }
 
 .btn-primary{
     color: #fff;
     background-color: $secondary;
     border-color: $secondary;
-
+    text-transform:uppercase;
+    font-weight: bold;
+    
     &:hover, &:active{
-        color: color-yiq($secondary);
-        border-color: $secondary;
-        background-color: rgba($secondary, .1) !important;
+        color: color-yiq($primary);
+        border-color: $primary;
+        background-color: $primary;
       }
     &:active{
         border-color: $secondary !important;
