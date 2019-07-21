@@ -1,9 +1,29 @@
 #navbar{
-    position: fixed; // this need to go to JS now is just for testing
+    position: absolute;
     z-index: 3;
     width: 100%;
     padding:8px 16px 0px 16px;
-    
+    &.scroll-nav {
+        
+        position: fixed;
+        background: rgba(90, 89, 89, 0.9);
+        padding:0px;
+        
+        li{
+            
+            a{
+                 transform: scale(.9);
+            }
+
+            
+        }
+        img{
+         transform: scale(.8);
+        }
+        @include box-shadow();
+
+
+    }
         
     
     img{
@@ -13,10 +33,10 @@
     li{
          display: inline-block;
          margin: 0 1rem;
-         font-size: 1.4rem;
+        
          text-transform: uppercase;
          color:$maintext;
-
+        
          &::after {
              content: '';
              position: relative;

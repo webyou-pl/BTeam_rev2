@@ -244,9 +244,9 @@
                 <div class="col-sm-12 col-lg-6 kontakt-body-column google-kolumn">
                    
                             <!--Google map-->
-                        <div class="col-md-12 kolumn-map">
+                        <div class="col-12 kolumn-map">
                             <div id="googlemap"></div>
-                        </div>
+                        <div>
 
                             <br>
                             <!--Buttons-->
@@ -268,7 +268,7 @@
                                 </div>
                             </div>
                             <!--Grid column-->
-                 
+                 </div>
             </div>
     </div>
 </section>

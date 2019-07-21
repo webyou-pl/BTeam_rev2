@@ -6,15 +6,19 @@
      
     
     .kontakt-body{
+        margin:0px;
         .kontakt-body-column{
         
         .card{
            border: none;
            border-radius: 17px;
+           
             .card-body{
                // background-image:  url("../images/backgrounds/kontakt/1.jpg");
                background:black;
                 border-radius: 15px;
+                
+                
                 .kontakt-text {
                     h3{
                        color:white;
@@ -40,22 +44,23 @@
         }
     }
     .google-kolumn {
-                max-width: 540px;
-                padding: 0;
-                 background:black;
-                 border-radius: 15px;
+        
+             
+      
               .kolumn-map {
-                padding:20px;
+                padding:1.25rem;
+                background:black;
+                border-radius: 15px;
                 
                 #googlemap {
                     
                     
                     max-width: 100%;
-                    height:400px;
+                    height:406px;
                 }
               }
             .kontakt-dane{
-                margin-top: -2%;
+                
                 text-align: center;
                 
                 p{
