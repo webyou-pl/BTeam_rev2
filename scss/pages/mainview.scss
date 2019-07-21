@@ -1,5 +1,4 @@
 #main{
-   // background-color:$backgroundsecondary;
 .main_photo{
 
 
@@ -9,7 +8,14 @@
    
     -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
     clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
-   
+    @media (min-width: 282px) and (max-width: 768px) {
+        
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 70vh;
+    
+    }
         .main__content{
     position:absolute;
     top:65%;
@@ -19,13 +25,22 @@
     color:#fff;
     letter-spacing: 1px;
     word-spacing: 4px;
+    @media (min-width: 282px) and (max-width: 768px) {
+    top:35%;
+    }
+
             .main__title {
                 font-size: 100px;
-                
+                    @media (min-width: 282px) and (max-width: 768px) {
+                        font-size: 80px;
+                    }
             }
             .main__text {
                     text-transform: uppercase;
                     font-size:25px;
+                         @media (min-width: 282px) and (max-width: 768px) {
+                             font-size: 20px;
+                         }
             }
         }
        

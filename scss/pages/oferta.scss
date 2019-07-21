@@ -8,11 +8,18 @@
            background-repeat: no-repeat;
            background-size: cover;
             clip-path: polygon(50% 10%, 100% 0, 100% 100%, 0 100%, 0 0);
-            padding-bottom: 50px
+            padding-bottom: 50px;
+                      @media (min-width: 282px) and (max-width: 768px) {
+                         clip-path: polygon(50% 2%, 100% 0, 100% 100%, 0 100%, 0 0);
+                      }
+            
     }
 
         .oferta__title{
             padding-top: $section-space-from-top;
+                   @media (min-width: 282px) and (max-width: 768px) {
+                       padding-top:$section-space-from-top-RWD;
+                   }
         }
         .oferta__box{
             background-color: black;

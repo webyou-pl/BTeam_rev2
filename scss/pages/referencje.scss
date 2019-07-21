@@ -14,14 +14,27 @@
                   clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
                   background-repeat: no-repeat;
                   background-size: cover;
+                    @media (min-width: 282px) and (max-width: 768px) {
+                        -webkit-clip-path: polygon(50% 100%, 100% 95%, 100% 0, 0 0, 0 95%);
+                        clip-path: polygon(50% 100%, 100% 95%, 100% 0, 0 0, 0 95%);
+                    }
              }
+
 }
 #carouselExampleIndicators{
     top:30px;
+    @media (min-width: 282px) and (max-width: 768px) {
+        top:-25px;
+        transform: scale(.9);
+    }
     .carousel-inner{
         .carousel-item{
             text-align: center;
             padding:50px;
+                @media (min-width: 282px) and (max-width: 768px) {
+                   padding:0px;
+                   transform: scale(.7);
+                }
             .carousel__image {
                 visibility: hidden;
             }

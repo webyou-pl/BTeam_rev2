@@ -1,10 +1,4 @@
 #kontakt{
-    // background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),
-    // url("../images/backgrounds/kontakt/2.jpg");
-    // background-repeat: no-repeat;
-    // background-size: cover;
-     
-    
     .kontakt-body{
         margin:0px;
         .kontakt-body-column{
@@ -14,7 +8,6 @@
            border-radius: 17px;
            
             .card-body{
-               // background-image:  url("../images/backgrounds/kontakt/1.jpg");
                background:black;
                 border-radius: 15px;
                 
@@ -44,7 +37,11 @@
         }
     }
     .google-kolumn {
-        
+            @media (min-width: 282px) and (max-width: 768px) {
+
+                margin-top: 20px;
+
+            }
              
       
               .kolumn-map {

@@ -1,8 +1,4 @@
 #oNas{
-    // background-color:$backgroundsecondary;
-  
-    // padding-bottom: $main-bottom;
-
    .oNas__title {
        text-align: center;
        color: $primary;
@@ -14,6 +10,7 @@
                 background-color: black;
                 color:white;
                 text-align: center;
+                
                 p{
                     padding:5px 15px 15px 15px;
              
@@ -36,6 +33,9 @@
                 background-color: black;
                 color:white;
                 text-align: center;
+                           @media (min-width: 282px) and (max-width: 768px) {
+                               margin-top: 20px;
+                           }
                 p{
                     padding:5px 15px 15px 15px;
                 }
