@@ -4,10 +4,15 @@
 
     background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/1.jpg");
     background-size: cover;
+    background-position-x: center;
     height: 110vh;
    
     -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
     clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+    @media (max-width: 1199px) {
+        -webkit-clip-path: none;
+        clip-path: none;
+    }
     @media (min-width: 282px) and (max-width: 768px) {
         
         background-size: cover;

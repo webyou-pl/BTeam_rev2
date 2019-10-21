@@ -20,3 +20,10 @@
 @mixin opacity($opacity: 0.8) {
     opacity: $opacity;
 }
+
+@mixin name {
+    @media (max-width: 1199px) {
+        -webkit-clip-path: none;
+        clip-path: none;
+    }
+}

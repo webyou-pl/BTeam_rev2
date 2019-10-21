@@ -32,6 +32,10 @@
 
                     -webkit-clip-path: polygon(50% 0%, 100% 10%, 100% 100%, 0 100%, 0 10%);
                     clip-path: polygon(50% 0%, 100% 10%, 100% 100%, 0 100%, 0 10%);
+                    @media (max-width: 1199px) {
+                        -webkit-clip-path: none;
+                        clip-path: none;
+                    }
                 }
         }
         .oNas_bottom-box {
