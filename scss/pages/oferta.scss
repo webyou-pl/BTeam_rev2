@@ -1,5 +1,6 @@
 #oferta{
-//background:$backgroundsecondary;
+
+// margin-bottom: 100px;
     .oferta-body {
            background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),
            url("../images/backgrounds/oferta/1.jpg");
@@ -7,12 +8,13 @@
            padding-bottom:$main-bottom;
            background-repeat: no-repeat;
            background-size: cover;
-            clip-path: polygon(50% 10%, 100% 0, 100% 100%, 0 100%, 0 0);
-            padding-bottom: 50px;
-            @media (max-width: 1199px) {
-                -webkit-clip-path: none;
-                clip-path: none;
-            }
+            // padding-bottom: 50px;
+            // clip-path: polygon(50% 10%, 100% 0, 100% 100%, 0 100%, 0 0);
+            // @media (max-width: 1199px) {
+            //     -webkit-clip-path: none;
+            //     clip-path: none;
+            // }
+           
     }
 
         .oferta__title{
@@ -22,8 +24,8 @@
         }
         .oferta__box{
             background-color: black;
-            margin-bottom: 20px;
-
+            margin-bottom: 100px;
+     
             .h3{
                 border-bottom: 5px solid $primary;
                 margin-bottom: 0px;
@@ -43,6 +45,11 @@
 
                 width: 100%;
                 height: auto;
+               
+        
+            }
+            .oferta_image-gray{
+                filter: grayscale(100%);
             }
             .oferta__text{
                 color:white;

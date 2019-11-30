@@ -8,16 +8,19 @@
              }
              .referencje-body{
                   background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),
-                  url("../images/backgrounds/referencje/ScottWebb.jpg");
-                  padding-bottom: 60px;
-                  -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
-                  clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+                  url("../images/backgrounds/referencje/1.jpg");
+                  padding-top: 100px;
+                  padding-bottom: 200px;
+                  background-attachment: fixed;
+                //   -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+                //   clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
                   background-repeat: no-repeat;
                   background-size: cover;
-                    @media (max-width: 1199px) {
-                        -webkit-clip-path: none;
-                        clip-path: none;
-                    }
+                  
+                    // @media (max-width: 1199px) {
+                    //     -webkit-clip-path: none;
+                    //     clip-path: none;
+                    // }
              }
 
 }
@@ -44,6 +47,7 @@
             img{
                 border-radius: 50%;
                 padding: 15px;
+                filter: grayscale(100%);
             }
             h5{
                 padding-bottom: 20px;

@@ -1,27 +1,48 @@
 #main{
-.main_photo{
+    .main_photo{
+        // height: 100vh;
+        .show{
+            background-size: cover;
+            background-position: center;
+            height: calc(100vh + 100px);
+        }
+        .one{
+            background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/1.jpg");
+            background-repeat: no-repeat;
+            background-position-y: 0.5px;
+        }
+        .two{
+            background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/2.jpg");
+        }
+        .three{
+            background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/3.jpg");
+       
+        }
+        .four{
+            background-image:url("../images/backgrounds/main/4.jpg");
+            
+            background-position-y: -300px;
+          
+        }
+        .five{
+            background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/5.jpg");
+        }
+        .mySlides{
 
-
-    background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/1.jpg");
-    background-size: cover;
-    background-position-x: center;
-    height: 110vh;
+            
    
-    -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
-    clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
-    @media (max-width: 1199px) {
-        -webkit-clip-path: none;
-        clip-path: none;
+            
+            @media (min-width: 282px) and (max-width: 768px) {
+                
+                // background-size: cover;
+                // background-repeat: no-repeat;
+                // background-position: center;
+                // height: 70vh;
+            
+            }
+        }
     }
-    @media (min-width: 282px) and (max-width: 768px) {
-        
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: center;
-        height: 70vh;
-    
-    }
-        .main__content{
+.main__content{
     position:absolute;
     top:65%;
     width: auto;
@@ -36,6 +57,9 @@
 
             .main__title {
                 font-size: 100px;
+                &::first-letter{
+                    color: $primary;
+                }
                     @media (min-width: 282px) and (max-width: 768px) {
                         font-size: 80px;
                     }
@@ -49,5 +73,6 @@
             }
         }
        
-}
+
+    
 }

@@ -1,12 +1,15 @@
 #oNas{
+    margin-top: 50px;
+    margin-bottom: 150px;
    .oNas__title {
        text-align: center;
        color: $maintext;
    }
    .oNas_box{
-    margin-bottom: 50px;
+    
    
         .oNas_top-box {
+            
                 background-color: black;
                 color:white;
                 text-align: center;
@@ -24,18 +27,12 @@
                 }
                 img{
                   
-                   // margin-top:20px;
                     max-width: 650px;
-                    width: 100%;
+                    width:100%;
                     max-height: auto;
-                   
-
                     -webkit-clip-path: polygon(50% 0%, 100% 10%, 100% 100%, 0 100%, 0 10%);
                     clip-path: polygon(50% 0%, 100% 10%, 100% 100%, 0 100%, 0 10%);
-                    @media (max-width: 1199px) {
-                        -webkit-clip-path: none;
-                        clip-path: none;
-                    }
+                    filter: grayscale(100%);
                 }
         }
         .oNas_bottom-box {
@@ -60,6 +57,7 @@
                         max-height: auto;
                         -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
                         clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+                        filter: grayscale(100%);
                     }
         }
    }    

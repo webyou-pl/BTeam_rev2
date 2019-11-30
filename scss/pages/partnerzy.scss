@@ -1,12 +1,11 @@
 #partners{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.795)),
-    url("../images/backgrounds/oNas/shivanshu-gaur-tYans8xqIHw-unsplash.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/partnerzy/1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   
     text-align: center;
-    clip-path: polygon(50% 10%, 100% 0, 100% 100%, 0 100%, 0 0);
-    @media (max-width: 1199px) {
-        -webkit-clip-path: none;
-        clip-path: none;
-    }
+
     .partners__title{
         @media (min-width: 1200px) {
             padding-top: $section-space-from-top;
@@ -14,6 +13,7 @@
     }
     img{
         width:100%;
+        // filter: grayscale(100%);
     }
     
         .partners-images {
