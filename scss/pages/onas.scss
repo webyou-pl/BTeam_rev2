@@ -1,44 +1,71 @@
 #oNas{
     margin-top: 50px;
     margin-bottom: 150px;
+    height: 100vh;
    .oNas__title {
        text-align: center;
        color: $maintext;
    }
    .oNas_box{
-    
+        
    
-        .oNas_top-box {
-            
+        .oNas_lukasz-box {
+                
+                position: absolute;
+                top:0;
+                left:20%;
+                // right: 20%;
+                transform: translateX(-50%);
+                width: 100%;
                 background-color: black;
                 color:white;
                 text-align: center;
-                
-                
-                p{
-                    padding:15px;
-             
-                }
+
+                // @keyframes swap {
+                //     50%{
+                //         left:40%;
+                //     }
+                // }
+
+
                 .oNas__top-text{
-                    margin-top:10px;
+                    margin-top: 20px;
                     font-size:30px;
                     text-transform: uppercase;
                     font-family: $Anton;
                 }
+                p{
+                    padding:15px;
+                }
                 img{
-                  
+                    
                     max-width: 650px;
-                    width:100%;
+                    width: 100%;
                     max-height: auto;
                     -webkit-clip-path: polygon(50% 0%, 100% 10%, 100% 100%, 0 100%, 0 10%);
                     clip-path: polygon(50% 0%, 100% 10%, 100% 100%, 0 100%, 0 10%);
                     filter: grayscale(100%);
                 }
         }
-        .oNas_bottom-box {
-                background-color: black;
-                color:white;
-                text-align: center;
+        .oNas_pawel-box {
+            top:0;
+            position: absolute;
+            left:80%;
+            // right: 30%;
+            transform: translateX(-50%);
+            width: 100%;
+            background-color: black;
+            color:white;
+            text-align: center;
+            // filter: blur(6px);
+            // @keyframes swap {
+            //     50%{
+            //         left:60%;
+            //     }
+            //     100%{
+            //         left:20%
+                // }
+            // }
                 
                            @media (min-width: 282px) and (max-width: 768px) {
                                margin-top: 20px;
@@ -47,6 +74,7 @@
                     padding:15px;
                 }
                 .oNas__bottom-text{
+                    margin-top: 20px;
                     font-size:30px;
                     text-transform: uppercase;
                     font-family: $Anton;
@@ -62,3 +90,6 @@
         }
    }    
 }
+
+
+
