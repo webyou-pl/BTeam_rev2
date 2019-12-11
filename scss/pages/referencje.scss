@@ -1,0 +1,59 @@
+#referencje{
+    //background:$backgroundsecondary;
+   
+             .referencje__title {
+                 text-align: center;
+                 color: $primary;
+                
+             }
+             .referencje-body{
+                  background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),
+                  url("../images/backgrounds/referencje/1.jpg");
+                  padding-top: 100px;
+                  padding-bottom: 200px;
+                  background-attachment: fixed;
+                //   -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+                //   clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  
+                    // @media (max-width: 1199px) {
+                    //     -webkit-clip-path: none;
+                    //     clip-path: none;
+                    // }
+             }
+
+}
+#carouselExampleIndicators{
+    // top:30px;
+    // @media (min-width: 282px) and (max-width: 768px) {
+    //     top:-25px;
+    //     transform: scale(.9);
+    // }
+    .carousel-inner{
+        .carousel-item{
+            text-align: center;
+            padding:50px;
+            height: 400px;
+            @media (max-width: 1199px) {
+                padding: 0;
+            }
+            .carousel__image {
+                visibility: hidden;
+            }
+           .carousel-caption{
+                bottom: 50%;
+                transform: translateY(50%);
+            img{
+                border-radius: 50%;
+                padding: 15px;
+                filter: grayscale(100%);
+            }
+            h5{
+                padding-bottom: 20px;
+            }
+           }
+       }
+    }
+ 
+}

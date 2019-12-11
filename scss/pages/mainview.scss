@@ -1,0 +1,78 @@
+#main{
+    .main_photo{
+        // height: 100vh;
+        .show{
+            background-size: cover;
+            background-position: center;
+            height: calc(100vh + 100px);
+        }
+        .one{
+            background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/1.jpg");
+            background-repeat: no-repeat;
+            background-position-y: 0.5px;
+        }
+        .two{
+            background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/2.jpg");
+        }
+        .three{
+            background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/3.jpg");
+       
+        }
+        .four{
+            background-image:url("../images/backgrounds/main/4.jpg");
+            
+            background-position-y: -300px;
+          
+        }
+        .five{
+            background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/5.jpg");
+        }
+        .mySlides{
+
+            
+   
+            
+            @media (min-width: 282px) and (max-width: 768px) {
+                
+                // background-size: cover;
+                // background-repeat: no-repeat;
+                // background-position: center;
+                // height: 70vh;
+            
+            }
+        }
+    }
+.main__content{
+    position:absolute;
+    top:65%;
+    width: auto;
+    left:50%;
+    transform:translate(-50%, -50%);
+    color:#fff;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+    @media (min-width: 282px) and (max-width: 768px) {
+    top:35%;
+    }
+
+            .main__title {
+                font-size: 100px;
+                &::first-letter{
+                    color: $primary;
+                }
+                    @media (min-width: 282px) and (max-width: 768px) {
+                        font-size: 80px;
+                    }
+            }
+            .main__text {
+                    text-transform: uppercase;
+                    font-size:25px;
+                         @media (min-width: 282px) and (max-width: 768px) {
+                             font-size: 20px;
+                         }
+            }
+        }
+       
+
+    
+}

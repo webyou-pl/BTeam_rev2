@@ -1,3 +1,13 @@
-#copyright{
-
+#copyright {
+    border-top: 1px solid $primary;
+    padding: 10px 0;
+    text-align: center;
+    color: white;
+    background: black;
+    a {
+        color:white;
+        &:hover {
+            color: $secondary;
+        }
+    }
 }

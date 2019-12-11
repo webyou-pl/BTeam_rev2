@@ -1,8 +1,17 @@
 //COLORS
-$primary: #01F1FF;
-$secondary: #ccc;
+$primary: rgb(74, 143, 223);
+$secondary: rgb(39, 62, 167);
+$maintext:rgb(255, 255, 255);
+
+$backgroundprimary: rgb(26, 26, 26);
+
+$backgroundsecondary:#222222;
+
 
 
 
 //main pading
-$main-padding: 100px;
+$main-top: 60px;
+$main-bottom:60px;
+$section-space-from-top:100px;
+$section-space-from-top-RWD:50px;
