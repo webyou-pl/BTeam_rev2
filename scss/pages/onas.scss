@@ -7,10 +7,14 @@
        color: $maintext;
    }
    .oNas_box{
-        
-   
+
+        .oNas_lukasz-box, .oNas_pawel-box{
+            height: 640px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;;
+        }
         .oNas_lukasz-box {
-                
                 position: absolute;
                 top:0;
                 left:20%;
