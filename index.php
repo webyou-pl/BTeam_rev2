@@ -4,14 +4,14 @@
 
 <!doctype html>
 <html lang="pl">
+
     <?php echo $template_start_head; ?>
     <title>BTeam</title>
     <?php echo $template_end_head; ?>
            <header id="header">
             <?php echo $nav_menu; ?>
-
     <body>
- 
+
         
 <div class="main_oNas__oferta_background">
 
@@ -266,40 +266,16 @@
                                 <div class="form-header kontakt-text text-center">
                                     <h3><i class="fas fa-envelope"></i> Napisz do nas:</h3>
                                 </div>
-
-
                                 <!--Body-->
-                                <div class="md-form">
-                                    <label for="form-name">Imię</label>
-                                    <i class="fas fa-user prefix grey-text"></i>
-                                    <input type="text" id="form-name" class="form-control">
-                                    
-                                </div>
 
-                                <div class="md-form">
-                                    <label for="form-email">E-mail</label>
-                                    <i class="fas fa-envelope prefix grey-text"></i>
-                                    <input type="text" id="form-email" class="form-control">
-                                    
-                                </div>
-
-                                <div class="md-form">
-                                    <label for="form-Subject">Temat</label>
-                                    <i class="fas fa-tag prefix grey-text"></i>
-                                    <input type="text" id="form-Subject" class="form-control">
-                                    
-                                </div>
-
-                                <div class="md-form">
-                                    <label for="form-text">Wiadomość</label>
-                                    <i class="fas fa-pencil-alt prefix grey-text"></i>
-                                    <textarea id="form-text" class="form-control md-textarea" rows="3"></textarea>
-                                    
-                                </div>
-
-                                <div class="text-center kontakt-btn">
-                                    <button id="singlebutton" name="singlebutton" class="btn btn-primary ">Submit</button>
-                                </div>
+                                <!-- Komunikat zwrotny z formularza -->
+                                <?php if(isset($_SESSION["messageForUser-form"])){
+                                    echo $_SESSION["messageForUser-form"];
+                                    $_SESSION["messageForUser-form"] ="";
+                                } ?>
+                                <?php
+                                    echo $mainForm;
+                                ?>
 
                         </div>
 

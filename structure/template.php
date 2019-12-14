@@ -1,4 +1,5 @@
 ﻿<?php
+session_start();
 $address = 'https://'.$_SERVER['SERVER_NAME'].'/BTeam_rev2';
 
 $template_start_head = ' 
@@ -155,4 +156,35 @@ $breadcrumbs = '
 ?>
 
 
+<!-- FORM  -->
+<?php $mainForm = '
+<form method="post" action="structure/form.php" name="kontakt">
+    <div class="md-form">
+        <label for="form-name">Imię</label>
+        <i class="fas fa-user prefix grey-text"></i>
+        <input type="text" id="form-name" class="form-control" name="name" required>
+    </div>
 
+    <div class="md-form">
+        <label for="form-email">E-mail</label>
+        <i class="fas fa-envelope prefix grey-text"></i>
+        <input type="email" id="form-email" class="form-control" name="email" required>
+    </div>
+
+    <div class="md-form">
+        <label for="form-Subject">Temat</label>
+        <i class="fas fa-tag prefix grey-text"></i>
+        <input type="text" id="form-Subject" class="form-control" name="title" required>
+    </div>
+
+    <div class="md-form">
+        <label for="form-text">Wiadomość</label>
+        <i class="fas fa-pencil-alt prefix grey-text"></i>
+        <textarea id="form-text" class="form-control md-textarea" rows="3" name="message" required></textarea>
+    </div>
+
+    <div class="text-center kontakt-btn">
+        <button id="singlebutton" name="singlebutton" class="btn btn-primary ">Submit</button>
+    </div>
+</form>
+'; ?>
