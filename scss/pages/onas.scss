@@ -14,24 +14,43 @@
             flex-direction: column;
             justify-content: space-between;;
         }
+        
         .oNas_lukasz-box {
                 position: absolute;
-                top:0;
-                left:20%;
-                // right: 20%;
+                top:65px;
+                left:30%;
                 transform: translateX(-50%);
                 width: 100%;
                 background-color: black;
                 color:white;
                 text-align: center;
-
-                // @keyframes swap {
-                //     50%{
-                //         left:40%;
-                //     }
-                // }
-
-
+                @keyframes swap1 {
+         
+                    50%{
+                        z-index: 1;
+                        left:70%;
+                        filter:blur(3px);
+                    }
+                    100%{
+                        z-index: 0;
+                        left:30%;
+                        filter: blur(6px);
+                    }
+                }
+                @keyframes swap2 {
+             
+                    50%{
+                        z-index: 0;
+                        left:70%;
+                        filter:blur(3px);
+                    }
+                    100%{
+                        z-index: 1;
+                        left:30%;
+                        
+                        filter: blur(0);
+                    }
+                }
                 .oNas__top-text{
                     margin-top: 20px;
                     font-size:30px;
@@ -54,22 +73,39 @@
         .oNas_pawel-box {
             top:0;
             position: absolute;
-            left:80%;
-            // right: 30%;
+            left:70%;
             transform: translateX(-50%);
             width: 100%;
             background-color: black;
             color:white;
             text-align: center;
-            // filter: blur(6px);
-            // @keyframes swap {
-            //     50%{
-            //         left:60%;
-            //     }
-            //     100%{
-            //         left:20%
-                // }
-            // }
+            filter: blur(6px);
+            @keyframes swap3 {
+  
+                50%{
+                    z-index: 0;
+                    left:30%;
+                    filter:blur(3px);
+                }
+                100%{
+                    z-index: 1;
+                    left:70%;
+                    filter: blur(0);
+                }
+            }
+            @keyframes swap4 {
+      
+                50%{
+                    z-index: 1;
+                    left:30%;
+                    filter:blur(3px);
+                }
+                100%{
+                    z-index: 0;
+                    left:70%;
+                    filter: blur(6px);
+                }
+            }
                 
                            @media (min-width: 282px) and (max-width: 768px) {
                                margin-top: 20px;
