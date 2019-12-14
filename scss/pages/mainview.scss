@@ -46,7 +46,7 @@
     position:absolute;
     top:65%;
     width: auto;
-    left:50%;
+    left:35%;
     transform:translate(-50%, -50%);
     color:#fff;
     letter-spacing: 1px;
@@ -56,13 +56,7 @@
     }
 
             .main__title {
-                font-size: 100px;
-                &::first-letter{
-                    color: $primary;
-                }
-                    @media (min-width: 282px) and (max-width: 768px) {
-                        font-size: 80px;
-                    }
+                
             }
             .main__text {
                     text-transform: uppercase;
