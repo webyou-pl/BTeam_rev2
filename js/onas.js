@@ -3,6 +3,9 @@
 let lukasz = document.getElementById('lukasz');
 let pawel = document.getElementById('pawel');
 
+//===============================
+// JS long swap animation
+//===============================
 
 // pawel.addEventListener('click',function(){
     
@@ -22,6 +25,10 @@ let pawel = document.getElementById('pawel');
 //    }, 1000);
 
 // })
+
+//===============================
+// JS swap 
+//===============================
 
 pawel.addEventListener('click',function(){
     

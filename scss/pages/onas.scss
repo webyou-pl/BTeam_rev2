@@ -25,7 +25,9 @@
                 color:white;
                 text-align: center;
                 @keyframes swap1 {
-         
+                    0{
+                        z-index: 1; 
+                    }
                     50%{
                         z-index: 1;
                         left:70%;
@@ -38,7 +40,9 @@
                     }
                 }
                 @keyframes swap2 {
-             
+                    0{
+                        z-index: 0; 
+                    }
                     50%{
                         z-index: 0;
                         left:70%;
@@ -81,7 +85,9 @@
             text-align: center;
             filter: blur(6px);
             @keyframes swap3 {
-  
+                0{
+                    z-index: 0; 
+                }
                 50%{
                     z-index: 0;
                     left:30%;
@@ -94,7 +100,9 @@
                 }
             }
             @keyframes swap4 {
-      
+                0{
+                    z-index: 1; 
+                }
                 50%{
                     z-index: 1;
                     left:30%;
