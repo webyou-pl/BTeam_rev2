@@ -75,5 +75,3 @@ function carousel() {
 
 
 
-// O nas animation
-
