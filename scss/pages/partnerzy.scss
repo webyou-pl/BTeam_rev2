@@ -1,11 +1,9 @@
 #partners{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/partnerzy/1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/partnerzy/4.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-   
     text-align: center;
-
     .partners__title{
         @media (min-width: 1200px) {
             padding-top: $section-space-from-top;
