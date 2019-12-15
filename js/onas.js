@@ -1,8 +1,28 @@
+
+// === new animation ===
+var aboutWe = document.getElementById("oNas")
+var aboutWeCards = aboutWe.querySelectorAll("#lukasz, #pawel")
+
+aboutWe.addEventListener('click',function(){
+    if(!this.hasAttribute("disabled")){
+        aboutWe.setAttribute("disabled", true);
+        aboutWeCards.forEach(e => {
+            e.classList.toggle("show")
+        });
+        setTimeout(removeDisabled,1000);
+    }
+})
+
+function removeDisabled() {
+    aboutWe.removeAttribute("disabled");
+}
+
+// ==== old animation ===
+
+
 // O nas animation
-
-let lukasz = document.getElementById('lukasz');
-let pawel = document.getElementById('pawel');
-
+// let lukasz = document.getElementById('lukasz');
+// let pawel = document.getElementById('pawel');
 //===============================
 // JS long swap animation
 //===============================
@@ -30,20 +50,20 @@ let pawel = document.getElementById('pawel');
 // JS swap 
 //===============================
 
-pawel.addEventListener('click',function(){
+// pawel.addEventListener('click',function(){
     
-    pawel.style.filter="blur(0px)"
-    pawel.style.zIndex="1"
-    lukasz.style.filter="blur(6px)"
-    lukasz.style.zIndex="0"
+//     pawel.style.filter="blur(0px)"
+//     pawel.style.zIndex="1"
+//     lukasz.style.filter="blur(6px)"
+//     lukasz.style.zIndex="0"
 
-})
+// })
 
-lukasz.addEventListener('click',function(){
+// lukasz.addEventListener('click',function(){
     
-    lukasz.style.filter="blur(0px)"
-    lukasz.style.zIndex="1"
-    pawel.style.filter="blur(6px)"
-    pawel.style.zIndex=""
+//     lukasz.style.filter="blur(0px)"
+//     lukasz.style.zIndex="1"
+//     pawel.style.filter="blur(6px)"
+//     pawel.style.zIndex=""
 
-})
+// })

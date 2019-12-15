@@ -15,9 +15,9 @@ $template_start_head = '
     <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
-';
-
-$template_end_head = '
+    ';
+    
+    $template_end_head = '
     <link rel="apple-touch-icon" sizes="180x180" href="'.$address.'/images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="'.$address.'/images/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="'.$address.'/images/favicon-16x16.png">

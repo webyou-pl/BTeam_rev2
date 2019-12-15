@@ -8,8 +8,8 @@
     <?php echo $template_start_head; ?>
     <title>BTeam</title>
     <?php echo $template_end_head; ?>
-           <header id="header">
-            <?php echo $nav_menu; ?>
+        <header id="header">
+        <?php echo $nav_menu; ?>
     <body>
 
         
@@ -63,7 +63,7 @@
                         </div>  
                     </div>  
                     <div class="col">
-                        <div class="oNas_lukasz-box" id="lukasz" data-swap="true">
+                        <div class="oNas_lukasz-box show" id="lukasz" data-swap="true">
                             <p class="oNas__top-text">Łukasz Bochenkiewicz</p>
                             <p>Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!</p>
                             <img src="images/galleries/oNas/2.jpg" class="oNas__top-img">
@@ -328,7 +328,6 @@
             <div class="razor_shadow"></div>
         </div>
     <section id="partners">
-        
 
         <div class="container">
             <div class="partners__title">
@@ -348,16 +347,18 @@
                 </div>
             <div>
         </div>
-        
+
     </section>
 
 <!-- </div> -->
 <script src="https://maps.googleapis.com/maps/api/js"></script>
-<script src="../BTeam_rev2/js/onas.js"></script>
-        <?php 
+<script src="./js/onas.js"></script>
+
+    <?php 
         /* echo $cta; */
         // echo $footer;
         echo $template_copyright;
         echo $socialMedia_fix;
-     echo $template_end_body; ?>
+        echo $template_end_body; 
+    ?>
 </html>
