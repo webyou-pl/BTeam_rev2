@@ -1,10 +1,15 @@
+.nav-link{
+    color: $white;
+}
+
 #navbar{
 
     position: absolute;
     z-index: 3;
     width: 100%;
     padding:8px 16px 0px 16px;
-    
+
+
         @media (min-width: 282px) and (max-width: 768px) {
         background: rgba(90, 89, 89, 0.966);
            ul{

@@ -43,7 +43,7 @@ $template_end_body = '
 
 $nav_menu = '
 
-<nav class="navbar navbar-expand-lg navbar-dark static-top" id="navbar">
+<nav class="navbar navbar-expand-lg static-top" id="navbar">
   <div class="container">
     <a class="navbar-brand" href="#">
           <img src="images/galleries/logo/bteam.svg" style="height:100px; width:100px;" alt="">
