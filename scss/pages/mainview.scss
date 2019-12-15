@@ -16,29 +16,17 @@
         }
         .three{
             background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/3.jpg");
-       
         }
         .four{
             background-image:url("../images/backgrounds/main/4.jpg");
             
             background-position-y: -300px;
-          
         }
         .five{
             background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/5.jpg");
         }
         .mySlides{
-
-            
-   
-            
             @media (min-width: 282px) and (max-width: 768px) {
-                
-                // background-size: cover;
-                // background-repeat: no-repeat;
-                // background-position: center;
-                // height: 70vh;
-            
             }
         }
     }
@@ -64,7 +52,4 @@
                          }
             }
         }
-       
-
-    
 }

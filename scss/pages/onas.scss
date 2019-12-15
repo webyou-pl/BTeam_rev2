@@ -29,7 +29,7 @@
                 color:white;
                 text-align: center;
                 @keyframes swap1 {
-                    0{
+                    0%{
                         z-index: 1; 
                     }
                     50%{
@@ -44,7 +44,7 @@
                     }
                 }
                 @keyframes swap2 {
-                    0{
+                    0%{
                         z-index: 0; 
                     }
                     50%{
@@ -89,7 +89,7 @@
             text-align: center;
             filter: blur(6px);
             @keyframes swap3 {
-                0{
+                0%{
                     z-index: 0; 
                 }
                 50%{
@@ -104,7 +104,7 @@
                 }
             }
             @keyframes swap4 {
-                0{
+                0%{
                     z-index: 1; 
                 }
                 50%{
@@ -118,27 +118,27 @@
                     filter: blur(6px);
                 }
             }
-                
-                           @media (min-width: 282px) and (max-width: 768px) {
-                               margin-top: 20px;
-                           }
-                p{
-                    padding:15px;
+            
+                        @media (min-width: 282px) and (max-width: 768px) {
+                            margin-top: 20px;
+                        }
+            p{
+                padding:15px;
+            }
+            .oNas__bottom-text{
+                margin-top: 20px;
+                font-size:30px;
+                text-transform: uppercase;
+                font-family: $Anton;
+            }
+                img {
+                    max-width: 650px;
+                    width: 100%;
+                    max-height: auto;
+                    -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+                    clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+                    filter: grayscale(100%);
                 }
-                .oNas__bottom-text{
-                    margin-top: 20px;
-                    font-size:30px;
-                    text-transform: uppercase;
-                    font-family: $Anton;
-                }
-                    img {
-                        max-width: 650px;
-                        width: 100%;
-                        max-height: auto;
-                        -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
-                        clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
-                        filter: grayscale(100%);
-                    }
         }
    }    
 }
