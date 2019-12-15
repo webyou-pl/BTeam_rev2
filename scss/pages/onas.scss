@@ -1,7 +1,11 @@
 #oNas{
-    margin-top: 50px;
-    margin-bottom: 150px;
-    height: 100vh;
+    // margin-top: 50px;
+    // margin-bottom: 150px;
+    height: 120vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)),
+    url("../images/backgrounds/oNas/shivanshu-gaur-tYans8xqIHw-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
    .oNas__title {
        text-align: center;
        color: $maintext;
