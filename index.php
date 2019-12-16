@@ -49,7 +49,7 @@
         <div class="oNas__title">
             <h2 class="h2">O nas</h2>
         </div>
-        <div class="container">
+        <div class="container col-8">
             <div class="row oNas_box">
                 <div class="col-lg-12">
                 <div class="row">

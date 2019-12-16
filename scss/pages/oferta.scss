@@ -1,6 +1,4 @@
 #oferta{
-
-// margin-bottom: 100px;
     .oferta-body {
            background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),
            url("../images/backgrounds/oferta/2.jpg");
@@ -8,13 +6,6 @@
            padding-bottom:$main-bottom;
            background-repeat: no-repeat;
            background-size: cover;
-            // padding-bottom: 50px;
-            // clip-path: polygon(50% 10%, 100% 0, 100% 100%, 0 100%, 0 0);
-            // @media (max-width: 1199px) {
-            //     -webkit-clip-path: none;
-            //     clip-path: none;
-            // }
-           
     }
 
         .oferta__title{
