@@ -31,7 +31,7 @@
              </div>  
      
              <div class="col-8 main__content">
-                 <div class="main__title"><img  src="../BTeam_rev2/images/galleries/logo/bteam.svg" alt=""><img></div>
+                 <!-- <div class="main__title"><img  src="../BTeam_rev2/images/galleries/logo/bteam.svg" alt=""><img></div> -->
                     
                     <div class="main__text"><p >Siła rodzi się z kolan.</p></div>
                 </div>

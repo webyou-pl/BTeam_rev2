@@ -30,7 +30,7 @@ let pawel = document.getElementById('pawel');
 // JS swap 
 //===============================
 
-pawel.addEventListener('click',function(){
+pawel.addEventListener('mouseover',function(){
     
     pawel.style.filter="blur(0px)"
     pawel.style.zIndex="1"
@@ -39,7 +39,7 @@ pawel.addEventListener('click',function(){
 
 })
 
-lukasz.addEventListener('click',function(){
+lukasz.addEventListener('mouseover',function(){
     
     lukasz.style.filter="blur(0px)"
     lukasz.style.zIndex="1"

@@ -1,15 +1,26 @@
 .nav-link{
     color: $white;
+
 }
 
 #navbar{
+    
+    .navbar-collapse{
+       margin-top:30px;
 
+    }
     position: absolute;
     z-index: 3;
     width: 100%;
-    padding:8px 16px 0px 16px;
-
-
+    .navbar-brand{
+  
+        img{
+            position:absolute;
+            top:0;
+            left:19%;
+        }
+    }
+   
         @media (min-width: 282px) and (max-width: 768px) {
         background: rgba(90, 89, 89, 0.966);
            ul{
@@ -30,19 +41,59 @@
           @include box-shadow();
     }
     &.scroll-nav {
+
+        
+        margin:0;
         height: auto;
         position: fixed;
         background: rgba(90, 89, 89, 0.986);
         padding-right: 16px;
+        
+        .navbar-collapse{
+            margin:0;
+            
+            
+         }
                 @media (min-width: 282px)  {
                     background: rgba(90, 89, 89, 0.986);
-
+                    padding:0;
                     ul {
                         display: flex;
                         align-items: flex-start;
 
                         a {
                             transform: scale(.7);
+                            display: flex;
+                            align-items: center;
+                        }
+                        li{
+                            display: inline-block;
+                            margin: 0 1rem;
+                           font-family: $Roboto;
+                            text-transform: uppercase;
+                           
+                           
+                            &::after {
+                                content: '';
+                                position: relative;
+                                bottom: 10px;
+                                display: block;
+                                height: 5px;
+                                width: 0%;
+                                margin: auto;
+                                background-image: linear-gradient(to right, transparent, $primary, $primary, transparent);
+                                @include transition(.2s);
+                            }
+                            &:hover {
+                                &::after {
+                                    width: 100%;
+                   
+                                    @media (min-width: 0px)and (max-width: 991.98px) {
+                                        width: 0%;
+                                        background-image: none;
+                                    }
+                                }
+                            }
                         }
                     }
 
@@ -51,8 +102,8 @@
 
                         img {
                             position: absolute;
-                            top: -20px;
-                            transform: scale(.5);
+                            top: -45px;
+                            transform: scale(.4);
                         }
                     }
 
@@ -61,6 +112,7 @@
         ul{
             display: flex;
             align-items: flex-start;
+           
             
         a{
             height: 50px;
@@ -85,7 +137,7 @@
          &::after {
              content: '';
              position: relative;
-             bottom: -5px;
+             bottom: -1px;
              display: block;
              height: 5px;
              width: 0%;
