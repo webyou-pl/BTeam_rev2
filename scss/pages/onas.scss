@@ -29,7 +29,10 @@
                 background-color: black;
                 color:white;
                 text-align: center;
-                margin-bottom: 100px;
+                margin-bottom: 150px;
+                @media (min-width: 282px) and (max-width: 768px) {
+                    margin-top: 20px;
+                }
                 .oNas__top-text{
                     margin-top: 20px;
                     font-size:30px;
