@@ -1,21 +1,27 @@
 #oNas{
 
-    height: 120%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)),
     url("../images/backgrounds/oNas/shivanshu-gaur-tYans8xqIHw-unsplash.jpg");
+    height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
    .oNas__title {
        text-align: center;
        color: $maintext;
+        @media (min-width: 1200px) {
+            padding-top: $section-space-from-top;
+        }
+    
    }
    .oNas_box{
-
+    
         .oNas_lukasz-box, .oNas_pawel-box{
             height: 700px;
             display: flex;
             flex-direction: column;
-            justify-content: space-between;;
+            justify-content: space-between;
+            
+
         }
         
         .oNas_lukasz-box {
@@ -23,7 +29,7 @@
                 background-color: black;
                 color:white;
                 text-align: center;
-        
+                margin-bottom: 100px;
                 .oNas__top-text{
                     margin-top: 20px;
                     font-size:30px;
