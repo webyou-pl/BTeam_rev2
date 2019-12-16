@@ -53,7 +53,7 @@
             <div class="row oNas_box">
                 <div class="col-lg-12">
                 <div class="row">
-                    <div class="col">
+                    <div class="col-sm-12 col-lg-6 d-flex justify-content-center">
                         <div class="oNas_pawel-box" id="pawel" data-swap="false">
                             <div class="oNas_bottom-img-box">
                                 <img src="images/galleries/oNas/1.jpg" class="oNas__bottom-img">
@@ -62,7 +62,7 @@
                             </div> 
                         </div>  
                     </div>  
-                    <div class="col">
+                    <div class="col-sm-12 col-lg-6 d-flex justify-content-center">
                         <div class="oNas_lukasz-box" id="lukasz" data-swap="true">
                             <p class="oNas__top-text">Łukasz Bochenkiewicz</p>
                             <p>Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!</p>
