@@ -41,7 +41,7 @@ window.onload = function () {
 
 // var x = document.querySelectorAll('li');
 var x = document.getElementsByClassName('mySlides');
-var slideIndex = 1;
+var slideIndex = 0;
 // showDivs(slideIndex);
 
 // function plusDivs(n) {

@@ -4,26 +4,33 @@
         .show{
             background-size: cover;
             background-position: center;
+            background-repeat: no-repeat;
             height: calc(100vh + 100px);
         }
         .one{
-            background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/1.jpg");
-            background-repeat: no-repeat;
-            background-position-y: 0.5px;
+            background-image:url("../images/backgrounds/main/1.jpg");
+            background-position-y: -50em;
         }
         .two{
             background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/2.jpg");
         }
         .three{
-            background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/3.jpg");
+            background-image:url("../images/backgrounds/main/3.jpg");
+            
         }
         .four{
-            background-image:url("../images/backgrounds/main/4.jpg");
-            
-            background-position-y: -300px;
+            background-position-y: -65vh;
+            // background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/4.jpg");
+            background-image: url("../images/backgrounds/main/4.jpg");
         }
         .five{
-            background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.6)),url("../images/backgrounds/main/5.jpg");
+            background-image:url("../images/backgrounds/main/5.jpg");
+            background-position-y: -10em;
+        }
+        .six{
+            background-image:url("../images/backgrounds/main/6.jpg");
+            background-repeat: no-repeat;
+            background-position-y: -20em;
         }
         .mySlides{
             @media (min-width: 282px) and (max-width: 768px) {
