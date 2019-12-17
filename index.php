@@ -52,6 +52,7 @@
         </div>
         <div class="container">
             <div class="row oNas_box">
+                    <div class="container">
                         <div class="col-sm-12 col-lg-6 d-flex justify-content-center">
                             <div class="oNas_pawel-box" id="pawel" data-swap="false">
                                 <div class="oNas_bottom-img-box">
@@ -61,6 +62,8 @@
                                 </div> 
                             </div>  
                         </div>  
+                    </div>    
+                    <div class="container">
                         <div class="col-sm-12 col-lg-6 d-flex justify-content-center">
                             <div class="oNas_lukasz-box" id="lukasz" data-swap="true">
                                 <p class="oNas__top-text">Łukasz Bochenkiewicz</p>
@@ -68,6 +71,7 @@
                                 <img src="images/galleries/oNas/2.jpg" class="oNas__top-img">
                             </div>           
                         </div>
+                    </div>   
             </div>
     </section>
   
