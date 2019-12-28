@@ -46,32 +46,34 @@
             </div>
 
         <!-- O Nas  -->
-    <section class="oNas" id="oNas">
+        <section class="oNas" id="oNas">
         <div class="oNas__title">
             <h2 class="h2">O nas</h2>
         </div>
         <div class="container">
             <div class="row oNas_box">
-                    <div class="container">
-                        <div class="col-sm-12 col-lg-6 d-flex justify-content-center">
-                            <div class="oNas_pawel-box" id="pawel" data-swap="false">
-                                <div class="oNas_bottom-img-box">
-                                    <img src="images/galleries/oNas/1.jpg" class="oNas__bottom-img">
-                                    <p class="oNas__bottom-text">Paweł Bochenkiewicz</p>
-                                    <p>Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!</p>
-                                </div> 
-                            </div>  
-                        </div>  
-                    </div>    
-                    <div class="container">
-                        <div class="col-sm-12 col-lg-6 d-flex justify-content-center">
-                            <div class="oNas_lukasz-box" id="lukasz" data-swap="true">
-                                <p class="oNas__top-text">Łukasz Bochenkiewicz</p>
+                <div class="col-lg-12">
+                <div class="row">
+                    <div class="col-sm-12 col-lg-6 d-flex justify-content-center">
+                        <!-- <img class="onas_card col-sm-12 col-lg-5 d-flex justify-content-center" src="..//BTeam_rev2/images/galleries/oNas/11.jpg"> -->
+                        <div class="oNas_pawel-box" id="pawel" data-swap="false">
+                            <div class="oNas_bottom-img-box">
+                                <img src="images/galleries/oNas/1.jpg" class="oNas__bottom-img">
+                                <p class="oNas__bottom-text">Paweł Bochenkiewicz</p>
                                 <p>Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!</p>
-                                <img src="images/galleries/oNas/2.jpg" class="oNas__top-img">
-                            </div>           
-                        </div>
-                    </div>   
+                            </div> 
+                        </div>  
+                    </div>  
+                    <div class="col-sm-12 col-lg-6 d-flex justify-content-center">
+                        <!-- <img class="onas_card col-sm-12 col-lg-5 d-flex justify-content-center" src="..//BTeam_rev2/images/galleries/oNas/22.jpg">    -->
+                        <div class="oNas_lukasz-box" id="lukasz" data-swap="true">
+                            <p class="oNas__top-text">Łukasz Bochenkiewicz</p>
+                            <p>Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!</p>
+                            <img src="images/galleries/oNas/2.jpg" class="oNas__top-img">
+                        </div>           
+                    </div>
+                </div>   
+                </div>
             </div>
     </section>
   

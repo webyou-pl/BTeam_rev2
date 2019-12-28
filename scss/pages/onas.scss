@@ -20,10 +20,8 @@
             display: flex;
             flex-direction: column;
             justify-content: space-between;
-            
-
         }
-        
+    
         .oNas_lukasz-box {
                 width: 100%;
                 background-color: black;
@@ -32,6 +30,9 @@
                 margin-bottom: 150px;
                 @media (min-width: 282px) and (max-width: 768px) {
                     margin-top: 20px;
+                }
+                &::after:hover{
+                    transform: scale(1.1);
                 }
                 .oNas__top-text{
                     margin-top: 20px;
