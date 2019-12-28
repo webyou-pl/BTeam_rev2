@@ -14,7 +14,40 @@
     
    }
    .oNas_box{
-    
+        .oNas_img_hover{
+            position: absolute;
+            background-color: red($color: #000000);
+            height: 700px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            width: 100%;
+            padding:0 15px;
+            z-index: 2;
+
+            img{
+                max-height: 700px;
+                object-fit: cover;
+                opacity: 1;
+                transition: opacity 0.5s ease-in-out;
+                cursor: pointer;
+                &:hover{
+                    opacity: 0;
+                    transition: opacity 0.5s ease-in-out;
+                }
+            }
+        }
+        .hover_2{
+            @media (min-width: 282px) and (max-width: 768px) {
+                margin-top: 20px;
+            }
+            
+        }
+        .hover_1{
+            @media (min-width: 282px) and (max-width: 768px) {
+                margin-top: 20px;
+            }
+        }
         .oNas_lukasz-box, .oNas_pawel-box{
             height: 700px;
             display: flex;
@@ -31,9 +64,7 @@
                 @media (min-width: 282px) and (max-width: 768px) {
                     margin-top: 20px;
                 }
-                &::after:hover{
-                    transform: scale(1.1);
-                }
+           
                 .oNas__top-text{
                     margin-top: 20px;
                     font-size:30px;
