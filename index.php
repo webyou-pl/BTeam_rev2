@@ -157,44 +157,43 @@
                            
                     </div>
 
-                    <div class="container">
-                    <div class="row col-sm-12 d-flex justify-content-center">
-                    <div class="col-sm-12 col-lg-4 d-flex">
-                            <div class="oferta__box">
-                            <div>
-                                    <h3 class="h3">Periodyzacja <br>Programowanie</h3></div>
-                                <div>
-                                    <img src="images/galleries/oferta/4.jpg" class="oferta_image">
-                                </div>
-                                <div>
-                                    <p class="oferta__text">
-                                        Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
-                                        Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!      Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
-                                    </p>  
-                                </div>
-                                <div class="col-12 text-center"> 
-                                     <button id="singlebutton" name="singlebutton" class="btn btn-primary">Next Step!</button> 
-                                </div>
+                        <div class="row oferta_bottom-line">
+                                <div class="col-sm-12 col-lg-4 d-flex justify-content-center">
+                                    <div class="oferta__box">
+                                    <div>
+                                            <h3 class="h3">Periodyzacja <br>Programowanie</h3></div>
+                                        <div>
+                                            <img src="images/galleries/oferta/4.jpg" class="oferta_image">
+                                        </div>
+                                        <div>
+                                            <p class="oferta__text">
+                                                Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
+                                                Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!      Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
+                                            </p>  
+                                        </div>
+                                        <div class="col-12 text-center"> 
+                                            <button id="singlebutton" name="singlebutton" class="btn btn-primary">Next Step!</button> 
+                                        </div>
+                                    </div>
+                                </div>  
+                                <div class="col-sm-12 col-lg-4 d-flex justify-content-center">
+                                    <div class="oferta__box">
+                                        <div>
+                                            <h3 class="h3 h3_center">Warsztaty </span></h3>
+                                        </div>
+                                        <div>
+                                            <img src="images/galleries/oferta/5.jpg" class="oferta_image">
+                                        </div>
+                                        <div>
+                                            <p class="oferta__text">
+                                                Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
+                                                Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!      Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
+                                            </p>  
+                                        </div>
+                                        <div class="col-12 text-center"> 
+                                            <button id="singlebutton" name="singlebutton" class="btn btn-primary">Next Step!</button> 
+                                        </div>
                             </div>
-                        </div>  
-                        <div class="col-sm-12 col-lg-4 d-flex">
-                            <div class="oferta__box">
-                                <div>
-                                    <h3 class="h3 h3_center">Warsztaty </span></h3></div>
-                                <div>
-                                    <img src="images/galleries/oferta/5.jpg" class="oferta_image">
-                                </div>
-                                <div>
-                                    <p class="oferta__text">
-                                        Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
-                                        Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!      Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
-                                    </p>  
-                                </div>
-                                <div class="col-12 text-center"> 
-                                     <button id="singlebutton" name="singlebutton" class="btn btn-primary">Next Step!</button> 
-                                </div>
-                            </div>
-                        </div> 
 </div>
 </div>
              </div>
@@ -346,19 +345,29 @@
             <div class="partners__title">
                 <h2 class="h2"> Partnerzy </h2>
             <div>
-            <div class="row">
-                <div class="partners-images">
-                    <div class="position col-sm-4 col-md-4">
-                        <img src="images/galleries/partnerzy/crossbox_morskieoko_logo.png" class=".img-fluid" >
+                                
+            <div class="row test">
+                <div class="partners-images col-12 col-md-8">
+                        <div class=" col-sm-6 ">
+                            <img src="images/galleries/partnerzy/M-movement-room_1.png" class=".img-fluid" >
+                        </div>
+                        <div class=" col-sm-6 ">
+                            <img src="images/galleries/partnerzy/akielaszek_wektor_www.png" class=".img-fluid" >
+                        </div>
+                        <div class=" col-sm-6 ">
+                            <img class="partners-images-pztp" src="images/galleries/partnerzy/pztp.png" class=".img-fluid">
+                        </div>
+                </div>
+                <div class="partners-images col-12 col-md-8 d-flex">
+                    <div class=" col-sm-6 "> 
+                        <img src="images/galleries/partnerzy/sc_ok_1.png" class=".img-fluid">
                     </div>
-                    <div class="position col-sm-4 col-md-4">
-                        <img src="images/galleries/partnerzy/PZTP.jpg" class=".img-fluid">
-                    </div>
-                    <div class="position col-sm-4 col-md-4"> 
+                    <div class=" col-sm-6 "> 
                         <img src="images/galleries/partnerzy/projekt_fabryczna_logo.png" class=".img-fluid">
                     </div>
                 </div>
             <div>
+
         </div>
     </section>
 

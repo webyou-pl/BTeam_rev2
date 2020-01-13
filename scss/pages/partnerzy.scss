@@ -4,6 +4,7 @@
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
+    height: 100%;
     .partners__title{
         @media (min-width: 1200px) {
             padding-top: $section-space-from-top;
@@ -11,14 +12,26 @@
     }
     img{
         width:100%;
-        // filter: grayscale(100%);
+        max-width: 200px;
     }
     
         .partners-images {
-            
+            width: 100%;
             display: flex;
+            justify-content: space-around;
             align-items: center;
             padding-bottom: $main-bottom;
+            .partners-images-pztp{
+                transform: scale(1.5);
+                // right: 20px;
+            }
         }
     
+}
+.test{
+    display: flex;
+    justify-content: center;
+    &:first-child{
+        margin-top: 30px;
+    }
 }
