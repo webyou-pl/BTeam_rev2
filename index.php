@@ -98,7 +98,7 @@
 
             <div class="container">
                     <div class="row">
-                        <div class="col-sm-12 col-lg-4 d-flex">
+                        <div class="col-sm-12 col-lg-4 d-flex" data-aos="zoom-in-up">
                             <div class="oferta__box">
                                 <div>
                                     <h3 class="h3">Przygotowanie Motoryczne</h3></div>
@@ -116,7 +116,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-lg-4 d-flex">
+                        <div class="col-sm-12 col-lg-4 d-flex" data-aos="zoom-in-up">
                             <div class="oferta__box">
                                 <div>
                                     <h3 class="h3">Trening <br>Personalny</h3></div>
@@ -134,7 +134,7 @@
                                 </div>
                             </div>
                         </div>            
-                       <div class="col-sm-12 col-lg-4 d-flex">
+                       <div class="col-sm-12 col-lg-4 d-flex" data-aos="zoom-in-up">
                             <div class="oferta__box">
                                 <div>
                                     <h3 class="h3 h3_center">Diagnostyka </span></h3></div>
@@ -158,7 +158,7 @@
                     </div>
 
                         <div class="row oferta_bottom-line">
-                                <div class="col-sm-12 col-lg-4 d-flex justify-content-center">
+                                <div class="col-sm-12 col-lg-4 d-flex justify-content-center" data-aos="zoom-in-up">
                                     <div class="oferta__box">
                                     <div>
                                             <h3 class="h3">Periodyzacja <br>Programowanie</h3></div>
@@ -176,7 +176,7 @@
                                         </div>
                                     </div>
                                 </div>  
-                                <div class="col-sm-12 col-lg-4 d-flex justify-content-center">
+                                <div class="col-sm-12 col-lg-4 d-flex justify-content-center" data-aos="zoom-in-up">
                                     <div class="oferta__box">
                                         <div>
                                             <h3 class="h3 h3_center">Warsztaty </span></h3>
@@ -269,7 +269,7 @@
         <!--Section description-->
 
         <div class="container">
-                <div class="row kontakt-body">
+                <div class="row kontakt-body" data-aos="fade-up" data-aos-duration="2000">
                     
                     <!--Grid column-->
                     <div class="col-lg-6 kontakt-body-column">
@@ -348,21 +348,21 @@
                                 
             <div class="row test">
                 <div class="partners-images col-12 col-md-8">
-                        <div class=" col-sm-6 ">
+                        <div class=" col-sm-6 " data-aos="flip-left"  data-aos-duration="1000">
                             <img src="images/galleries/partnerzy/M-movement-room_1.png" class=".img-fluid" >
                         </div>
-                        <div class=" col-sm-6 ">
+                        <div class=" col-sm-6 "data-aos="flip-left" data-aos-duration="1500">
                             <img src="images/galleries/partnerzy/akielaszek_wektor_www.png" class=".img-fluid" >
                         </div>
-                        <div class=" col-sm-6 ">
+                        <div class=" col-sm-6 " data-aos="flip-left" data-aos-duration="2000">
                             <img class="partners-images-pztp" src="images/galleries/partnerzy/pztp.png" class=".img-fluid">
                         </div>
                 </div>
-                <div class="partners-images col-12 col-md-8 d-flex">
-                    <div class=" col-sm-6 "> 
+                <div class="partners-images col-12 col-md-8 d-flex" >
+                    <div class=" col-sm-6 " data-aos="flip-left" data-aos-duration="1000"> 
                         <img src="images/galleries/partnerzy/sc_ok_1.png" class=".img-fluid">
                     </div>
-                    <div class=" col-sm-6 "> 
+                    <div class=" col-sm-6 " data-aos="flip-left" data-aos-duration="1500"> 
                         <img src="images/galleries/partnerzy/projekt_fabryczna_logo.png" class=".img-fluid">
                     </div>
                 </div>
