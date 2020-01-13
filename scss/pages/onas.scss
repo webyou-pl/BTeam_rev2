@@ -1,5 +1,4 @@
 #oNas{
-
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)),
     url("../images/backgrounds/oNas/shivanshu-gaur-tYans8xqIHw-unsplash.jpg");
     height: 100%;
@@ -11,7 +10,6 @@
         @media (min-width: 1200px) {
             padding-top: $section-space-from-top;
         }
-    
    }
    .oNas_box{
         .oNas_img_hover{
@@ -56,6 +54,25 @@
         }
     
         .oNas_lukasz-box {
+            width: 100%;
+            background-color: black;
+            color:white;
+            text-align: center;
+            margin-bottom: 150px;
+            @media (min-width: 282px) and (max-width: 768px) {
+                margin-top: 20px;
+            }
+            .oNas__top-text{
+                margin-top: 20px;
+                font-size:30px;
+                text-transform: uppercase;
+                font-family: $Anton;
+            }
+            p{
+                padding:15px;
+            }
+            img{
+                max-width: 650px;
                 width: 100%;
                 background-color: black;
                 color:white;
@@ -89,11 +106,10 @@
             background-color: black;
             color:white;
             text-align: center;
-           
-            
-                        @media (min-width: 282px) and (max-width: 768px) {
-                            margin-top: 20px;
-                        }
+
+            @media (min-width: 282px) and (max-width: 768px) {
+                margin-top: 20px;
+            }
             p{
                 padding:15px;
             }
@@ -103,16 +119,16 @@
                 text-transform: uppercase;
                 font-family: $Anton;
             }
-                img {
-                    max-width: 650px;
-                    width: 100%;
-                    max-height: auto;
-                    -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
-                    clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
-                    filter: grayscale(100%);
-                }
+            img {
+                max-width: 650px;
+                width: 100%;
+                max-height: auto;
+                -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+                clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+                filter: grayscale(100%);
+            }
         }
-   }    
+   }
 }
 
 
