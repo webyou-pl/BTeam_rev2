@@ -12,24 +12,13 @@
                   padding-top: 100px;
                   padding-bottom: 200px;
                   background-attachment: fixed;
-                //   -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
-                //   clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
                   background-repeat: no-repeat;
                   background-size: cover;
-                  
-                    // @media (max-width: 1199px) {
-                    //     -webkit-clip-path: none;
-                    //     clip-path: none;
-                    // }
              }
 
 }
 #carouselExampleIndicators{
-    // top:30px;
-    // @media (min-width: 282px) and (max-width: 768px) {
-    //     top:-25px;
-    //     transform: scale(.9);
-    // }
+
     .carousel-inner{
         .carousel-item{
             text-align: center;

@@ -1,30 +1,70 @@
 #oNas{
-    // margin-top: 50px;
-    // margin-bottom: 150px;
-    height: 120vh;
+
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)),
     url("../images/backgrounds/oNas/shivanshu-gaur-tYans8xqIHw-unsplash.jpg");
+    height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
    .oNas__title {
        text-align: center;
        color: $maintext;
+        @media (min-width: 1200px) {
+            padding-top: $section-space-from-top;
+        }
+    
    }
    .oNas_box{
+        .oNas_img_hover{
+            position: absolute;
+            background-color: red($color: #000000);
+            height: 700px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            width: 100%;
+            padding:0 15px;
+            z-index: 2;
 
+            img{
+                max-height: 700px;
+                object-fit: cover;
+                opacity: 1;
+                transition: opacity 0.5s ease-in-out;
+                cursor: pointer;
+                &:hover{
+                    opacity: 0;
+                    transition: opacity 0.5s ease-in-out;
+                }
+            }
+        }
+        .hover_2{
+            @media (min-width: 282px) and (max-width: 768px) {
+                margin-top: 20px;
+            }
+            
+        }
+        .hover_1{
+            @media (min-width: 282px) and (max-width: 768px) {
+                margin-top: 20px;
+            }
+        }
         .oNas_lukasz-box, .oNas_pawel-box{
             height: 700px;
             display: flex;
             flex-direction: column;
-            justify-content: space-between;;
+            justify-content: space-between;
         }
-        
+    
         .oNas_lukasz-box {
                 width: 100%;
                 background-color: black;
                 color:white;
                 text-align: center;
-        
+                margin-bottom: 150px;
+                @media (min-width: 282px) and (max-width: 768px) {
+                    margin-top: 20px;
+                }
+           
                 .oNas__top-text{
                     margin-top: 20px;
                     font-size:30px;

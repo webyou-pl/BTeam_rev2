@@ -20,10 +20,11 @@
             <div class="main_photo" id="slider">
                 <ul>
                     <li  class="one show mySlides" ></li>
-                    <li class="three show mySlides" ></li>
                     <li class="two show mySlides" ></li>
+                    <li class="three show mySlides" ></li>
                     <li class="four show mySlides" ></li>
                     <li class="five show mySlides" ></li>
+                    <li class="six show mySlides" ></li>
                     
                 </ul>
 
@@ -45,7 +46,7 @@
             </div>
 
         <!-- O Nas  -->
-    <section class="oNas" id="oNas">
+        <section class="oNas" id="oNas">
         <div class="oNas__title">
             <h2 class="h2">O nas</h2>
         </div>
@@ -54,6 +55,11 @@
                 <div class="col-lg-12">
                 <div class="row">
                     <div class="col-sm-12 col-lg-6 d-flex justify-content-center">
+
+                         <div class="oNas_img_hover hover_1">
+                             <img src="..//BTeam_rev2/images/galleries/oNas/11.jpg">   
+                        </div>
+
                         <div class="oNas_pawel-box" id="pawel" data-swap="false">
                             <div class="oNas_bottom-img-box">
                                 <img src="images/galleries/oNas/1.jpg" class="oNas__bottom-img">
@@ -63,6 +69,11 @@
                         </div>  
                     </div>  
                     <div class="col-sm-12 col-lg-6 d-flex justify-content-center">
+
+                        <div class="oNas_img_hover hover_2">
+                             <img src="..//BTeam_rev2/images/galleries/oNas/22.jpg">   
+                        </div>
+                        
                         <div class="oNas_lukasz-box" id="lukasz" data-swap="true">
                             <p class="oNas__top-text">Łukasz Bochenkiewicz</p>
                             <p>Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!</p>
@@ -73,6 +84,7 @@
                 </div>
             </div>
     </section>
+  
     <div class="razor" id="razor">
         <div class="razor_shadow"></div>
     </div>
