@@ -350,8 +350,12 @@
                 </div>
             <div>
         </div>
-        
     </section>
+
+<aside id="cookies" class="d-none">
+    <p>Używamy plików cookie, aby zoptymalizować funkcjonalność strony i zapewnić jak najlepsze możliwe wrażenia. <a href="#!">Dowiedz się więcej</a> </p>
+        <span id="closeCookies">&#215;</span>
+</aside>
 
 <!-- </div> -->
 <script src="https://maps.googleapis.com/maps/api/js"></script>

@@ -74,4 +74,28 @@ function carousel() {
 
 
 
+// cookies
+const cookie = document.getElementById('cookies')
+const closeCookies = document.getElementById('closeCookies')
+closeCookies.addEventListener("click", acceptCookies)
+if(showCookie('acceptCookies') !== 'true'){
+    cookie.classList.remove('d-none')
+}
 
+function acceptCookies() {
+    document.cookie = 'acceptCookies=true'
+    cookie.classList.add('d-none')
+}
+function showCookie(name) {
+    if (document.cookie !== "") {
+        const cookies = document.cookie.split(/; */);
+
+        for (let i=0; i<cookies.length; i++) {
+            const cookieName = cookies[i].split("=")[0];
+            const cookieVal = cookies[i].split("=")[1];
+            if (cookieName === decodeURIComponent(name)) {
+                return decodeURIComponent(cookieVal);
+            }
+        }
+    }
+}
