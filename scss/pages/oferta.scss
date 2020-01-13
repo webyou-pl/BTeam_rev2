@@ -7,7 +7,6 @@
            background-repeat: no-repeat;
            background-size: cover;
     }
-
         .oferta__title{
             @media (min-width: 1200px) {
                 padding-top: $section-space-from-top;
@@ -16,7 +15,6 @@
         .oferta__box{
             background-color: black;
             margin-bottom: 100px;
-     
             .h3{
                 border-bottom: 5px solid $primary;
                 margin-bottom: 0px;
@@ -25,19 +23,14 @@
                 span{
                     visibility: hidden;
                 }
-                
                 &_center{
                     height:110.56px;
                     padding:30px;
                 }
-                
             }
             .oferta_image{
-
                 width: 100%;
                 height: auto;
-               
-        
             }
             .oferta_image-gray{
                 filter: grayscale(100%);
@@ -47,9 +40,12 @@
                 padding:10px 20px;
             }
             .btn{
-                
                 bottom:0px;
                 margin-bottom: 10px;
             }
         }
+        .oferta_bottom-line{
+            display: flex;
+            justify-content: center;
+           }
 }
