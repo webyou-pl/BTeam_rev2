@@ -18,6 +18,10 @@
             position:absolute;
             top:0;
             left:19%;
+            @media (min-width: 282px) and (max-width: 991.98px) {
+            top:-40px;
+            left:-5%;
+            }
         }
     }
    
@@ -47,12 +51,10 @@
         height: auto;
         position: fixed;
         background: rgba(90, 89, 89, 0.986);
-        padding-right: 16px;
+        padding-right: 16px !important;
         
         .navbar-collapse{
-            margin:0;
-            
-            
+            margin:5px;
          }
                 @media (min-width: 282px)  {
                     background: rgba(90, 89, 89, 0.986);
@@ -71,6 +73,8 @@
                             margin: 0 1rem;
                            font-family: $Roboto;
                             text-transform: uppercase;
+                            margin-left:5px;
+                            margin-right: 0;
                            
                            
                             &::after {
@@ -99,10 +103,11 @@
 
                     a {
                         height: 50px;
-
+                        
                         img {
                             position: absolute;
-                            top: -45px;
+                            padding-right: 16px !important;
+                            top: -50px;
                             transform: scale(.4);
                         }
                     }
@@ -132,8 +137,8 @@
          margin: 0 1rem;
         font-family: $Roboto;
          text-transform: uppercase;
-        
-        
+        margin-left: 5px;
+        margin-right: 0;        
          &::after {
              content: '';
              position: relative;

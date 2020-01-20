@@ -19,12 +19,12 @@
             
             <div class="main_photo" id="slider">
                 <ul>
-                    <!-- <li  class="one show mySlides" ></li> -->
-                    <!-- <li class="two show mySlides" ></li> -->
+                    <li  class="one show mySlides" ></li>
+                    <li class="two show mySlides" ></li>
                     <li class="three show mySlides" ></li>
-                    <!-- <li class="four show mySlides" ></li> -->
-                    <!-- <li class="five show mySlides" ></li> -->
-                    <!-- <li class="six show mySlides" ></li> -->
+                    <li class="four show mySlides" ></li>
+                    <li class="five show mySlides" ></li>
+                    <li class="six show mySlides" ></li>
                     
                 </ul>
 
