@@ -14,7 +14,7 @@
         }
         .oferta__box{
             background-color: black;
-            margin-bottom: 100px;
+
             .h3{
                 border-bottom: 5px solid $primary;
                 margin-bottom: 0px;
@@ -30,22 +30,34 @@
             }
             .oferta_image{
                 width: 100%;
-                height: auto;
+                max-height: 233px;
             }
             .oferta_image-gray{
                 filter: grayscale(100%);
             }
             .oferta__text{
+           
                 color:white;
                 padding:10px 20px;
+                
             }
-            .btn{
-                bottom:0px;
-                margin-bottom: 10px;
+            .text-center{
+                display: flex;
+                justify-content: center;
+                // bottom: 0px;
             }
+     
         }
         .oferta_bottom-line{
             display: flex;
             justify-content: center;
            }
+}
+.big_top_box{
+    margin-bottom: 40px;
+
+}
+.big_bottom_box{
+    margin-bottom: 100px;
+ 
 }

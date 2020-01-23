@@ -14,6 +14,7 @@
     
    }
    .oNas_box{
+       
         .oNas_img_hover{
             position: absolute;
             background-color: red($color: #000000);
@@ -26,7 +27,7 @@
             z-index: 2;
 
             img{
-                max-height: 700px;
+                max-height: 912.5px;
                 object-fit: cover;
                 opacity: 1;
                 transition: opacity 0.5s ease-in-out;
@@ -49,7 +50,8 @@
             }
         }
         .oNas_lukasz-box, .oNas_pawel-box{
-            height: 700px;
+
+            max-height: 912.5px;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
@@ -96,6 +98,7 @@
         }
         .oNas_pawel-box {
             width: 100%;
+            // height: 700px;
             background-color: black;
             color:white;
             text-align: center;

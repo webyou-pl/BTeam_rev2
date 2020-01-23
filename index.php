@@ -20,11 +20,11 @@
             <div class="main_photo" id="slider">
                 <ul>
                     <li  class="one show mySlides" ></li>
-                    <li class="two show mySlides" ></li>
+                    <!-- <li class="two show mySlides" ></li>
                     <li class="three show mySlides" ></li>
                     <li class="four show mySlides" ></li>
                     <li class="five show mySlides" ></li>
-                    <li class="six show mySlides" ></li>
+                    <li class="six show mySlides" ></li> -->
                     
                 </ul>
 
@@ -64,7 +64,23 @@
                             <div class="oNas_bottom-img-box">
                                 <img src="images/galleries/oNas/1.jpg" class="oNas__bottom-img">
                                 <p class="oNas__bottom-text">Paweł Bochenkiewicz</p>
-                                <p>Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!</p>
+                                <p>
+                                Trener z powołania. Trener przygotowania motorycznego, trener personalny, trener II klasy koszykówki i
+                                pasjonata treningu funkcjonalnego i oporowego.<br><br>
+                                Wychowanek WKS Śląsk Wrocław w koszykówce. Medalista Mistrzostw Polski, reprezentant Polski na
+                                Mistrzostwach Europy. Współautor trzech awansów z WKS Śląsk Wrocław od najniższej klasy
+                                rozgrywkowej w Polsce do najwyższej (ekstraklasy). Wielokrotny triumfator Konkursu Wsadów.
+                                Absolwent Akademii Wychowania Fizycznego we Wrocławiu (trener przygotowania motorycznego).
+                                Uczestnik wielu prestiżowych szkoleń z zakresu przygotowania motorycznego i treningu funkcjonalnego
+                                (m.in. NCSC/ EXOS/ FMS).
+                                <br><br>
+                                Ze sportem związany od ponad 20 lat. Zajmuje się przygotowaniem motorycznym zarówno u amatorów
+                                jak i profesjonalnych zawodników różnych dyscyplin sportowych (koszykówka, piłka ręczna, akrobatyka,
+                                sztuki walki itd..). Trener przygotowania fizycznego młodzieżowej kadry polski w siatkówce mężczyzn.
+                                Trener komendy miejskiej państwowej straży pożarnej we Wrocławiu w 2017 roku oraz wiele innych.
+                                Jako trener personalny zawsze zmierza do celu z powodzeniem wraz ze swoimi podopiecznymi. Członek
+                                Polskiego Związku Trenerów Personalnych. Perfekcjonista i Fanatyk.
+                                    </p>
                             </div> 
                         </div>  
                     </div>  
@@ -76,7 +92,21 @@
                         
                         <div class="oNas_lukasz-box" id="lukasz" data-swap="true">
                             <p class="oNas__top-text">Łukasz Bochenkiewicz</p>
-                            <p>Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!       Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!</p>
+                            <p>
+                            Trener z powołania. Trener przygotowania motorycznego, trener personalny, pasjonata treningu
+                            funkcjonalnego i sztuk walki.<br><br>
+                            Wychowanek WKS Śląsk Wrocław w koszykówce. Czterokrotny medalista Mistrzostw Polski w tym dwa
+                            razy Mistrz Polski i najlepszy zawodnik MVP. Reprezentant kraju na Mistrzostwach Europy i Świata.
+                            Absowent Akademii Wychowania Fizycznego we Wrocławiu. Uczestnik wielu prestiżowych szkoleń z
+                            zakresu przygotowania motorycznego i treningu funkcjonalnego (m.in. NCSC/ EXOS/ FMS).
+                            Ze sportem związany od ponad 20 lat. Trenuje zawodników sportów zespołowych i indywidualnych pod
+                            kątem przygotowania motorycznego. Trener Mistrzów Świata, Europy i Polski zawodników różnych sztuk
+                            walki (K1, Karate, MMA itp..). Trener przygotowania fizycznego koszykarskiego Górnika Wałbrzych w
+                            sezonie 2016/17. Trener młodzieżowej reprezentacji polski w siatkówce kobiet. Przygotowuje również
+                            służby mundurowe do selekcji na komandosów oraz wiele innych.<br><br>
+                            Jako trener personalny pomaga swoim podopiecznym osiągnąć wyznaczony cel ze znakomitą
+                            skutecznością. Członek Polskiego Związku Trenerów Personalnych. Motywator i profesjonalista.
+                                </p>
                             <img src="images/galleries/oNas/2.jpg" class="oNas__top-img">
                         </div>           
                     </div>
@@ -98,17 +128,31 @@
 
             <div class="container">
                     <div class="row">
-                        <div class="col-sm-12 col-lg-4 d-flex" data-aos="zoom-in-up">
+                        <div class="col-sm-12 col-lg-4 d-flex big_bottom_box" data-aos="zoom-in-up">
                             <div class="oferta__box">
                                 <div>
                                     <h3 class="h3">Przygotowanie Motoryczne</h3></div>
-                                <div>
-                                    <img src="images/galleries/oferta/1.jpg" class="oferta_image  oferta_image-gray">
+                                <div class="oferta_image"> 
+                                    <img src="images/galleries/oferta/1.jpg" class="  oferta_image-gray">
                                 </div>
                                 <div>
                                     <p class="oferta__text">
-                                        Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
-                                        Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!      Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
+                                    Przygotowanie motoryczne/fizyczne zawodnika jest kluczowym elementem we współczesnym sporcie na
+                                    każdym jego etapie i poziomie. Głównym elementem naszej pracy jest ocena fundamentalnych wzorców
+                                    ruchowych jako podstawy do dalszego rozwoju sportowca. W oparciu o światowe standardy (NSCA/
+                                    EXOS/ FMS/ MCS itp..), dostęp do najnowszych badań i publikacji oraz wieloletnie doświadczenie
+                                    zawodnicze i trenerskie w sportach zespołowych i indywidualnych potrafimy doskonale zrozumieć i
+                                    zintegrować się ze swoimi podopiecznymi. Te wszystkie składowe pozwalają nam na dokładną analizę
+                                    potrzeb i wyznaczenie ścieżki działania. Wiemy jak ważne jest kształtowanie wszystkich cech
+                                    motorycznych (tj. SIŁA, WYTRZYMAŁOŚĆ, SZYBKOŚĆ, ZWINNOŚĆ, SKOCZNOŚĆ, ZRĘCZNOŚĆ,
+                                    GIBKOŚĆ) niezależnie od rodzaju dyscypliny sportowej, tak aby maksymalnie zminimalizować ryzyko
+                                    kontuzji. Dokładamy wszelkich starań, swoją pasję, doświadczenie i zaangażowanie w pracę ze
+                                    sportowcami. Nie jesteśmy teoretykami, lecz przede wszystkim praktykami, którzy cały czas się rozwijają
+                                    i pogłębiają swoją wiedzę, jednocześnie wykorzystując ją bezpośrednio w swoim treningu jak i naszych
+                                    zawodników. Podczas lat związanych ze sportem zdążyliśmy poznać wszystkie odmiany wysiłków
+                                    fizycznych o różnej intensywności i przetestować je na sobie. Nieodzownymi elementami każdego
+                                    sportowca podczas treningu i startów jest krew, pot i łzy, aby miały one sens i przełożenie na wyniki
+                                    sportowe trzeba wiedzieć jak działać. Z nami to osiągniesz.
                                     </p>  
                                 </div>
                                 <div class="col-12 text-center"> 
@@ -116,17 +160,36 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-lg-4 d-flex" data-aos="zoom-in-up">
+                        <div class="col-sm-12 col-lg-4 d-flex big_bottom_box" data-aos="zoom-in-up">
                             <div class="oferta__box">
                                 <div>
                                     <h3 class="h3">Trening <br>Personalny</h3></div>
-                                <div>
-                                    <img src="images/galleries/oferta/2.jpg" class="oferta_image">
+                                <div class="oferta_image">
+                                    <img src="images/galleries/oferta/2.jpg" >
                                 </div>
                                 <div>
                                     <p class="oferta__text">
-                                        Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
-                                        Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!      Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
+                                    Związani z treningiem i zdrowym stylem życia jesteśmy od najmłodszych lat. Jako profesjonalni
+                                    sportowcy wiemy jak istotne jest to w każdej dyscyplinie sportowej, ale również w życiu codziennym.
+                                    Każdy człowiek wykonuję fundamentalne czynności związane z ruchem, takie jak: chodzenie, bieganie,
+                                    siadanie, podnoszenie różnych przedmiotów, skakanie i wiele innych. Wykonując te wszystkie zadania
+                                    życia codziennego przez wiele lat w nieodpowiedni sposób można doprowadzić do trwałych
+                                    uszczerbków całego układu ruchu. Nasz organizm jest bardzo tolerancyjny do czasu... Zatem właściwy i
+                                    odpowiedni trening pod czujnym okiem profesjonalistów jest niezbędny, aby zminimalizować ryzyko
+                                    różnego rodzaju zwichnięć, złamań, skręceń, bólów i przeciążeń. Również po to, aby żyło nam się łatwiej
+                                    i przyjemniej, a jakość życia wzrosła, bez niepotrzebnych nikomu kontuzji, natomiast wyżej wymienione
+                                    czynności nie sprawiały nam problemu.<br><br>
+                                    Ponad to cele jakie możesz z nami skutecznie realizować w świetnej atmosferze to między innymi:<br>
+
+                                    redukcja tkanki tłuszczowej<br>
+                                    poprawa kondycji<br>
+                                    rozwój muskulatury<br>
+                                    budowa siły<br>
+                                    ogólna poprawa sylwetki (korzystna zmiana składu ciała)<br>
+                                    nauka poprawnych wzorców ruchowych<br>
+                                    wzmocnienie całego aparatu ruchowego<br>
+                                    prewencja i powroty po urazach<br>
+                                    przygotowanie do sportów sezonowych<br>
                                     </p>  
                                 </div>
                                 <div class="col-12 text-center"> 
@@ -134,17 +197,72 @@
                                 </div>
                             </div>
                         </div>            
-                       <div class="col-sm-12 col-lg-4 d-flex" data-aos="zoom-in-up">
+                       <div class="col-sm-12 col-lg-4 d-flex big_bottom_box" data-aos="zoom-in-up">
                             <div class="oferta__box">
                                 <div>
                                     <h3 class="h3 h3_center">Diagnostyka </span></h3></div>
-                                <div>
-                                    <img src="images/galleries/oferta/3.jpg" class="oferta_image">
+                                <div class="oferta_image">
+                                    <img src="images/galleries/oferta/3.jpg" >
                                 </div>
                                 <div>
                                     <p class="oferta__text">
-                                        Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
-                                        Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!      Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
+                                    GymAware:
+                                    To mały, przenośny i precyzyjny liniowy przetwornik położenia, którego element w postaci pętli
+                                    przyczepia się do pasa, sztangi lub maszyn izolowanych w celu pomiaru m.in. mocy. System GymAware
+                                    służy m.in. do oceny wydajności treningu na siłowni.
+                                    Natychmiastowy podgląd wyników pozwala monitorować postępy, optymalizować obciążenia,
+                                    monitorować zmęczenie, przetrenowanie, kontrolować kilka parametrów jednocześnie, w tym:
+                                    przemieszczenie, prędkość, siłę, wykonywaną pracę i moc. Jedną z unikalnych cech GymAware jest
+                                    czujnik zmiany kąta, dzięki któremu urządzenie koryguje pomiar w ćwiczeniach zawierających
+                                    przemieszczenia w różnych osiach.<br><br>
+                                    Komputerowa Platforma Stabilometryczna i Dynamometryczna:
+                                    1. Skoki z miejsca w górę z przysiadu bez zamachu SJ (squat jump),
+                                    2. Skoki w górę z miejsca poprzedzone szybkim ugięciem nóg i zamachem - CMJ (counter movement
+                                    jump)
+                                    3. Skoki w górę po zeskoku z pewnej wysokości - DJ (drop jump).
+                                    4. Zeskok z lądowaniem DL (drop land).
+                                    Na wykresie możemy wyszczególnić następujące fazy wyskoku:
+                                    1) przygotowawcza (zamach)
+                                    - początek: moment, w którym OSC rozpoczyna ruch w dół (rozpoczęcie uginania w stawach
+                                    kolanowych – odciążenie na wykresie)
+                                    - koniec: OSC zatrzymuje się w ruchu w dół i znajduje się w najniższym położeniu (maksymalne ugięcie
+                                    w stawach kolanowych)
+                                    2) odbicie
+                                    - początek: OSC rozpoczyna ruch w górę, rozpoczęcie prostowania w stawach kolanowych
+                                    - koniec: moment utraty kontaktu z podłożem (Vmax)
+                                    3) lotu
+                                    - początek: utrata kontaktu z podłożem
+                                    - koniec: odzyskanie kontaktu z podłożem
+                                    4) lądowanie (amortyzacja)
+                                    - początek: odzyskanie kontaktu z podłożem
+                                    - koniec I: OSC znajduje się w najniższym położeniu, stawy kolanowe maksymalnie ugięte
+
+                                    - koniec II: powrót do pozycji wyjściowej
+                                    Dla wyskoku liczone są m.in.:
+                                    • Masa - średnia pierwsze 0.2s zaznaczonego testu
+                                    • Czas przygotowania
+                                    • Czas odbicia
+                                    • Czas lotu
+                                    • Czas lądowania
+                                    • Prędkość odbicia
+                                    • Minimalne położenie środka masy
+                                    • Odbicie położenie środka masy
+                                    • Maksymalne położenie środka masy
+                                    • Maksymalne przemieszczenie środka masy
+                                    • Względna wysokość wyskoku (ymax/h) [%]
+                                    • Praca (energii odbicia) E[J]
+                                    • Względna energii odbicia E/m[J/kg]
+                                    • Maksymalna moc odbicia Pmax [W]
+                                    • Względna moc maksymalna Pmax/m[W/kg]
+                                    • Średnia moc odbicia Pśr [W]
+                                    • Względna moc średnia Pśr/m[W/kg]
+                                    • Maksymalna siła reakcji [N]
+                                    • Maksymalna prędkość [m/s]
+
+                                    Sprzęt opisany powyżej pozwola nam na dokładną analizę i diagnozę praktycznie wszystkich
+                                    parametrów motorycznych. Dzięki konkretnym badaniom diagnostycznym jesteśmy w stanie określić
+                                    dokładny profil motoryczny zawodnika. Z kolei na podstawie uzyskanego profilu dobieramy odpowiednią
+                                    i precyzyjną ścieżkę rozwoju sportowca pod kątem przygotowania fizycznego/motorycznego.
                                     </p>  
                                 </div>
                                 <div class="col-12 text-center"> 
@@ -158,17 +276,21 @@
                     </div>
 
                         <div class="row oferta_bottom-line">
-                                <div class="col-sm-12 col-lg-4 d-flex justify-content-center" data-aos="zoom-in-up">
+                                <div class="col-sm-12 col-lg-4 d-flex justify-content-center big_bottom_box" data-aos="zoom-in-up">
                                     <div class="oferta__box">
                                     <div>
                                             <h3 class="h3">Periodyzacja <br>Programowanie</h3></div>
-                                        <div>
-                                            <img src="images/galleries/oferta/4.jpg" class="oferta_image">
+                                        <div class="oferta_image">
+                                            <img src="images/galleries/oferta/4.jpg" >
                                         </div>
                                         <div>
                                             <p class="oferta__text">
-                                                Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
-                                                Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!      Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
+                                            Programujemy profesjonalne plany treningowe na podstawie spotkania z podopiecznymi. Na początku
+                                            przeprowadzamy szczegółową rozmowę i wywiad, omawiamy cele oraz oczekiwania. Kolejnym etapem
+                                            są proste testy ruchowe, które dają szeroki obraz o stanie biomechanicznym konkretnej osoby.
+                                            Następnie analizujemy i diagnozujemy dany przypadek. W konsekwencji tych działań tworzymy
+                                            pełnowartościowy i indywidualny program treningowy. Na końcu przedkładamy podopiecznemu gotowy
+                                            program przeprowadzając go i omawiając kolejne etapy oraz pokazując poszczególne ćwiczenia.
                                             </p>  
                                         </div>
                                         <div class="col-12 text-center"> 
@@ -176,23 +298,21 @@
                                         </div>
                                     </div>
                                 </div>  
-                                <div class="col-sm-12 col-lg-4 d-flex justify-content-center" data-aos="zoom-in-up">
+                                <div class="col-sm-12 col-lg-4 d-flex justify-content-center big_bottom_box" data-aos="zoom-in-up">
                                     <div class="oferta__box">
                                         <div>
                                             <h3 class="h3 h3_center">Warsztaty </span></h3>
                                         </div>
-                                        <div>
-                                            <img src="images/galleries/oferta/5.jpg" class="oferta_image">
+                                        <div class="oferta_image">
+                                            <img src="images/galleries/oferta/5.jpg" >
                                         </div>
                                         <div>
-                                            <p class="oferta__text">
-                                                Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
-                                                Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!      Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals! 
+                                            <p class="oferta__text ">
+                                            Kolejny warsztaty juz wkrótce!
                                             </p>  
-                                        </div>
-                                        <div class="col-12 text-center"> 
                                             <button id="singlebutton" name="singlebutton" class="btn btn-primary">Next Step!</button> 
                                         </div>
+                                        
                             </div>
 </div>
 </div>
@@ -313,18 +433,16 @@
                                 <!--Buttons-->
                                     <div class="row text-center kontakt-dane">
                                         <div class="col-md-4">
-                                        <p>San Francisco, CA 94126</p>
-                                        <p>United States</p>
+                                        <p>Wrocław</p>
                                         </div>
 
                                         <div class="col-md-4">
                                         <p>+ 01 234 567 89</p>
-                                        <p>Mon - Fri, 8:00-22:00</p>
+                                        <p>Pon - Pt: 6:30-21:00</p>
                                         </div>
 
                                         <div class="col-md-4">
-                                        <p>info@gmail.com</p>
-                                        <p>sale@gmail.com</p>
+                                        <p>info@bteam.pl</p>
                                         </div>
                                     </div>
                                 </div>

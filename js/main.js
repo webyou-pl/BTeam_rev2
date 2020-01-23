@@ -3,7 +3,7 @@ jQuery(function ($) {
     var googlemap = new google.maps.Map(
         document.getElementById('googlemap'),
         {
-            center: new google.maps.LatLng(44.5403, -78.5463),
+            center: new google.maps.LatLng(51.1148936,16.9734688),
             zoom: 8,
             mapTypeId: google.maps.MapTypeId.ROADMAP
         }
