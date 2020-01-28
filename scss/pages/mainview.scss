@@ -9,17 +9,17 @@
         }
         .one{
             background-image:url("../images/backgrounds/main/1.jpg");
-            @media (min-width: 282px) and (max-width: 767.98px) {
+            @media(max-width: 575.98px) {
                 background-position-y: 0; 
                 background-position-x: 50%; 
             }
-            @media (min-width: 768px) and (max-width: 991.98px){
+            @media (min-width: 576px) and (max-width: 767.98px){
                 background-position-x: 40%; 
             }
-            @media (min-width: 992px) and (max-width: 1199.98px){
+            @media (min-width: 768px) and  (max-width: 1199.98px){
                 background-position-x: 40%; 
             }
-            @media (min-width: 1200px) { 
+            @media (min-width: 1200px)  { 
                 background-position-y: -15rem;
             }
         }
@@ -29,8 +29,12 @@
         }
         .three{
             background-image:url("../images/backgrounds/main/3.jpg");
-            @media (min-width: 282px) and (max-width: 576px) {
-               background-size: 200%;
+            @media (max-width: 575.98px) {
+                background-image:url("../images/backgrounds/main/33.jpg");
+                background-position:center;
+                // background-size:cover;
+                background-position-x: -13rem;
+
             }
         }
         .four{
@@ -45,18 +49,17 @@
         }
         .five{
             background-image:url("../images/backgrounds/main/5.jpg");
-            @media (min-width: 282px) and (max-width: 767.98px) {
-                // background-size:300%;
+            @media (max-width: 575.98px)  and (max-width: 767.98px) {
                 background-position-x: 55%; 
-                background-position-y: 0vh;
              }
-             @media (min-width: 768px) and (max-width: 1199.98px) {
-                background-size: cover;
-                background-position-y: 0vh;
+             @media (min-width: 576px) and (max-width: 767.98px){
                 background-position-x: 60%; 
              }
+             @media (min-width: 768px) and (max-width: 1199.98px) {
+                background-position-x: 65%; 
+            }
+         
              @media (min-width: 1200px) { 
-                background-position-y: -20vh;
             }
         }
         .six{
@@ -70,13 +73,12 @@
              @media (min-width: 768px) and (max-width: 1199.98px) {
                 background-position-y: 0rem;
              }
+             @media (min-width: 1200px) {     
+                background-position-y: 0rem;
+            }
 
         }
-        .mySlides{
-            @media (min-width: 282px) and (max-width: 768px) {
-            }
-        
-        }
+       
     }
 .main__content{
     position:absolute;
@@ -89,30 +91,36 @@
     word-spacing: 4px;
  
     p{
-        font-size: 3rem;
-        @media (min-width: 282px) and (max-width: 576px) {
-            
+        
+        @media (max-width: 575.98px) {
+            line-height: 1.2;
             font-size: 1rem !important;
         }
-        @media (min-width: 768px) and (max-width: 991.98px) {
+        @media (min-width: 576px) and (max-width: 767.98px) {
             font-size: 1.6rem !important;
             width: 180px;
          }
-        @media (min-width: 992px) and (max-width: 1199.98px){
+         @media (min-width: 768px) and (max-width: 991.98px){
             font-size: 1.8rem !important; 
             width: 350px;  
         }
-        @media (min-width: 1200px) { 
+        @media (min-width: 992px) and (max-width: 1199.98px) { 
             font-size: 2rem;
+            line-height: 1.1;
+
+        }
+        @media (min-width: 1200px) {     
+            font-size: 3rem;
+            line-height: 1.2;
         }
     }
-        @media (min-width: 282px) and (max-width: 768px) {
+        @media (max-width: 575.98px)  and  (min-width: 768px) {
             top:80%;
             width: 150px;
         }
-        @media (min-width: 992px) and (max-width: 1199.98px){
+        @media  (min-width: 992px) and (min-width: 1200px){
             top:80%;
-            
+            // font-size: 2rem;
         }
 
     

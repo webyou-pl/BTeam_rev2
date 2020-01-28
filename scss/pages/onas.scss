@@ -11,25 +11,28 @@
         @media (min-width: 1200px) {
             padding-top: $section-space-from-top;
         }
-    
    }
    .oNas_box{
-       
+        .oNas_box-main{
+            // max-height: 900px;
+            margin-bottom: 50px;
+            &:last-child{
+                margin-bottom: 150px;
+            }
+        }
+
         .oNas_img_hover{
             position: absolute;
-            background-color: red($color: #000000);
-            height: 700px;
             display: flex;
             flex-direction: column;
-            justify-content: space-between;
-            width: 100%;
+            left:0;
             padding:0 15px;
             z-index: 2;
-
+            height: 100%;
+            width: 100%;
             img{
-                max-height: 912.5px;
+                height: 100%;
                 object-fit: cover;
-                opacity: 1;
                 transition: opacity 0.5s ease-in-out;
                 cursor: pointer;
                 &:hover{
@@ -40,97 +43,62 @@
         }
         .hover_2{
             @media (min-width: 282px) and (max-width: 768px) {
-                margin-top: 20px;
+                // margin-top: 20px;
             }
             
         }
         .hover_1{
             @media (min-width: 282px) and (max-width: 768px) {
-                margin-top: 20px;
+                // margin-top: 20px;
             }
         }
-        .oNas_lukasz-box, .oNas_pawel-box{
-
-            max-height: 912.5px;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-        }
+ 
     
-        .oNas_lukasz-box {
-                width: 100%;
-                background-color: black;
-                color:white;
-                text-align: center;
-                margin-bottom: 150px;
-                @media (min-width: 282px) and (max-width: 768px) {
-                    margin-top: 20px;
-                }
-           
-                .oNas__top-text{
-                    margin-top: 20px;
-                    font-size:30px;
-                    text-transform: uppercase;
-                    font-family: $Anton;
-                    &:first-child{
-                        @media (min-width: 282px) and (max-width: 768px) {
-                            font-size:27px;
-                    }
-                    }
-                
-                }
-                p{
-                    padding:15px;
-                    
-                    @media (min-width: 282px) and (max-width: 768px) {
-                        // color:red;
-                    }
-                }
-                img{
-                    
-                    max-width: 650px;
-                    width: 100%;
-                    max-height: auto;
-                    -webkit-clip-path: polygon(50% 0%, 100% 10%, 100% 100%, 0 100%, 0 10%);
-                    clip-path: polygon(50% 0%, 100% 10%, 100% 100%, 0 100%, 0 10%);
-                    filter: grayscale(100%);
-                }
-        }
         .oNas_pawel-box {
+            display: flex;
+            
+            flex-direction: column;
             width: 100%;
-            // height: 700px;
             background-color: black;
             color:white;
             text-align: center;
-           
-            
+                background:red;
+                p{
+                    padding:15px;
+                }
+                .oNas__bottom-text{
+                    font-size:30px;
+                    text-transform: uppercase;
+                    font-family: $Anton;
+                    
+                    
                         @media (min-width: 282px) and (max-width: 768px) {
-                            margin-top: 20px;
+                            font-size:27px;
+                    }
+                    
+                }
+                .oNas__bottom-img{
+                    width: calc(100% + 0.5px);
+                        object-fit: cover;
+                        -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+                        clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
+                        filter: grayscale(100%);
+                     
+                        @media   (min-width: 2000px) {     
+                            width:100%;
                         }
-            p{
-                padding:15px;
-            }
-            .oNas__bottom-text{
-                margin-top: 20px;
-                font-size:30px;
-                text-transform: uppercase;
-                font-family: $Anton;
-                
-                
-                    @media (min-width: 282px) and (max-width: 768px) {
-                        font-size:27px;
-                }
-                
-            }
-                img {
-                    max-width: 650px;
-                    width: 100%;
-                    max-height: auto;
-                    -webkit-clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
-                    clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
-                    filter: grayscale(100%);
-                }
+                    
+
+                    }
+            
+                        @media (min-width: 282px) and  (max-width: 991.98px) {
+                            margin-top: 10px;
+                            margin-bottom: 20px;
+                        }
+           
         }
+       
+  
    }    
 }
 

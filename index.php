@@ -20,22 +20,21 @@
             <div class="main_photo" id="slider">
                 <ul>
                     <li  class="one show mySlides" ></li>
-                    <!-- <li class="two show mySlides" ></li>
+                    <li class="two show mySlides" ></li>
                     <li class="three show mySlides" ></li>
                     <li class="four show mySlides" ></li>
                     <li class="five show mySlides" ></li>
-                    <li class="six show mySlides" ></li> -->
-                    
-                </ul>
+                    <li class="six show mySlides" ></li>
+               
 
       
              </div>  
      
-             <div class="col-8 main__content">
-                 <!-- <div class="main__title"><img  src="../BTeam_rev2/images/galleries/logo/bteam.svg" alt=""><img></div> -->
-                    
-                    <div class="main__text"><p >Siła rodzi się z kolan.</p></div>
+            <div class="col-8 main__content">
+                <div class="main__text">
+                    <p >Siła rodzi się z kolan.</p>
                 </div>
+            </div>
 
          
     
@@ -53,68 +52,43 @@
         <div class="container">
             <div class="row oNas_box">
                 <div class="col-lg-12">
-                <div class="row">
-                    <div class="col-sm-12 col-lg-6 d-flex justify-content-center">
-
-                         <div class="oNas_img_hover hover_1">
-                             <img src="..//BTeam_rev2/images/galleries/oNas/11.jpg">   
-                        </div>
-
-                        <div class="oNas_pawel-box" id="pawel" data-swap="false">
-                            <div class="oNas_bottom-img-box">
-                                <img src="images/galleries/oNas/1.jpg" class="oNas__bottom-img">
-                                <p class="oNas__bottom-text">Paweł Bochenkiewicz</p>
-                                <p>
-                                Trener z powołania. Trener przygotowania motorycznego, trener personalny, trener II klasy koszykówki i
-                                pasjonata treningu funkcjonalnego i oporowego.<br><br>
-                                Wychowanek WKS Śląsk Wrocław w koszykówce. Medalista Mistrzostw Polski, reprezentant Polski na
-                                Mistrzostwach Europy. Współautor trzech awansów z WKS Śląsk Wrocław od najniższej klasy
-                                rozgrywkowej w Polsce do najwyższej (ekstraklasy). Wielokrotny triumfator Konkursu Wsadów.
-                                Absolwent Akademii Wychowania Fizycznego we Wrocławiu (trener przygotowania motorycznego).
-                                Uczestnik wielu prestiżowych szkoleń z zakresu przygotowania motorycznego i treningu funkcjonalnego
-                                (m.in. NCSC/ EXOS/ FMS).
-                                <br><br>
-                                Ze sportem związany od ponad 20 lat. Zajmuje się przygotowaniem motorycznym zarówno u amatorów
-                                jak i profesjonalnych zawodników różnych dyscyplin sportowych (koszykówka, piłka ręczna, akrobatyka,
-                                sztuki walki itd..). Trener przygotowania fizycznego młodzieżowej kadry polski w siatkówce mężczyzn.
-                                Trener komendy miejskiej państwowej straży pożarnej we Wrocławiu w 2017 roku oraz wiele innych.
-                                Jako trener personalny zawsze zmierza do celu z powodzeniem wraz ze swoimi podopiecznymi. Członek
-                                Polskiego Związku Trenerów Personalnych. Perfekcjonista i Fanatyk.
-                                    </p>
+                    <div class="row">
+                        <div class="col-sm-12 col-lg-6 oNas_box-main">
+                            <div class="oNas_img_hover hover_1">
+                                <!-- <img src="..//BTeam_rev2/images/galleries/oNas/11.jpg">    -->
                             </div> 
-                        </div>  
-                    </div>  
-                    <div class="col-sm-12 col-lg-6 d-flex justify-content-center">
-
-                        <div class="oNas_img_hover hover_2">
-                             <img src="..//BTeam_rev2/images/galleries/oNas/22.jpg">   
+                            <div class="oNas_pawel-box" id="pawel" data-swap="false">
+                                <div>
+                                    <img src="images/galleries/oNas/1.jpg" class="oNas__bottom-img">
+                                    <p class="oNas__bottom-text">Paweł Bochenkiewicz</p>
+                                    <p>Trener z powołania. Trener przygotowania motorycznego, trener personalny, trener II klasy koszyk&oacute;wki i pasjonata treningu funkcjonalnego i oporowego.</p>
+                                    <p>Wychowanek WKS Śląsk Wrocław w koszyk&oacute;wce. Medalista Mistrzostw Polski, reprezentant Polski na Mistrzostwach Europy. Wsp&oacute;łautor trzech awans&oacute;w z WKS Śląsk Wrocław od najniższej klasy rozgrywkowej w Polsce do najwyższej (ekstraklasy). Wielokrotny triumfator Konkursu Wsad&oacute;w. Absolwent Akademii Wychowania Fizycznego we Wrocławiu (trener przygotowania motorycznego).&nbsp; Uczestnik wielu prestiżowych szkoleń z zakresu przygotowania motorycznego i treningu funkcjonalnego (m.in. NCSC/ EXOS/ FMS).</p>
+                                    <p>Ze sportem związany od ponad 20 lat. Zajmuje się przygotowaniem motorycznym zar&oacute;wno u amator&oacute;w jak i profesjonalnych zawodnik&oacute;w r&oacute;żnych dyscyplin sportowych (koszyk&oacute;wka, piłka ręczna, akrobatyka, sztuki walki itd..). Trener przygotowania fizycznego młodzieżowej kadry polski w siatk&oacute;wce mężczyzn. Trener komendy miejskiej państwowej straży pożarnej we Wrocławiu w 2017 roku oraz wiele innych.</p>
+                                    <p>Jako trener personalny zawsze zmierza do celu z powodzeniem wraz ze swoimi podopiecznymi. Członek Polskiego Związku Trener&oacute;w Personalnych. Perfekcjonista i Fanatyk.</p>
+                                </div>  
+                            </div> 
                         </div>
-                        
-                        <div class="oNas_lukasz-box" id="lukasz" data-swap="true">
-                            <p class="oNas__top-text">Łukasz Bochenkiewicz</p>
-                            <p>
-                            Trener z powołania. Trener przygotowania motorycznego, trener personalny, pasjonata treningu
-                            funkcjonalnego i sztuk walki.<br><br>
-                            Wychowanek WKS Śląsk Wrocław w koszykówce. Czterokrotny medalista Mistrzostw Polski w tym dwa
-                            razy Mistrz Polski i najlepszy zawodnik MVP. Reprezentant kraju na Mistrzostwach Europy i Świata.
-                            Absowent Akademii Wychowania Fizycznego we Wrocławiu. Uczestnik wielu prestiżowych szkoleń z
-                            zakresu przygotowania motorycznego i treningu funkcjonalnego (m.in. NCSC/ EXOS/ FMS).
-                            Ze sportem związany od ponad 20 lat. Trenuje zawodników sportów zespołowych i indywidualnych pod
-                            kątem przygotowania motorycznego. Trener Mistrzów Świata, Europy i Polski zawodników różnych sztuk
-                            walki (K1, Karate, MMA itp..). Trener przygotowania fizycznego koszykarskiego Górnika Wałbrzych w
-                            sezonie 2016/17. Trener młodzieżowej reprezentacji polski w siatkówce kobiet. Przygotowuje również
-                            służby mundurowe do selekcji na komandosów oraz wiele innych.<br><br>
-                            Jako trener personalny pomaga swoim podopiecznym osiągnąć wyznaczony cel ze znakomitą
-                            skutecznością. Członek Polskiego Związku Trenerów Personalnych. Motywator i profesjonalista.
-                                </p>
-                            <img src="images/galleries/oNas/2.jpg" class="oNas__top-img">
-                        </div>           
-                    </div>
-                </div>   
+                         <div class="col-sm-12 col-lg-6 oNas_box-main" >
+                            <div class="oNas_img_hover hover_2">
+                                <!-- <img src="..//BTeam_rev2/images/galleries/oNas/22.jpg">    -->
+                            </div>
+                            <div class="oNas_pawel-box" id="lukasz" data-swap="false">
+                                <img src="images/galleries/oNas/2.jpg" class="oNas__bottom-img">
+                                <p class="oNas__bottom-text">Łukasz Bochenkiewicz</p>
+                                <p>Trener z powołania. Trener przygotowania motorycznego, trener personalny, pasjonata treningu funkcjonalnego i sztuk walki.</p>
+                                <p>Wychowanek WKS Śląsk Wrocław w koszyk&oacute;wce. Czterokrotny medalista Mistrzostw Polski w tym dwa razy Mistrz Polski i najlepszy zawodnik MVP. Reprezentant kraju na Mistrzostwach Europy i Świata. Absowent Akademii Wychowania Fizycznego we Wrocławiu. Uczestnik wielu prestiżowych szkoleń z zakresu przygotowania motorycznego i treningu funkcjonalnego (m.in. NCSC/ EXOS/ FMS).</p>
+                                <p>Ze sportem związany od ponad 20 lat. Trenuje zawodnik&oacute;w sport&oacute;w zespołowych i indywidualnych pod kątem przygotowania motorycznego. Trener Mistrz&oacute;w Świata, Europy i Polski zawodnik&oacute;w r&oacute;żnych sztuk walki (K1, Karate, MMA itp. Trener przygotowania fizycznego koszykarskiego G&oacute;rnika Wałbrzych w sezonie 2016/17. Trener młodzieżowej reprezentacji polski w siatk&oacute;wce kobiet. Przygotowuje r&oacute;wnież służby mundurowe do selekcji na komandos&oacute;w oraz wiele innych.</p>
+                                <p>Jako trener personalny pomaga swoim podopiecznym osiągnąć wyznaczony cel ze znakomitą skutecznością. Członek Polskiego Związku Trener&oacute;w Personalnych. Motywator i profesjonalista.</p>
+                            </div>  
+                        </div>
+                    </div>   
                 </div>
             </div>
     </section>
   
+
+
+
     <div class="razor" id="razor">
         <div class="razor_shadow"></div>
     </div>
@@ -127,11 +101,12 @@
         
 
             <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12 col-lg-4 d-flex big_bottom_box" data-aos="zoom-in-up">
+                    <div class="row" style="justify-content: center;">
+                        <div class="col-lg-6 col-xl-4 d-flex big_bottom_box" data-aos="zoom-in-up">
                             <div class="oferta__box">
                                 <div>
-                                    <h3 class="h3">Przygotowanie Motoryczne</h3></div>
+                                    <h3 class="h3">Przygotowanie Motoryczne</h3>
+                                </div>
                                 <div class="oferta_image"> 
                                     <img src="images/galleries/oferta/1.jpg" class="  oferta_image-gray">
                                 </div>
@@ -143,24 +118,39 @@
                                     EXOS/ FMS/ MCS itp..), dostęp do najnowszych badań i publikacji oraz wieloletnie doświadczenie
                                     zawodnicze i trenerskie w sportach zespołowych i indywidualnych potrafimy doskonale zrozumieć i
                                     zintegrować się ze swoimi podopiecznymi. Te wszystkie składowe pozwalają nam na dokładną analizę
-                                    potrzeb i wyznaczenie ścieżki działania. Wiemy jak ważne jest kształtowanie wszystkich cech
-                                    motorycznych (tj. SIŁA, WYTRZYMAŁOŚĆ, SZYBKOŚĆ, ZWINNOŚĆ, SKOCZNOŚĆ, ZRĘCZNOŚĆ,
-                                    GIBKOŚĆ) niezależnie od rodzaju dyscypliny sportowej, tak aby maksymalnie zminimalizować ryzyko
-                                    kontuzji. Dokładamy wszelkich starań, swoją pasję, doświadczenie i zaangażowanie w pracę ze
-                                    sportowcami. Nie jesteśmy teoretykami, lecz przede wszystkim praktykami, którzy cały czas się rozwijają
-                                    i pogłębiają swoją wiedzę, jednocześnie wykorzystując ją bezpośrednio w swoim treningu jak i naszych
-                                    zawodników. Podczas lat związanych ze sportem zdążyliśmy poznać wszystkie odmiany wysiłków
-                                    fizycznych o różnej intensywności i przetestować je na sobie. Nieodzownymi elementami każdego
-                                    sportowca podczas treningu i startów jest krew, pot i łzy, aby miały one sens i przełożenie na wyniki
-                                    sportowe trzeba wiedzieć jak działać. Z nami to osiągniesz.
+                                    potrzeb i wyznaczenie ścieżki działania.
                                     </p>  
                                 </div>
-                                <div class="col-12 text-center"> 
-                                     <button id="singlebutton" name="singlebutton" class="btn btn-primary">Next Step!</button> 
-                                </div>
+
+                                <div class="oferta_button-center">
+                                    <div class="col-md-12 oferta_button"> 
+                                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#Przygotowanie_Motoryczne">
+                                        Dowiedz się więcej
+                                        </button>
+                                    </div>
+                                </div>  
+                            </div>
+                        </div>  
+                        <div class="modal fade" id="Przygotowanie_Motoryczne" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLongTitle">Przygotowanie Motoryczne</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <p>Przygotowanie motoryczne/fizyczne zawodnika jest kluczowym elementem we wsp&oacute;łczesnym sporcie na każdym jego etapie i poziomie. Gł&oacute;wnym elementem naszej pracy jest ocena fundamentalnych wzorc&oacute;w ruchowych jako podstawy do dalszego rozwoju sportowca. W oparciu o światowe standardy (NSCA/ EXOS/ FMS/ MCS itp..), dostęp do najnowszych badań i publikacji oraz wieloletnie doświadczenie zawodnicze i trenerskie w sportach zespołowych i indywidualnych potrafimy doskonale zrozumieć i zintegrować się ze swoimi podopiecznymi. Te wszystkie składowe pozwalają nam na dokładną analizę potrzeb i wyznaczenie ścieżki działania. Wiemy jak ważne jest kształtowanie wszystkich cech motorycznych (tj. SIŁA, WYTRZYMAŁOŚĆ, SZYBKOŚĆ, ZWINNOŚĆ, SKOCZNOŚĆ, ZRĘCZNOŚĆ, GIBKOŚĆ) niezależnie od rodzaju dyscypliny sportowej, tak aby maksymalnie zminimalizować ryzyko kontuzji. Dokładamy wszelkich starań, swoją pasję, doświadczenie i zaangażowanie w pracę ze sportowcami. Nie jesteśmy teoretykami, lecz przede wszystkim praktykami, kt&oacute;rzy cały czas się rozwijają i pogłębiają swoją wiedzę, jednocześnie wykorzystując ją bezpośrednio w swoim treningu jak i naszych zawodnik&oacute;w. Podczas lat związanych ze sportem zdążyliśmy poznać wszystkie odmiany wysiłk&oacute;w fizycznych o r&oacute;żnej intensywności i przetestować je na sobie. Nieodzownymi elementami każdego sportowca podczas treningu i start&oacute;w jest krew, pot i łzy, aby miały one sens i przełożenie na wyniki sportowe trzeba wiedzieć jak działać. Z nami to osiągniesz.</p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Zamknij</button>
+                                <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+                            </div>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-lg-4 d-flex big_bottom_box" data-aos="zoom-in-up">
+                        </div>
+                        <div class="col-lg-6 col-xl-4 d-flex big_bottom_box" data-aos="zoom-in-up">
                             <div class="oferta__box">
                                 <div>
                                     <h3 class="h3">Trening <br>Personalny</h3></div>
@@ -169,35 +159,52 @@
                                 </div>
                                 <div>
                                     <p class="oferta__text">
-                                    Związani z treningiem i zdrowym stylem życia jesteśmy od najmłodszych lat. Jako profesjonalni
-                                    sportowcy wiemy jak istotne jest to w każdej dyscyplinie sportowej, ale również w życiu codziennym.
-                                    Każdy człowiek wykonuję fundamentalne czynności związane z ruchem, takie jak: chodzenie, bieganie,
-                                    siadanie, podnoszenie różnych przedmiotów, skakanie i wiele innych. Wykonując te wszystkie zadania
-                                    życia codziennego przez wiele lat w nieodpowiedni sposób można doprowadzić do trwałych
-                                    uszczerbków całego układu ruchu. Nasz organizm jest bardzo tolerancyjny do czasu... Zatem właściwy i
-                                    odpowiedni trening pod czujnym okiem profesjonalistów jest niezbędny, aby zminimalizować ryzyko
-                                    różnego rodzaju zwichnięć, złamań, skręceń, bólów i przeciążeń. Również po to, aby żyło nam się łatwiej
-                                    i przyjemniej, a jakość życia wzrosła, bez niepotrzebnych nikomu kontuzji, natomiast wyżej wymienione
-                                    czynności nie sprawiały nam problemu.<br><br>
-                                    Ponad to cele jakie możesz z nami skutecznie realizować w świetnej atmosferze to między innymi:<br>
-
-                                    redukcja tkanki tłuszczowej<br>
-                                    poprawa kondycji<br>
-                                    rozwój muskulatury<br>
-                                    budowa siły<br>
-                                    ogólna poprawa sylwetki (korzystna zmiana składu ciała)<br>
-                                    nauka poprawnych wzorców ruchowych<br>
-                                    wzmocnienie całego aparatu ruchowego<br>
-                                    prewencja i powroty po urazach<br>
-                                    przygotowanie do sportów sezonowych<br>
+                                    Związani z treningiem i zdrowym stylem życia jesteśmy od najmłodszych lat. Jako profesjonalni sportowcy wiemy jak istotne jest to w każdej dyscyplinie sportowej, ale r&oacute;wnież w życiu codziennym. Każdy człowiek wykonuję fundamentalne czynności związane z ruchem, takie jak: chodzenie, bieganie, siadanie, podnoszenie r&oacute;żnych przedmiot&oacute;w, skakanie i wiele innych. Wykonując te wszystkie zadania życia codziennego przez wiele lat w nieodpowiedni spos&oacute;b można doprowadzić do trwałych uszczerbk&oacute;w całego układu ruchu. Nasz organizm jest bardzo tolerancyjny do czasu&hellip;
                                     </p>  
                                 </div>
-                                <div class="col-12 text-center"> 
-                                     <button id="singlebutton" name="singlebutton" class="btn btn-primary">Next Step!</button> 
+                                <div class="oferta_button-center">
+
+                                    <div class="col-12 oferta_button"> 
+                                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#Trening_Personalny">
+                                         Dowiedz się więcej
+                                        </button>
+                                    </div>
                                 </div>
                             </div>
-                        </div>            
-                       <div class="col-sm-12 col-lg-4 d-flex big_bottom_box" data-aos="zoom-in-up">
+                        </div>  
+                        <div class="modal fade" id="Trening_Personalny" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="Trening_Personalny">Trening Personalny</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <p>Właściwy i odpowiedni trening pod czujnym okiem profesjonalist&oacute;w jest niezbędny, aby zminimalizować ryzyko r&oacute;żnego rodzaju zwichnięć, złamań, skręceń, b&oacute;l&oacute;w i przeciążeń. R&oacute;wnież po to, aby żyło nam się łatwiej i przyjemniej, a jakość życia wzrosła, bez niepotrzebnych nikomu kontuzji, natomiast wyżej wymienione czynności nie sprawiały nam problemu.</p>
+                                <p>Ponad to cele jakie możesz z nami skutecznie realizować w świetnej atmosferze to między innymi:</p>
+                                <ul>
+                                    <li>redukcja tkanki tłuszczowej</li>
+                                    <li>poprawa kondycji</li>
+                                    <li>rozw&oacute;j muskulatury</li>
+                                    <li>budowa siły</li>
+                                    <li>og&oacute;lna poprawa sylwetki (korzystna zmiana składu ciała)</li>
+                                    <li>nauka poprawnych wzorc&oacute;w ruchowych</li>
+                                    <li>wzmocnienie całego aparatu ruchowego</li>
+                                    <li>prewencja i powroty po urazach</li>
+                                    <li>przygotowanie do sport&oacute;w sezonowych</li>
+                                </ul>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Zamknij</button>
+                                <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+  
+                       <div class="col-lg-6 col-xl-4 d-flex big_bottom_box" data-aos="zoom-in-up">
                             <div class="oferta__box">
                                 <div>
                                     <h3 class="h3 h3_center">Diagnostyka </span></h3></div>
@@ -206,118 +213,151 @@
                                 </div>
                                 <div>
                                     <p class="oferta__text">
-                                    GymAware:
-                                    To mały, przenośny i precyzyjny liniowy przetwornik położenia, którego element w postaci pętli
-                                    przyczepia się do pasa, sztangi lub maszyn izolowanych w celu pomiaru m.in. mocy. System GymAware
-                                    służy m.in. do oceny wydajności treningu na siłowni.
-                                    Natychmiastowy podgląd wyników pozwala monitorować postępy, optymalizować obciążenia,
-                                    monitorować zmęczenie, przetrenowanie, kontrolować kilka parametrów jednocześnie, w tym:
-                                    przemieszczenie, prędkość, siłę, wykonywaną pracę i moc. Jedną z unikalnych cech GymAware jest
-                                    czujnik zmiany kąta, dzięki któremu urządzenie koryguje pomiar w ćwiczeniach zawierających
-                                    przemieszczenia w różnych osiach.<br><br>
-                                    Komputerowa Platforma Stabilometryczna i Dynamometryczna:
-                                    1. Skoki z miejsca w górę z przysiadu bez zamachu SJ (squat jump),
-                                    2. Skoki w górę z miejsca poprzedzone szybkim ugięciem nóg i zamachem - CMJ (counter movement
-                                    jump)
-                                    3. Skoki w górę po zeskoku z pewnej wysokości - DJ (drop jump).
-                                    4. Zeskok z lądowaniem DL (drop land).
-                                    Na wykresie możemy wyszczególnić następujące fazy wyskoku:
-                                    1) przygotowawcza (zamach)
-                                    - początek: moment, w którym OSC rozpoczyna ruch w dół (rozpoczęcie uginania w stawach
-                                    kolanowych – odciążenie na wykresie)
-                                    - koniec: OSC zatrzymuje się w ruchu w dół i znajduje się w najniższym położeniu (maksymalne ugięcie
-                                    w stawach kolanowych)
-                                    2) odbicie
-                                    - początek: OSC rozpoczyna ruch w górę, rozpoczęcie prostowania w stawach kolanowych
-                                    - koniec: moment utraty kontaktu z podłożem (Vmax)
-                                    3) lotu
-                                    - początek: utrata kontaktu z podłożem
-                                    - koniec: odzyskanie kontaktu z podłożem
-                                    4) lądowanie (amortyzacja)
-                                    - początek: odzyskanie kontaktu z podłożem
-                                    - koniec I: OSC znajduje się w najniższym położeniu, stawy kolanowe maksymalnie ugięte
-
-                                    - koniec II: powrót do pozycji wyjściowej
-                                    Dla wyskoku liczone są m.in.:
-                                    • Masa - średnia pierwsze 0.2s zaznaczonego testu
-                                    • Czas przygotowania
-                                    • Czas odbicia
-                                    • Czas lotu
-                                    • Czas lądowania
-                                    • Prędkość odbicia
-                                    • Minimalne położenie środka masy
-                                    • Odbicie położenie środka masy
-                                    • Maksymalne położenie środka masy
-                                    • Maksymalne przemieszczenie środka masy
-                                    • Względna wysokość wyskoku (ymax/h) [%]
-                                    • Praca (energii odbicia) E[J]
-                                    • Względna energii odbicia E/m[J/kg]
-                                    • Maksymalna moc odbicia Pmax [W]
-                                    • Względna moc maksymalna Pmax/m[W/kg]
-                                    • Średnia moc odbicia Pśr [W]
-                                    • Względna moc średnia Pśr/m[W/kg]
-                                    • Maksymalna siła reakcji [N]
-                                    • Maksymalna prędkość [m/s]
-
-                                    Sprzęt opisany powyżej pozwola nam na dokładną analizę i diagnozę praktycznie wszystkich
+                                    Sprzęt z którego kożystamypozwola nam na dokładną analizę i diagnozę praktycznie wszystkich
                                     parametrów motorycznych. Dzięki konkretnym badaniom diagnostycznym jesteśmy w stanie określić
                                     dokładny profil motoryczny zawodnika. Z kolei na podstawie uzyskanego profilu dobieramy odpowiednią
-                                    i precyzyjną ścieżkę rozwoju sportowca pod kątem przygotowania fizycznego/motorycznego.
+                                    i precyzyjną ścieżkę rozwoju sportowca pod kątem przygotowania fizycznego/motorycznego. 
                                     </p>  
                                 </div>
-                                <div class="col-12 text-center"> 
-                                     <button id="singlebutton" name="singlebutton" class="btn btn-primary">Next Step!</button> 
+
+                                <div class="oferta_button-center">
+                                    <div class="col-12 oferta_button"> 
+                                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#Diagnostyka">Dowiedz się więcej</button>
+                                    </div>
                                 </div>
                             </div>
                         </div> 
          
 
-                           
+
+
+                        <div class="modal fade" id="Diagnostyka" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="Diagnostyka">Diagnostyka</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <p>
+                                <p><u>GymAware:</u></p>
+                                <p>&nbsp;To mały, przenośny i precyzyjny liniowy przetwornik położenia, kt&oacute;rego element w postaci pętli przyczepia się do pasa, sztangi lub maszyn izolowanych w celu pomiaru m.in. mocy. System GymAware służy m.in. do oceny wydajności treningu na siłowni.</p>
+                                <p>Natychmiastowy podgląd wynik&oacute;w pozwala monitorować postępy, optymalizować obciążenia, monitorować zmęczenie, przetrenowanie, kontrolować kilka parametr&oacute;w jednocześnie, w tym: przemieszczenie, prędkość, siłę, wykonywaną pracę i moc. Jedną z unikalnych cech GymAware jest czujnik zmiany kąta, dzięki kt&oacute;remu urządzenie koryguje pomiar w ćwiczeniach zawierających przemieszczenia w r&oacute;żnych osiach.</p>
+                                <p>Badane parametry:</p>
+                                <p>- Moc (W) - szczytowa, średnia</p>
+                                <p>- Szybkość (m/s) - szczytowa, średnia</p>
+                                <p>- Siła (N) - szczytowa, średnia</p>
+                                <p>- Praca (J)</p>
+                                <p>- Czas powt&oacute;rzenia (s)</p>
+                                <p>- Wysokość (m)</p>
+                                <p>- Głębokość (m)</p>
+                                <p>&nbsp;</p>
+                                <p><u>Komputerowa Platforma Stabilometryczna i Dynamometryczna:</u></p>
+                                <ol>
+                                    <li>Skoki z miejsca w g&oacute;rę z przysiadu bez zamachu SJ (squat jump),</li>
+                                    <li>Skoki w g&oacute;rę z miejsca poprzedzone szybkim ugięciem n&oacute;g i zamachem - CMJ (counter movement jump)</li>
+                                    <li>Skoki w g&oacute;rę po zeskoku z pewnej wysokości - DJ (drop jump).</li>
+                                    <li>Zeskok z lądowaniem DL (drop land).</li>
+                                </ol>
+                                <p>Na wykresie możemy wyszczeg&oacute;lnić następujące fazy wyskoku:</p>
+                                <p>1) przygotowawcza (zamach)&nbsp;</p>
+                                <p>- początek: moment, w kt&oacute;rym OSC rozpoczyna ruch w d&oacute;ł (rozpoczęcie uginania&nbsp; w stawach kolanowych &ndash; odciążenie na wykresie)</p>
+                                <p>- koniec: OSC zatrzymuje się w ruchu w d&oacute;ł i znajduje się w najniższym położeniu (maksymalne ugięcie w stawach kolanowych)</p>
+                                <p>2) odbicie</p>
+                                <p>- początek: OSC rozpoczyna ruch w g&oacute;rę, rozpoczęcie prostowania w stawach kolanowych</p>
+                                <p>- koniec: moment utraty kontaktu z podłożem (Vmax)</p>
+                                <p>3) lotu</p>
+                                <p>- początek: utrata kontaktu z podłożem</p>
+                                <p>- koniec: odzyskanie kontaktu z podłożem</p>
+                                <p>4) lądowanie (amortyzacja)</p>
+                                <p>- początek: odzyskanie kontaktu z podłożem</p>
+                                <p>- koniec I: OSC znajduje się w najniższym położeniu, stawy kolanowe maksymalnie ugięte</p>
+                                <p>- koniec II: powr&oacute;t do pozycji wyjściowej</p>
+                                <p>Dla wyskoku liczone są m.in.:</p>
+                                <ul>
+                                    <li>Masa - średnia pierwsze 0.2s zaznaczonego testu</li>
+                                    <li>Czas przygotowania</li>
+                                    <li>Czas odbicia</li>
+                                    <li>Czas lotu</li>
+                                    <li>Czas lądowania</li>
+                                    <li>Prędkość odbicia</li>
+                                    <li>Minimalne położenie środka masy</li>
+                                    <li>Odbicie położenie środka masy</li>
+                                    <li>Maksymalne położenie środka masy</li>
+                                    <li>Maksymalne przemieszczenie środka masy</li>
+                                    <li>Względna wysokość wyskoku (ymax/h) [%]</li>
+                                    <li>Praca (energii odbicia) E[J]</li>
+                                    <li>Względna energii odbicia E/m[J/kg]</li>
+                                    <li>Maksymalna moc odbicia Pmax [W]</li>
+                                    <li>Względna moc maksymalna Pmax/m[W/kg]</li>
+                                    <li>Średnia moc odbicia Pśr [W]</li>
+                                    <li>Względna moc średnia Pśr/m[W/kg]</li>
+                                    <li>Maksymalna siła reakcji [N]</li>
+                                    <li>Maksymalna prędkość [m/s]</li>
+                                </ul>
+                                </p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Zamknij</button>
+                                <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+                            </div>
+                            </div>
+                        </div>
+                        </div>
                     </div>
 
+
+                    
                         <div class="row oferta_bottom-line">
-                                <div class="col-sm-12 col-lg-4 d-flex justify-content-center big_bottom_box" data-aos="zoom-in-up">
-                                    <div class="oferta__box">
-                                    <div>
-                                            <h3 class="h3">Periodyzacja <br>Programowanie</h3></div>
-                                        <div class="oferta_image">
-                                            <img src="images/galleries/oferta/4.jpg" >
-                                        </div>
-                                        <div>
-                                            <p class="oferta__text">
-                                            Programujemy profesjonalne plany treningowe na podstawie spotkania z podopiecznymi. Na początku
-                                            przeprowadzamy szczegółową rozmowę i wywiad, omawiamy cele oraz oczekiwania. Kolejnym etapem
-                                            są proste testy ruchowe, które dają szeroki obraz o stanie biomechanicznym konkretnej osoby.
-                                            Następnie analizujemy i diagnozujemy dany przypadek. W konsekwencji tych działań tworzymy
-                                            pełnowartościowy i indywidualny program treningowy. Na końcu przedkładamy podopiecznemu gotowy
-                                            program przeprowadzając go i omawiając kolejne etapy oraz pokazując poszczególne ćwiczenia.
-                                            </p>  
-                                        </div>
-                                        <div class="col-12 text-center"> 
-                                            <button id="singlebutton" name="singlebutton" class="btn btn-primary">Next Step!</button> 
-                                        </div>
+                            <div class="col-lg-6 col-xl-4 d-flex justify-content-center big_bottom_box" data-aos="zoom-in-up">
+                                <div class="oferta__box">
+                                <div>
+                                        <h3 class="h3">Periodyzacja <br>Programowanie</h3></div>
+                                    <div class="oferta_image">
+                                        <img src="images/galleries/oferta/4.jpg" >
                                     </div>
-                                </div>  
-                                <div class="col-sm-12 col-lg-4 d-flex justify-content-center big_bottom_box" data-aos="zoom-in-up">
-                                    <div class="oferta__box">
-                                        <div>
-                                            <h3 class="h3 h3_center">Warsztaty </span></h3>
-                                        </div>
-                                        <div class="oferta_image">
-                                            <img src="images/galleries/oferta/5.jpg" >
-                                        </div>
-                                        <div>
-                                            <p class="oferta__text ">
-                                            Kolejny warsztaty juz wkrótce!
-                                            </p>  
-                                            <button id="singlebutton" name="singlebutton" class="btn btn-primary">Next Step!</button> 
-                                        </div>
-                                        
+                                    <div>
+                                        <p class="oferta__text">
+                                        Programujemy profesjonalne plany treningowe na podstawie spotkania z podopiecznymi. Na początku
+                                        przeprowadzamy szczegółową rozmowę i wywiad, omawiamy cele oraz oczekiwania. Kolejnym etapem
+                                        są proste testy ruchowe, które dają szeroki obraz o stanie biomechanicznym konkretnej osoby.
+                                        Następnie analizujemy i diagnozujemy dany przypadek. W konsekwencji tych działań tworzymy
+                                        pełnowartościowy i indywidualny program treningowy. Na końcu przedkładamy podopiecznemu gotowy
+                                        program przeprowadzając go i omawiając kolejne etapy oraz pokazując poszczególne ćwiczenia.
+                                        </p>  
+                                    </div>
+                                    <!-- <div class="col-12 oferta_button"> 
+                                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#Diagnostyka">Dowiedz się więcej</button>
+                                    </div> -->
+
+                                    
+                                </div>
+                            </div>  
+                            <div class="col-lg-6 col-xl-4 d-flex justify-content-center big_bottom_box" data-aos="zoom-in-up">
+                                <div class="oferta__box">
+                                    <div>
+                                        <h3 class="h3 h3_center">Warsztaty </span></h3>
+                                    </div>
+                                    <div class="oferta_image">
+                                        <img src="images/galleries/oferta/5.jpg" >
+                                    </div>
+                                    <div>
+                                        <p class="oferta__text oferta__text-szkolenia">
+                                        Kolejne warsztaty już wkrótce!
+                                        </p>  
+                                    </div>
+                                </div>
                             </div>
-</div>
-</div>
-             </div>
-</div>
+                        </div>
+
+
+
+
+
+                    </div>
+                </div>
     </section>
 </div>
 
@@ -464,7 +504,7 @@
                 <h2 class="h2"> Partnerzy </h2>
             <div>
                                 
-            <div class="row test">
+            <div class="row partnerzy-center">
                 <div class="partners-images col-12 col-md-8">
                         <div class=" col-sm-6 " data-aos="flip-left"  data-aos-duration="1000">
                             <img src="images/galleries/partnerzy/M-movement-room_1.png" class=".img-fluid" >
