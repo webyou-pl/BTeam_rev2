@@ -19,11 +19,11 @@
             
             <div class="main_photo" id="slider">
                 <ul>
-                    <li  class="one show mySlides" ></li>
-                    <li class="two show mySlides" ></li>
-                    <li class="three show mySlides" ></li>
-                    <li class="four show mySlides" ></li>
-                    <li class="five show mySlides" ></li>
+                    <!-- <li  class="one show mySlides" ></li> -->
+                    <!-- <li class="two show mySlides" ></li> -->
+                    <!-- <li class="three show mySlides" ></li> -->
+                    <!-- <li class="four show mySlides" ></li> -->
+                    <!-- <li class="five show mySlides" ></li> -->
                     <li class="six show mySlides" ></li>
                
 
@@ -54,31 +54,33 @@
                 <div class="col-lg-12">
                     <div class="row">
                         <div class="col-sm-12 col-lg-6 oNas_box-main">
-                            <div class="oNas_img_hover hover_1">
-                                <!-- <img src="..//BTeam_rev2/images/galleries/oNas/11.jpg">    -->
+                            <div class="col-12  oNas_img_hover hover_1">
+                                <!-- <img class="col-12" src="..//BTeam_rev2/images/galleries/oNas/11.jpg">    -->
                             </div> 
                             <div class="oNas_pawel-box" id="pawel" data-swap="false">
                                 <div>
                                     <img src="images/galleries/oNas/1.jpg" class="oNas__bottom-img">
                                     <p class="oNas__bottom-text">Paweł Bochenkiewicz</p>
-                                    <p>Trener z powołania. Trener przygotowania motorycznego, trener personalny, trener II klasy koszyk&oacute;wki i pasjonata treningu funkcjonalnego i oporowego.</p>
-                                    <p>Wychowanek WKS Śląsk Wrocław w koszyk&oacute;wce. Medalista Mistrzostw Polski, reprezentant Polski na Mistrzostwach Europy. Wsp&oacute;łautor trzech awans&oacute;w z WKS Śląsk Wrocław od najniższej klasy rozgrywkowej w Polsce do najwyższej (ekstraklasy). Wielokrotny triumfator Konkursu Wsad&oacute;w. Absolwent Akademii Wychowania Fizycznego we Wrocławiu (trener przygotowania motorycznego).&nbsp; Uczestnik wielu prestiżowych szkoleń z zakresu przygotowania motorycznego i treningu funkcjonalnego (m.in. NCSC/ EXOS/ FMS).</p>
-                                    <p>Ze sportem związany od ponad 20 lat. Zajmuje się przygotowaniem motorycznym zar&oacute;wno u amator&oacute;w jak i profesjonalnych zawodnik&oacute;w r&oacute;żnych dyscyplin sportowych (koszyk&oacute;wka, piłka ręczna, akrobatyka, sztuki walki itd..). Trener przygotowania fizycznego młodzieżowej kadry polski w siatk&oacute;wce mężczyzn. Trener komendy miejskiej państwowej straży pożarnej we Wrocławiu w 2017 roku oraz wiele innych.</p>
-                                    <p>Jako trener personalny zawsze zmierza do celu z powodzeniem wraz ze swoimi podopiecznymi. Członek Polskiego Związku Trener&oacute;w Personalnych. Perfekcjonista i Fanatyk.</p>
+                                    <p>&nbsp&nbsp&nbsp&nbsp Trener z powołania. Trener przygotowania motorycznego, trener personalny, trener II klasy koszyk&oacute;wki, pasjonata treningu funkcjonalnego i oporowego.</p>
+                                    <p>&nbsp&nbsp&nbsp&nbsp Wychowanek WKS Śląsk Wrocław w koszyk&oacute;wce. Medalista Mistrzostw Polski, reprezentant Polski na Mistrzostwach Europy. Wsp&oacute;łautor trzech awans&oacute;w z WKS Śląsk Wrocław od najniższej klasy rozgrywkowej w Polsce do najwyższej (ekstraklasy). Wielokrotny triumfator Konkursu Wsad&oacute;w. Absolwent Akademii Wychowania Fizycznego we Wrocławiu (trener przygotowania motorycznego).&nbsp; Uczestnik wielu prestiżowych szkoleń z zakresu przygotowania motorycznego i treningu funkcjonalnego (m.in. NCSC/ EXOS/ FMS).</p>
+                                    <p>&nbsp&nbsp&nbsp&nbsp Ze sportem związany od ponad 20 lat. Zajmuje się przygotowaniem motorycznym zar&oacute;wno u amator&oacute;w jak i profesjonalnych zawodnik&oacute;w r&oacute;żnych dyscyplin sportowych (koszyk&oacute;wka, piłka ręczna, akrobatyka, sztuki walki itd..). Trener przygotowania fizycznego młodzieżowej kadry polski w siatk&oacute;wce mężczyzn. Trener komendy miejskiej państwowej straży pożarnej we Wrocławiu w 2017 roku oraz wiele innych.</p>
+                                    <p>&nbsp&nbsp&nbsp&nbsp Jako trener personalny zawsze zmierza do celu z powodzeniem wraz ze swoimi podopiecznymi. Członek Polskiego Związku Trener&oacute;w Personalnych. </p>
+                                    <p class="oNas__bottom-text-last">Perfekcjonista i Fanatyk.</p>
                                 </div>  
                             </div> 
                         </div>
                          <div class="col-sm-12 col-lg-6 oNas_box-main" >
-                            <div class="oNas_img_hover hover_2">
-                                <!-- <img src="..//BTeam_rev2/images/galleries/oNas/22.jpg">    -->
+                            <div class="col-12  oNas_img_hover hover_2">
+                                <!-- <img  src="..//BTeam_rev2/images/galleries/oNas/22.jpg">    -->
                             </div>
                             <div class="oNas_pawel-box" id="lukasz" data-swap="false">
                                 <img src="images/galleries/oNas/2.jpg" class="oNas__bottom-img">
                                 <p class="oNas__bottom-text">Łukasz Bochenkiewicz</p>
-                                <p>Trener z powołania. Trener przygotowania motorycznego, trener personalny, pasjonata treningu funkcjonalnego i sztuk walki.</p>
-                                <p>Wychowanek WKS Śląsk Wrocław w koszyk&oacute;wce. Czterokrotny medalista Mistrzostw Polski w tym dwa razy Mistrz Polski i najlepszy zawodnik MVP. Reprezentant kraju na Mistrzostwach Europy i Świata. Absowent Akademii Wychowania Fizycznego we Wrocławiu. Uczestnik wielu prestiżowych szkoleń z zakresu przygotowania motorycznego i treningu funkcjonalnego (m.in. NCSC/ EXOS/ FMS).</p>
-                                <p>Ze sportem związany od ponad 20 lat. Trenuje zawodnik&oacute;w sport&oacute;w zespołowych i indywidualnych pod kątem przygotowania motorycznego. Trener Mistrz&oacute;w Świata, Europy i Polski zawodnik&oacute;w r&oacute;żnych sztuk walki (K1, Karate, MMA itp. Trener przygotowania fizycznego koszykarskiego G&oacute;rnika Wałbrzych w sezonie 2016/17. Trener młodzieżowej reprezentacji polski w siatk&oacute;wce kobiet. Przygotowuje r&oacute;wnież służby mundurowe do selekcji na komandos&oacute;w oraz wiele innych.</p>
-                                <p>Jako trener personalny pomaga swoim podopiecznym osiągnąć wyznaczony cel ze znakomitą skutecznością. Członek Polskiego Związku Trener&oacute;w Personalnych. Motywator i profesjonalista.</p>
+                                <p>&nbsp&nbsp&nbsp&nbsp Trener z powołania. Trener przygotowania motorycznego, trener personalny, pasjonata treningu funkcjonalnego i sztuk walki.</p>
+                                <p>&nbsp&nbsp&nbsp&nbsp Wychowanek WKS Śląsk Wrocław w koszyk&oacute;wce. Czterokrotny medalista Mistrzostw Polski w tym dwa razy Mistrz Polski i najlepszy zawodnik MVP. Reprezentant kraju na Mistrzostwach Europy i Świata. Absowent Akademii Wychowania Fizycznego we Wrocławiu. Uczestnik wielu prestiżowych szkoleń z zakresu przygotowania motorycznego i treningu funkcjonalnego (m.in. NCSC/ EXOS/ FMS).</p>
+                                <p>&nbsp&nbsp&nbsp&nbsp Ze sportem związany od ponad 20 lat. Trenuje zawodnik&oacute;w sport&oacute;w zespołowych i indywidualnych pod kątem przygotowania motorycznego. Trener Mistrz&oacute;w Świata, Europy i Polski zawodnik&oacute;w r&oacute;żnych sztuk walki (K1, Karate, MMA itp. Trener przygotowania fizycznego koszykarskiego G&oacute;rnika Wałbrzych w sezonie 2016/17. Trener młodzieżowej reprezentacji polski w siatk&oacute;wce kobiet. Przygotowuje r&oacute;wnież służby mundurowe do selekcji na komandos&oacute;w oraz wiele innych.</p>
+                                <p>&nbsp&nbsp&nbsp&nbsp Jako trener personalny pomaga swoim podopiecznym osiągnąć wyznaczony cel ze znakomitą skutecznością. Członek Polskiego Związku Trener&oacute;w Personalnych.</p>
+                                <p class="oNas__bottom-text-last">  Motywator i profesjonalista.</p>
                             </div>  
                         </div>
                     </div>   
@@ -213,7 +215,7 @@
                                 </div>
                                 <div>
                                     <p class="oferta__text">
-                                    Sprzęt z którego kożystamypozwola nam na dokładną analizę i diagnozę praktycznie wszystkich
+                                    Sprzęt z którego korzystamy pozwola nam na dokładną analizę i diagnozę praktycznie wszystkich
                                     parametrów motorycznych. Dzięki konkretnym badaniom diagnostycznym jesteśmy w stanie określić
                                     dokładny profil motoryczny zawodnika. Z kolei na podstawie uzyskanego profilu dobieramy odpowiednią
                                     i precyzyjną ścieżkę rozwoju sportowca pod kątem przygotowania fizycznego/motorycznego. 
@@ -373,32 +375,53 @@
 
 
         <div class="container">
-                        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="z-index:0;">
                             <ol class="carousel-indicators d-none d-md-flex">
                                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
                             </ol>
-                            <div class="carousel-inner">
+                            <div class="carousel-inner" style="z-index:0;">
                                         <div class="carousel-item active">
                                             <div class="carousel-caption d-md-block">
-                                                <img src="images/galleries/referencje/1.jpg">
-                                                <h5>Panna XYZ</h5>
-                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
+                                                <a target="_blank" href="https://www.facebook.com/turynski.kickboxing/?__tn__=K-R&eid=ARD691GedjzX8GInPW771Il5synlRJ9hxprKFZbAEDzL4qdOcKiUPtLpuQR85FNo32EOiJsYT9bYrE-U&fref=mentions">
+                                                    <img src="images/galleries/referencje/1.jpg" href="">
+                                                </a>
+                                                <h5>Michał Turyński</h5>
+                                                <h6>Mistrz Świata w Kickboxingu wagi ciężkiej WAKO PRO, Zawodnik Glory, Wielokrotny mistrz Polski </h6>
+                                                <p><q class="lol">Z Łukaszem i Pawłem przygotowuję się do swoich walk zawodowych od ponad roku. Przekonał mnie do nich mój przyjaciel, mówiąc, że są najlepsi i się nie mylił !
+                                                Chłopaki posiadają niesamowitą wiedzę teoretyczną popartą wieloletnią praktyką w sporcie na najwyższym poziomie!</q></p>
                                             </div>
                                         </div>
                                         <div class="carousel-item">
                                             <div class="carousel-caption d-md-block">
-                                                <img src="images/galleries/referencje/2.jpg">
-                                                <h5>Panna XYZ</h5>
-                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
+                                            <a target="_blank" href="https://www.facebook.com/michalskimma/">
+                                                    <img src="images/galleries/referencje/2.jpg" href="">
+                                                </a>
+                                                <h5>Michał Michalski</h5>
+                                                <h6>Profesjonalny zawodnik MMA federacji KSW ketegoria 77kg</h6>
+                                                <p><q>Profesjonaliści, zawodowcy, trenerzy z powołania.</q></p>
                                             </div>
                                         </div>
                                         <div class="carousel-item">
                                             <div class="carousel-caption d-md-block">
-                                                <img src="images/galleries/referencje/3.jpg">
-                                                <h5>Panna XYZ</h5>
-                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
+                                                <a target="_blank" href="https://www.facebook.com/sylwek.sypien?__tn__=K-R&eid=ARD5HALo1vfgQ8lG-FeC7x-pyc2apLjW1e3WcgCaxzM5X-OtMW3gfKtXi5jasJsxyDuPgqL4tUYogokl&fref=mentions&__xts__[0]=68.ARDMJQAzg4reaAxwmRcmtD20mspA5dmoxJjL5ONB5flviTV3gAwdZN_UYyMbZGhu2mx4wA4tZQ8FiwcRv8ffvPTAdzLntSjqGJd9HZ2vOR6yU1Mhm3rRllP5jso1acsoeumZMQGFyYO9ciWysqNe3OcoauoM0VEhCmnbyHDbyLZCnLqsCenH5DPmPkflslvBnl7PBSpcwYOx32DZniDesApfsFyFIkBy7smL7i8iZgrrIpA-c-ApUBXdtaKqCQ2KQukw1bB3Wf62kVo6saDzWmchnOgzBm_EttKS_-FZG29dcxYdJZvIYJf2U4hdBEy0169gAUKB2gMX5JvI6V_aGLzfTg">
+                                                    <img src="images/galleries/referencje/3.jpg" href="">
+                                                </a>
+                                                <h5>Sylwester Sypień</h5>
+                                                <h6>Mistrz Świata Masters w Karate Kyokushin</h6>
+                                                <p><q>Podczas przygotowań do Mistrzostw Świata Masters karate Kyokushin przygotowaniem motorycznym zajął się Bteam. Dziękuję za profesjonalne przygotowanie zakończone tytułem Mistrza Świata w Tokio. Osu.</q></p>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <div class="carousel-caption d-md-block">
+                                                <a target="_blank" href="https://www.facebook.com/flemasss?__tn__=K-R&eid=ARBixjmm58o6n8gjDzgPdlly89Wgh2RM0dSXcbHXEyrCKy438FsIe0IaIht0UhG-1-T8kq6SFQPsDSKR&fref=mentions&__xts__[0]=68.ARC1FQkAnRZ7R7_0JtZc_fj5y9gSXumRdNAB7sBVFSy4NUGRb1IsU8oWeVO6u5bzMNeaNae-NbJGlTsrmxsL0y51zPr3eQqRSWp3aN6jJ33NhNIgC8aSu_Z28TiAX9IWUB42jJxPgeEZrSidonr_qv4lNj-ZqiFKuUv8xPOMQlpAGszrVn_VnmTWJRoAhLBYwZ29NkpoXjIwwXlSh0JR6JCzx2c3TJ-VcOnJDmGnSozeL9pU6EwrIVU91DX1CNCgfiHg3tqSUoe_quDV0vZzqyt5HC9Z1AN4-aynZF6kyJL74qRpo320nXKxwEe5iAC7gE3OkExbbdEP_va_rptqnOP8Lw">
+                                                    <img src="images/galleries/referencje/4.jpg" href="">
+                                                </a>
+                                                <h5>Patryk Sypień</h5>
+                                                <h6>Mistrz Polski oraz Mistrz Europy Open w Karate Kyokushin</h6>
+                                                <p><q>Od kilkunastu lat startuje na imprezach rangi światowej i próbowałem współpracy z wieloma trenerami. W ostatnim sezonie oddałem się w ręce Bteam i był to mój najlepszy rok startowy. Poczułem ogromną różnice w moim przygotowaniu i dlatego wiem, że nasza współpraca będzie jeszcze długo trwała.</q></p>
                                             </div>
                                         </div>
                             </div>
@@ -507,21 +530,31 @@
             <div class="row partnerzy-center">
                 <div class="partners-images col-12 col-md-8">
                         <div class=" col-sm-6 " data-aos="flip-left"  data-aos-duration="1000">
-                            <img src="images/galleries/partnerzy/M-movement-room_1.png" class=".img-fluid" >
+                            <a target="_blank" href="https://www.facebook.com/AdamMazurkiewiczSC/?fref=mentions">
+                                <img src="images/galleries/partnerzy/M-movement-room_1.png" class=".img-fluid" >
+                            </a>
                         </div>
                         <div class=" col-sm-6 "data-aos="flip-left" data-aos-duration="1500">
+                            <a target="_blank" href="https://www.akielaszek.pl/">
                             <img src="images/galleries/partnerzy/akielaszek_wektor_www.png" class=".img-fluid" >
+                            </a>
                         </div>
                         <div class=" col-sm-6 " data-aos="flip-left" data-aos-duration="2000">
-                            <img class="partners-images-pztp" src="images/galleries/partnerzy/pztp.png" class=".img-fluid">
+                            <a target="_blank" href="https://pztp.org/">
+                                <img class="partners-images-pztp" src="images/galleries/partnerzy/pztp.png" class=".img-fluid">
+                            </a>
                         </div>
                 </div>
                 <div class="partners-images col-12 col-md-8 d-flex" >
                     <div class=" col-sm-6 " data-aos="flip-left" data-aos-duration="1000"> 
-                        <img src="images/galleries/partnerzy/sc_ok_1.png" class=".img-fluid">
+                        <a target="_blank" href="http://www.sportcube.pl/">
+                            <img src="images/galleries/partnerzy/sc_ok_1.png" class=".img-fluid">
+                        </a>
                     </div>
                     <div class=" col-sm-6 " data-aos="flip-left" data-aos-duration="1500"> 
-                        <img src="images/galleries/partnerzy/projekt_fabryczna_logo.png" class=".img-fluid">
+                        <a target="_blank" href="https://www.facebook.com/pg/projektfabryczna/about/">
+                            <img src="images/galleries/partnerzy/projekt_fabryczna_logo.png" class=".img-fluid">
+                        </a>
                     </div>
                 </div>
             <div>

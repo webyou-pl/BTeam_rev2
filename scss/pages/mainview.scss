@@ -65,16 +65,16 @@
         .six{
             background-image:url("../images/backgrounds/main/6.jpg");
             background-repeat: no-repeat;
-            background-position-y: -10em;
+            background-position-y: -20em;
             @media (min-width: 282px) and (max-width: 767.98px) {
                 background-position-y: 0em;
-                background-position-x: 70%;
+                background-position-x: 50%;
              }
              @media (min-width: 768px) and (max-width: 1199.98px) {
                 background-position-y: 0rem;
              }
              @media (min-width: 1200px) {     
-                background-position-y: 0rem;
+                background-position-y: -12rem;
             }
 
         }

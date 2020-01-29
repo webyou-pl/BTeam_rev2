@@ -38,6 +38,7 @@ $template_end_body = '
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>
     AOS.init();
   </script>
@@ -60,19 +61,19 @@ $nav_menu = '
       <ul class="navbar-nav ml-auto">
        
         <li class="nav-item">
-          <a class="nav-link" href="#">O Nas</a>
+          <a class="nav-link" href="#oNas">O Nas</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Oferta</a>
+          <a class="nav-link" href="#oferta">Oferta</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Referencje</a>
+          <a class="nav-link" href="#referencje">Referencje</a>
         </li>
                 <li class="nav-item">
-          <a class="nav-link" href="#">Kontakt</a>
+          <a class="nav-link" href="#kontakt">Kontakt</a>
         </li>
                 <li class="nav-item">
-          <a class="nav-link" href="#">Partnerzy</a>
+          <a class="nav-link" href="#partners">Partnerzy</a>
         </li>
       </ul>
     </div>
@@ -189,7 +190,7 @@ $breadcrumbs = '
     </div>
 
     <div class="text-center kontakt-btn">
-        <button id="singlebutton" name="singlebutton" class="btn btn-primary ">Submit</button>
+        <button id="singlebutton" name="singlebutton" class="btn btn-primary ">Wyślij</button>
     </div>
 </form>
 '; ?>
