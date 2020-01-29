@@ -63,7 +63,7 @@
                                     <p class="oNas__bottom-text">Paweł Bochenkiewicz</p>
                                     <p>&nbsp&nbsp&nbsp&nbsp Trener z powołania. Trener przygotowania motorycznego, trener personalny, trener II klasy koszyk&oacute;wki, pasjonata treningu funkcjonalnego i oporowego.</p>
                                     <p>&nbsp&nbsp&nbsp&nbsp Wychowanek WKS Śląsk Wrocław w koszyk&oacute;wce. Medalista Mistrzostw Polski, reprezentant Polski na Mistrzostwach Europy. Wsp&oacute;łautor trzech awans&oacute;w z WKS Śląsk Wrocław od najniższej klasy rozgrywkowej w Polsce do najwyższej (ekstraklasy). Wielokrotny triumfator Konkursu Wsad&oacute;w. Absolwent Akademii Wychowania Fizycznego we Wrocławiu (trener przygotowania motorycznego).&nbsp; Uczestnik wielu prestiżowych szkoleń z zakresu przygotowania motorycznego i treningu funkcjonalnego (m.in. NCSC/ EXOS/ FMS).</p>
-                                    <p>&nbsp&nbsp&nbsp&nbsp Ze sportem związany od ponad 20 lat. Zajmuje się przygotowaniem motorycznym zar&oacute;wno u amator&oacute;w jak i profesjonalnych zawodnik&oacute;w r&oacute;żnych dyscyplin sportowych (koszyk&oacute;wka, piłka ręczna, akrobatyka, sztuki walki itd..). Trener przygotowania fizycznego młodzieżowej kadry polski w siatk&oacute;wce mężczyzn. Trener komendy miejskiej państwowej straży pożarnej we Wrocławiu w 2017 roku oraz wiele innych.</p>
+                                    <p>&nbsp&nbsp&nbsp&nbsp Ze sportem związany od ponad 20 lat. Zajmuje się przygotowaniem motorycznym zar&oacute;wno u amator&oacute;w jak i profesjonalnych zawodnik&oacute;w r&oacute;żnych dyscyplin sportowych (koszyk&oacute;wka, piłka ręczna, akrobatyka, sztuki walki itd.). Trener przygotowania fizycznego młodzieżowej kadry polski w siatk&oacute;wce mężczyzn. Trener komendy miejskiej państwowej straży pożarnej we Wrocławiu w 2017 roku oraz wiele innych.</p>
                                     <p>&nbsp&nbsp&nbsp&nbsp Jako trener personalny zawsze zmierza do celu z powodzeniem wraz ze swoimi podopiecznymi. Członek Polskiego Związku Trener&oacute;w Personalnych. </p>
                                     <p class="oNas__bottom-text-last">Perfekcjonista i Fanatyk.</p>
                                 </div>  
@@ -78,7 +78,7 @@
                                 <p class="oNas__bottom-text">Łukasz Bochenkiewicz</p>
                                 <p>&nbsp&nbsp&nbsp&nbsp Trener z powołania. Trener przygotowania motorycznego, trener personalny, pasjonata treningu funkcjonalnego i sztuk walki.</p>
                                 <p>&nbsp&nbsp&nbsp&nbsp Wychowanek WKS Śląsk Wrocław w koszyk&oacute;wce. Czterokrotny medalista Mistrzostw Polski w tym dwa razy Mistrz Polski i najlepszy zawodnik MVP. Reprezentant kraju na Mistrzostwach Europy i Świata. Absowent Akademii Wychowania Fizycznego we Wrocławiu. Uczestnik wielu prestiżowych szkoleń z zakresu przygotowania motorycznego i treningu funkcjonalnego (m.in. NCSC/ EXOS/ FMS).</p>
-                                <p>&nbsp&nbsp&nbsp&nbsp Ze sportem związany od ponad 20 lat. Trenuje zawodnik&oacute;w sport&oacute;w zespołowych i indywidualnych pod kątem przygotowania motorycznego. Trener Mistrz&oacute;w Świata, Europy i Polski zawodnik&oacute;w r&oacute;żnych sztuk walki (K1, Karate, MMA itp. Trener przygotowania fizycznego koszykarskiego G&oacute;rnika Wałbrzych w sezonie 2016/17. Trener młodzieżowej reprezentacji polski w siatk&oacute;wce kobiet. Przygotowuje r&oacute;wnież służby mundurowe do selekcji na komandos&oacute;w oraz wiele innych.</p>
+                                <p>&nbsp&nbsp&nbsp&nbsp Ze sportem związany od ponad 20 lat. Trenuje zawodnik&oacute;w sport&oacute;w zespołowych i indywidualnych pod kątem przygotowania motorycznego. Trener Mistrz&oacute;w Świata, Europy i Polski zawodnik&oacute;w r&oacute;żnych sztuk walki (K1, Karate, MMA) itp. Trener przygotowania fizycznego koszykarskiego G&oacute;rnika Wałbrzych w sezonie 2016/17. Trener młodzieżowej reprezentacji polski w siatk&oacute;wce kobiet. Przygotowuje r&oacute;wnież służby mundurowe do selekcji na komandos&oacute;w oraz wiele innych.</p>
                                 <p>&nbsp&nbsp&nbsp&nbsp Jako trener personalny pomaga swoim podopiecznym osiągnąć wyznaczony cel ze znakomitą skutecznością. Członek Polskiego Związku Trener&oacute;w Personalnych.</p>
                                 <p class="oNas__bottom-text-last">  Motywator i profesjonalista.</p>
                             </div>  
@@ -117,7 +117,7 @@
                                     Przygotowanie motoryczne/fizyczne zawodnika jest kluczowym elementem we współczesnym sporcie na
                                     każdym jego etapie i poziomie. Głównym elementem naszej pracy jest ocena fundamentalnych wzorców
                                     ruchowych jako podstawy do dalszego rozwoju sportowca. W oparciu o światowe standardy (NSCA/
-                                    EXOS/ FMS/ MCS itp..), dostęp do najnowszych badań i publikacji oraz wieloletnie doświadczenie
+                                    EXOS/ FMS/ MCS itp.), dostęp do najnowszych badań i publikacji oraz wieloletnie doświadczenie
                                     zawodnicze i trenerskie w sportach zespołowych i indywidualnych potrafimy doskonale zrozumieć i
                                     zintegrować się ze swoimi podopiecznymi. Te wszystkie składowe pozwalają nam na dokładną analizę
                                     potrzeb i wyznaczenie ścieżki działania.
@@ -215,9 +215,9 @@
                                 </div>
                                 <div>
                                     <p class="oferta__text">
-                                    Sprzęt z którego korzystamy pozwola nam na dokładną analizę i diagnozę praktycznie wszystkich
+                                    Sprzęt z którego korzystamy pozwola nam na dokładną analizę i diagnozę wszystkich
                                     parametrów motorycznych. Dzięki konkretnym badaniom diagnostycznym jesteśmy w stanie określić
-                                    dokładny profil motoryczny zawodnika. Z kolei na podstawie uzyskanego profilu dobieramy odpowiednią
+                                    dokładny profil motoryczny zawodnika. Na podstawie uzyskanego profilu dobieramy odpowiednią
                                     i precyzyjną ścieżkę rozwoju sportowca pod kątem przygotowania fizycznego/motorycznego. 
                                     </p>  
                                 </div>
@@ -400,7 +400,7 @@
                                                     <img src="images/galleries/referencje/2.jpg" href="">
                                                 </a>
                                                 <h5>Michał Michalski</h5>
-                                                <h6>Profesjonalny zawodnik MMA federacji KSW ketegoria 77kg</h6>
+                                                <h6>Profesjonalny zawodnik MMA federacji KSW kategoria 77kg</h6>
                                                 <p><q>Profesjonaliści, zawodowcy, trenerzy z powołania.</q></p>
                                             </div>
                                         </div>
@@ -442,77 +442,51 @@
     <div class="razor" id="razor">
             <div class="razor_shadow"></div>
         </div>
-    <!--Section: Contact v.1-->
     <section class="kontant section pb-5" id="kontakt">
 
-        <!--Section heading-->
                     <div class="kontakt__title">
                         <h2 class="h2">Kontakt</h2>
                     </div>
-        <!--Section description-->
 
-        <div class="container">
-                <div class="row kontakt-body" data-aos="fade-up" data-aos-duration="2000">
-                    
-                    <!--Grid column-->
-                    <div class="col-lg-6 kontakt-body-column">
-
-                        <!--Form with header-->
-                        <div class="card">
-
-                            <div class="card-body">
-                                <!--Header-->
-                                <div class="form-header kontakt-text text-center">
-                                    <h3><i class="fas fa-envelope"></i> Napisz do nas:</h3>
+            <div class="container">
+                    <div class="row kontakt-body" data-aos="fade-up" data-aos-duration="2000">
+                            <div class="col-sm-12 col-lg-6 kontakt-body-column">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <div class="form-header kontakt-text text-center">
+                                            <h3><i class="fas fa-envelope"></i> Napisz do nas:</h3>
+                                        </div>
+                                            <?php if(isset($_SESSION["messageForUser-form"])){
+                                                echo $_SESSION["messageForUser-form"];
+                                                $_SESSION["messageForUser-form"] ="";
+                                            } ?>
+                                            <?php
+                                                echo $mainForm;
+                                            ?>
+                                    </div>
                                 </div>
-                                <!--Body-->
-
-                                <!-- Komunikat zwrotny z formularza -->
-                                <?php if(isset($_SESSION["messageForUser-form"])){
-                                    echo $_SESSION["messageForUser-form"];
-                                    $_SESSION["messageForUser-form"] ="";
-                                } ?>
-                                <?php
-                                    echo $mainForm;
-                                ?>
-
-                        </div>
-
-                    </div>
-                    <!--Form with header-->
-
-                    </div>
-                    <!--Grid column-->
-
-                    <!--Grid column-->
-                    <div class="col-sm-12 col-lg-6 kontakt-body-column google-kolumn">
-                    
-                                <!--Google map-->
-                            <div class="col-12 kolumn-map">
-                                <div id="googlemap"></div>
-                            <div>
-
-                                <br>
-                                <!--Buttons-->
-                                    <div class="row text-center kontakt-dane">
-                                        <div class="col-md-4">
-                                        <p>Wrocław</p>
-                                        </div>
-
-                                        <div class="col-md-4">
-                                        <p>+ 01 234 567 89</p>
-                                        <p>Pon - Pt: 6:30-21:00</p>
-                                        </div>
-
-                                        <div class="col-md-4">
-                                        <p>info@bteam.pl</p>
+                            </div>
+                            <div class="col-sm-12 col-lg-6 kontakt-body-column google-kolumn" >
+                                <div class="col-12 kolumn-map">
+                                    <div id="googlemap"></div>
+                                        <div>
+                                            <div class="row text-center kontakt-dane">
+                                                <div class="col-md-4">
+                                                    <p>Wrocław</p>
+                                                </div>
+                                                <div class="col-md-4">
+                                                    <p>+ 01 234 567 89</p>
+                                                    <p>Pon - Pt: 6:30-21:00</p>
+                                                </div>
+                                                <div class="col-md-4">
+                                                    <p>info@bteam.pl</p>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <!--Grid column-->
-                    </div>
+                             </div>
                 </div>
-        </div>
     </section>
 <!--Section: Contact v.1-->
 

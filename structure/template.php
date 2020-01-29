@@ -116,7 +116,7 @@ $socialMedia_fix = '
             </a>
         </div>
         <div class="fixedIn">
-            <a target="_blank" href="#">
+            <a target="_blank" href="https://www.instagram.com/bteam.pl/">
                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
                     <g id="surface1">
                         <path style="fill:#304FFE;" d="M32,42H16c-5.5,0-10-4.5-10-10V16c0-5.5,4.5-10,10-10h16c5.5,0,10,4.5,10,10v16   C42,37.5,37.5,42,32,42z"></path>
