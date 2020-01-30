@@ -38,6 +38,7 @@ $template_end_body = '
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>
     AOS.init();
   </script>
@@ -47,34 +48,35 @@ $template_end_body = '
 
 $nav_menu = '
 
-<nav class="navbar navbar-expand-lg static-top" id="navbar">
-  <div class="container">
+<nav class="navbar navbar-expand-lg static-top navbar-dark" id="navbar">
+  <div class="container ">
     <a class="navbar-brand" href="#">
           <img src="images/galleries/logo/bteam.svg" style="height:150px; width:150px;" alt="">
         </a>
-    <button class="navbar-toggler bg-dark" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
         </button>
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav ml-auto">
-       
-        <li class="nav-item">
-          <a class="nav-link" href="#">O Nas</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Oferta</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Referencje</a>
-        </li>
-                <li class="nav-item">
-          <a class="nav-link" href="#">Kontakt</a>
-        </li>
-                <li class="nav-item">
-          <a class="nav-link" href="#">Partnerzy</a>
-        </li>
-      </ul>
-    </div>
+        
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+        
+            <li class="nav-item">
+            <a class="nav-link" href="#oNas">O Nas</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="#oferta">Oferta</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="#referencje">Referencje</a>
+            </li>
+                    <li class="nav-item">
+            <a class="nav-link" href="#kontakt">Kontakt</a>
+            </li>
+                    <li class="nav-item">
+            <a class="nav-link" href="#partners">Partnerzy</a>
+            </li>
+        </ul>
+        </div>
   </div>
 </nav>
 ';
@@ -114,7 +116,7 @@ $socialMedia_fix = '
             </a>
         </div>
         <div class="fixedIn">
-            <a target="_blank" href="#">
+            <a target="_blank" href="https://www.instagram.com/bteam.pl/">
                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
                     <g id="surface1">
                         <path style="fill:#304FFE;" d="M32,42H16c-5.5,0-10-4.5-10-10V16c0-5.5,4.5-10,10-10h16c5.5,0,10,4.5,10,10v16   C42,37.5,37.5,42,32,42z"></path>
@@ -188,7 +190,7 @@ $breadcrumbs = '
     </div>
 
     <div class="text-center kontakt-btn">
-        <button id="singlebutton" name="singlebutton" class="btn btn-primary ">Submit</button>
+        <button id="singlebutton" name="singlebutton" class="btn btn-primary ">Wyślij</button>
     </div>
 </form>
 '; ?>

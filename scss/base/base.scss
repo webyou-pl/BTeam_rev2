@@ -23,9 +23,13 @@ footer#footer{
 
 #socialMedia-fix {
 	position: fixed;
-	top: 200px;
+	top: 340px;
 	right: -15px;
-
+	filter: grayscale(80%);
+	z-index: 11;
+	@media (min-width: 282px) and (max-width: 768px) {
+		right: -8px;
+}
 	.fixedFb,
 	.fixedIn {
 		height: 50px;

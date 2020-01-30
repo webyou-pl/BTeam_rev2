@@ -11,13 +11,24 @@
         .card{
            border: none;
            border-radius: 17px;
-           
+           @media (min-width: 768px) and (max-width: 991.98px) {
+            margin-bottom: 20px;
+                        }
             .card-body{
                background:black;
                 border-radius: 15px;
-                
+                height: 500px;
+                @media (max-width: 575.98px) {
+                    max-height: 550px;
+                }
+                @media (min-width: 576px) and (max-width: 767.98px) {
+                    max-height: 550px;
+                }
+
+            
                 
                 .kontakt-text {
+                    
                     h3{
                        color:white;
                        margin-bottom: 5px; 
@@ -31,7 +42,7 @@
                     padding: 5px;
                     label{
                     padding:5px;
-                    width:30%;
+                    width:50%;
                     color:white;
                     }
                     .form-control{
@@ -39,7 +50,10 @@
                     }
                 }
                 button {
-                    margin-top: 8%;
+                    margin-top: 16px;
+                    @media (max-width: 575.98px) {
+                        margin-top: 5px;
+                    }
                 }
             }
         }
@@ -56,7 +70,15 @@
                 padding:1.25rem;
                 background:black;
                 border-radius: 15px;
-                
+                max-height: 500px;
+                @media (max-width: 575.98px) {
+                    max-height: 550px;
+                }
+                @media (min-width: 576px) and (max-width: 767.98px) {
+                    max-height: 550px;
+                }
+            
+            
                 #googlemap {
                     
                     
@@ -65,8 +87,15 @@
                 }
               }
             .kontakt-dane{
-                
+                display: flex;
+                align-items: center;
+                justify-content: center;
                 text-align: center;
+                padding-top: 10px;
+                @media (max-width: 575.98px) {
+                    padding-top: 5px;
+                }
+                
                 
                 p{
                     font-size: 80%;

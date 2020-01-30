@@ -14,7 +14,10 @@
         }
         .oferta__box{
             background-color: black;
-            margin-bottom: 100px;
+            text-align: center;
+            align-items: center;
+            width: 100%;
+
             .h3{
                 border-bottom: 5px solid $primary;
                 margin-bottom: 0px;
@@ -29,23 +32,73 @@
                 }
             }
             .oferta_image{
-                width: 100%;
-                height: auto;
+                display: flex;
+                flex-direction: column;
+                border-bottom: 5px solid $primary;
+               img{
+                height: 100%;
+                object-fit: cover;
+               }
             }
             .oferta_image-gray{
                 filter: grayscale(100%);
             }
+       
             .oferta__text{
+                margin:10px 0px;
                 color:white;
                 padding:10px 20px;
+           
             }
-            .btn{
-                bottom:0px;
-                margin-bottom: 10px;
+
+            .oferta__text-center{
+                margin:20% 0;
+                @media (max-width: 575.98px) {
+                    margin:10% 0;
+                }
+                @media (min-width: 576px) and (max-width: 1199.98px) {
+                    margin:10% 0;
+                }
+            
+                
+                
+               
             }
+
+
+
+            .oferta__text-szkolenia{
+                font-size: 50px;
+                line-height: 1.2;
+            }
+
+
+
+     
+            .oferta_button-center{
+                height: 60px;
+                display: flex;
+                justify-content: center;
+                .oferta_button{
+                    display: flex;
+                    justify-content: center;
+                    position: absolute;
+                    bottom: 0px;
+                    max-width: 350px;
+                }
+            }
+
         }
         .oferta_bottom-line{
             display: flex;
             justify-content: center;
            }
+}
+.big_top_box{
+    margin-bottom: 40px;
+
+}
+.big_bottom_box{
+    margin-bottom: 100px;
+    
 }

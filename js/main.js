@@ -3,7 +3,7 @@ jQuery(function ($) {
     var googlemap = new google.maps.Map(
         document.getElementById('googlemap'),
         {
-            center: new google.maps.LatLng(44.5403, -78.5463),
+            center: new google.maps.LatLng(51.1148936,16.9734688),
             zoom: 8,
             mapTypeId: google.maps.MapTypeId.ROADMAP
         }
@@ -99,3 +99,35 @@ function showCookie(name) {
         }
     }
 }
+
+
+
+
+
+
+////// Navigation
+
+$(document).ready(function(){
+    // Add smooth scrolling to all links
+    $(".nav-link").on('click', function(event) {
+  
+      // Make sure this.hash has a value before overriding default behavior
+      if (this.hash !== "") {
+        // Prevent default anchor click behavior
+        event.preventDefault();
+  
+        // Store hash
+        var hash = this.hash;
+  
+        // Using jQuery's animate() method to add smooth page scroll
+        // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+        $('html, body').animate({
+          scrollTop: $(hash).offset().top
+        }, 800, function(){
+  
+          // Add hash (#) to URL when done scrolling (default click behavior)
+          window.location.hash = hash;
+        });
+      } // End if
+    });
+  });
