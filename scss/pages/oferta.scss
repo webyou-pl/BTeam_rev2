@@ -48,11 +48,29 @@
                 margin:10px 0px;
                 color:white;
                 padding:10px 20px;
+           
             }
-                    .oferta__text-szkolenia{
-                        font-size: 50px;
-                        line-height: 1.2;
-                    }
+
+            .oferta__text-center{
+                margin:20% 0;
+                @media (max-width: 575.98px) {
+                    margin:10% 0;
+                }
+                @media (min-width: 576px) and (max-width: 1199.98px) {
+                    margin:10% 0;
+                }
+            
+                
+                
+               
+            }
+
+
+
+            .oferta__text-szkolenia{
+                font-size: 50px;
+                line-height: 1.2;
+            }
 
 
 

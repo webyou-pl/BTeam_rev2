@@ -54,8 +54,8 @@
                 <div class="col-lg-12">
                     <div class="row">
                         <div class="col-sm-12 col-lg-6 oNas_box-main">
-                            <div class="col-12  oNas_img_hover hover_1">
-                                <!-- <img class="col-12" src="..//BTeam_rev2/images/galleries/oNas/11.jpg">    -->
+                         <div class="col-12  oNas_img_hover hover_1">
+                                <img src="..//BTeam_rev2/images/galleries/oNas/11.jpg">   
                             </div> 
                             <div class="oNas_pawel-box" id="pawel" data-swap="false">
                                 <div>
@@ -69,18 +69,20 @@
                                 </div>  
                             </div> 
                         </div>
-                         <div class="col-sm-12 col-lg-6 oNas_box-main" >
+                        <div class="col-sm-12 col-lg-6 oNas_box-main">
                             <div class="col-12  oNas_img_hover hover_2">
-                                <!-- <img  src="..//BTeam_rev2/images/galleries/oNas/22.jpg">    -->
+                                <img src="..//BTeam_rev2/images/galleries/oNas/22.jpg">   
                             </div>
                             <div class="oNas_pawel-box" id="lukasz" data-swap="false">
-                                <img src="images/galleries/oNas/2.jpg" class="oNas__bottom-img">
-                                <p class="oNas__bottom-text">Łukasz Bochenkiewicz</p>
-                                <p>&nbsp&nbsp&nbsp&nbsp Trener z powołania. Trener przygotowania motorycznego, trener personalny, pasjonata treningu funkcjonalnego i sztuk walki.</p>
-                                <p>&nbsp&nbsp&nbsp&nbsp Wychowanek WKS Śląsk Wrocław w koszyk&oacute;wce. Czterokrotny medalista Mistrzostw Polski w tym dwa razy Mistrz Polski i najlepszy zawodnik MVP. Reprezentant kraju na Mistrzostwach Europy i Świata. Absowent Akademii Wychowania Fizycznego we Wrocławiu. Uczestnik wielu prestiżowych szkoleń z zakresu przygotowania motorycznego i treningu funkcjonalnego (m.in. NCSC/ EXOS/ FMS).</p>
-                                <p>&nbsp&nbsp&nbsp&nbsp Ze sportem związany od ponad 20 lat. Trenuje zawodnik&oacute;w sport&oacute;w zespołowych i indywidualnych pod kątem przygotowania motorycznego. Trener Mistrz&oacute;w Świata, Europy i Polski zawodnik&oacute;w r&oacute;żnych sztuk walki (K1, Karate, MMA) itp. Trener przygotowania fizycznego koszykarskiego G&oacute;rnika Wałbrzych w sezonie 2016/17. Trener młodzieżowej reprezentacji polski w siatk&oacute;wce kobiet. Przygotowuje r&oacute;wnież służby mundurowe do selekcji na komandos&oacute;w oraz wiele innych.</p>
-                                <p>&nbsp&nbsp&nbsp&nbsp Jako trener personalny pomaga swoim podopiecznym osiągnąć wyznaczony cel ze znakomitą skutecznością. Członek Polskiego Związku Trener&oacute;w Personalnych.</p>
-                                <p class="oNas__bottom-text-last">  Motywator i profesjonalista.</p>
+                                <div>
+                                    <img src="images/galleries/oNas/2.jpg" class="oNas__bottom-img">
+                                    <p class="oNas__bottom-text">Łukasz Bochenkiewicz</p>
+                                    <p>&nbsp&nbsp&nbsp&nbsp Trener z powołania. Trener przygotowania motorycznego, trener personalny, pasjonata treningu funkcjonalnego i sztuk walki.</p>
+                                    <p>&nbsp&nbsp&nbsp&nbsp Wychowanek WKS Śląsk Wrocław w koszyk&oacute;wce. Czterokrotny medalista Mistrzostw Polski w tym dwa razy Mistrz Polski i najlepszy zawodnik MVP. Reprezentant kraju na Mistrzostwach Europy i Świata. Absowent Akademii Wychowania Fizycznego we Wrocławiu. Uczestnik wielu prestiżowych szkoleń z zakresu przygotowania motorycznego i treningu funkcjonalnego (m.in. NCSC/ EXOS/ FMS).</p>
+                                    <p>&nbsp&nbsp&nbsp&nbsp Ze sportem związany od ponad 20 lat. Trenuje zawodnik&oacute;w sport&oacute;w zespołowych i indywidualnych pod kątem przygotowania motorycznego. Trener Mistrz&oacute;w Świata, Europy i Polski zawodnik&oacute;w r&oacute;żnych sztuk walki (K1, Karate, MMA) itp. Trener przygotowania fizycznego koszykarskiego G&oacute;rnika Wałbrzych w sezonie 2016/17. Trener młodzieżowej reprezentacji polski w siatk&oacute;wce kobiet. Przygotowuje r&oacute;wnież służby mundurowe do selekcji na komandos&oacute;w oraz wiele innych.</p>
+                                    <p>&nbsp&nbsp&nbsp&nbsp Jako trener personalny pomaga swoim podopiecznym osiągnąć wyznaczony cel ze znakomitą skutecznością. Członek Polskiego Związku Trener&oacute;w Personalnych.</p>
+                                    <p class="oNas__bottom-text-last">  Motywator i profesjonalista.</p>
+                                </div>
                             </div>  
                         </div>
                     </div>   
@@ -213,15 +215,14 @@
                                 <div class="oferta_image">
                                     <img src="images/galleries/oferta/3.jpg" >
                                 </div>
-                                <div>
-                                    <p class="oferta__text">
-                                    Sprzęt z którego korzystamy pozwola nam na dokładną analizę i diagnozę wszystkich
-                                    parametrów motorycznych. Dzięki konkretnym badaniom diagnostycznym jesteśmy w stanie określić
-                                    dokładny profil motoryczny zawodnika. Na podstawie uzyskanego profilu dobieramy odpowiednią
-                                    i precyzyjną ścieżkę rozwoju sportowca pod kątem przygotowania fizycznego/motorycznego. 
-                                    </p>  
-                                </div>
-
+                                    <div>
+                                        <p class="oferta__text oferta__text-center">
+                                        Sprzęt z którego korzystamy pozwola nam na dokładną analizę i diagnozę wszystkich
+                                        parametrów motorycznych. Dzięki konkretnym badaniom diagnostycznym jesteśmy w stanie określić
+                                        dokładny profil motoryczny zawodnika. Na podstawie uzyskanego profilu dobieramy odpowiednią
+                                        i precyzyjną ścieżkę rozwoju sportowca pod kątem przygotowania fizycznego/motorycznego. 
+                                        </p>  
+                                    </div>
                                 <div class="oferta_button-center">
                                     <div class="col-12 oferta_button"> 
                                         <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#Diagnostyka">Dowiedz się więcej</button>
@@ -346,7 +347,7 @@
                                         <img src="images/galleries/oferta/5.jpg" >
                                     </div>
                                     <div>
-                                        <p class="oferta__text oferta__text-szkolenia">
+                                        <p class="oferta__text oferta__text-center oferta__text-szkolenia">
                                         Kolejne warsztaty już wkrótce!
                                         </p>  
                                     </div>
@@ -562,6 +563,9 @@
             <p>Możemy podzielić je na pliki sesyjne (tymczasowe), stałe oraz pliki cookies podmiotów zewnętrznych. Pliki sesyjne są przechowywane do momentu wylogowania z serwisu lub wyłączenia przeglądarki, zaś te drugie przez pewien czas który jest określony w pliku cookie. Pliki cookies podmiotów zewnętrznych są to pliki które pochodzą min. z serwerów reklamowych, dostawców usług czy serwerów firm. To właśnie ten rodzaj jest wykorzystywany w reklamach.</p>
             <p>Pliki cookies mogą być w każdej chwili usunięte przez użytkownika.</p>
             <p>W 2012 roku Unia Europejska nałożyła na właścicieli witryn obowiązek informowania o używanie ciasteczek na stronie (efektywnie regulacje weszły w życie 22 marca 2013 roku).</p>
+            </br>
+            <p><strong>RODO</strong></p>
+            <p>Administratorem powierzonych nam przez Państwa danych osobowych jest BTeam. Zgodnie z przepisami Rozporządzenia RODO Parlamentu Europejskiego i Rady Europy (UE) z dnia 27 kwietnia 2016 w sprawie ochrony os&oacute;b fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE i z ustawą z dnia 29 sierpnia 1997 r. o ochronie danych osobowych przysługuje Państwu prawo dostępu do treści swoich danych, prawo ich poprawiania, a także żądania ich usunięcia z bazy danych. Podanie danych jest dobrowolne, jednak niezbędne dla realizacji oczekiwanych przez Państwa cel&oacute;w. Powierzone nam dane są przetwarzane wyłącznie w celu i zakresie w jakim zostały nam przez Państwa udostępnione.</p>
         </div>
             <div class="modal-footer">
                 <button onclick="acceptCookies()" type="button" class="btn btn-secondary" data-dismiss="modal">Akceptuje</button>
