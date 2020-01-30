@@ -92,6 +92,10 @@
                 justify-content: center;
                 text-align: center;
                 padding-top: 10px;
+                @media (max-width: 575.98px) {
+                    padding-top: 5px;
+                }
+                
                 
                 p{
                     font-size: 80%;

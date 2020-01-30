@@ -48,35 +48,35 @@ $template_end_body = '
 
 $nav_menu = '
 
-<nav class="navbar navbar-expand-lg static-top" id="navbar">
+<nav class="navbar navbar-expand-lg static-top navbar-dark" id="navbar">
   <div class="container ">
     <a class="navbar-brand" href="#">
           <img src="images/galleries/logo/bteam.svg" style="height:150px; width:150px;" alt="">
         </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
         </button>
         
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav ml-auto">
-       
-        <li class="nav-item">
-          <a class="nav-link" href="#oNas">O Nas</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#oferta">Oferta</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#referencje">Referencje</a>
-        </li>
-                <li class="nav-item">
-          <a class="nav-link" href="#kontakt">Kontakt</a>
-        </li>
-                <li class="nav-item">
-          <a class="nav-link" href="#partners">Partnerzy</a>
-        </li>
-      </ul>
-    </div>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+        
+            <li class="nav-item">
+            <a class="nav-link" href="#oNas">O Nas</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="#oferta">Oferta</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="#referencje">Referencje</a>
+            </li>
+                    <li class="nav-item">
+            <a class="nav-link" href="#kontakt">Kontakt</a>
+            </li>
+                    <li class="nav-item">
+            <a class="nav-link" href="#partners">Partnerzy</a>
+            </li>
+        </ul>
+        </div>
   </div>
 </nav>
 ';

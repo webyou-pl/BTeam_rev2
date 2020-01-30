@@ -348,7 +348,7 @@
                                     </div>
                                     <div>
                                         <p class="oferta__text oferta__text-center oferta__text-szkolenia">
-                                        Kolejne warsztaty już wkrótce!
+                                        Pierwsze warsztaty już wkrótce!
                                         </p>  
                                     </div>
                                 </div>
@@ -473,11 +473,12 @@
                                         <div>
                                             <div class="row text-center kontakt-dane">
                                                 <div class="col-md-4">
-                                                    <p>Wrocław</p>
+                                                    <p>Łukasz: 883 572 227</p>
+                                                    <p>Paweł: 601 557 544</p>
                                                 </div>
                                                 <div class="col-md-4">
-                                                    <p>+ 01 234 567 89</p>
-                                                    <p>Pon - Pt: 6:30-21:00</p>
+                                                    <p>Wrocław</p>
+                                                    <p>Pon - Pt: 6:00-22:00</p>
                                                 </div>
                                                 <div class="col-md-4">
                                                     <p>info@bteam.pl</p>
