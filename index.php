@@ -113,7 +113,7 @@
                         <div class="col-lg-6 col-xl-4 d-flex big_bottom_box" data-aos="zoom-in-up">
                             <div class="oferta__box">
                                 <div>
-                                    <h3 class="h3">Przygotowanie Motoryczne</h3>
+                                    <h3 class="h3">Przygotowanie <br>Motoryczne</h3>
                                 </div>
                                 <div class="oferta_image"> 
                                     <img src="images/galleries/oferta/1.jpg" class="  oferta_image-gray">

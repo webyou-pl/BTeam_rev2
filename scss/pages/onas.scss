@@ -41,7 +41,7 @@
             
            
             img{
-                height: 938px;
+                max-height: 938px;
                 object-fit: cover;
                 transition: opacity 0.5s ease-in-out;
                 cursor: pointer;
