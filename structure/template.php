@@ -61,18 +61,18 @@ $nav_menu = '
         <ul class="navbar-nav ml-auto">
         
             <li class="nav-item">
-            <a class="nav-link" href="#oNas">O Nas</a>
+            <a class="nav-link" href="#oNas" data-toggle="collapse" data-target=".navbar-collapse.show">O Nas</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
             <a class="nav-link" href="#oferta">Oferta</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
             <a class="nav-link" href="#referencje">Referencje</a>
             </li>
-                    <li class="nav-item">
+                    <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
             <a class="nav-link" href="#kontakt">Kontakt</a>
             </li>
-                    <li class="nav-item">
+                    <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
             <a class="nav-link" href="#partners">Partnerzy</a>
             </li>
         </ul>
@@ -148,7 +148,7 @@ $socialMedia_fix = '
 
 $template_copyright = '	    
     <div id="copyright">
-        <div class="container text-center">
+        <div class="container text-center footer">
             ©2019 <a href="http://www.webyou.pl" target="_blank" >www.webyou.pl</a> - wszelkie prawa zastrzeżone. Projekt zrealizowany przez zespół <a href="http://www.webyou.pl" target="_blank" ><strong>webyou.pl</strong></a>.
         </div>  
     </div>  

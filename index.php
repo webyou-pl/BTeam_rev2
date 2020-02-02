@@ -14,9 +14,7 @@
 
         
 <div class="main_oNas__oferta_background">
-
         <section id="main">
-            
             <div class="main_photo" id="slider">
                 <ul>
                     <li  class="one show mySlides" ></li>
@@ -25,25 +23,16 @@
                     <li class="four show mySlides" ></li>
                     <li class="five show mySlides" ></li>
                     <li class="six show mySlides" ></li>
-               
-
-      
              </div>  
-     
             <div class="col-8 main__content">
                 <div class="main__text">
                     <p >Siła rodzi się z kolan.</p>
                 </div>
             </div>
-
-         
-    
         </section>
-
              <div class="razor" id="razor">
                 <div class="razor_shadow"></div>
             </div>
-
         <!-- O Nas  -->
         <section class="oNas" id="oNas">
         <div class="oNas__title">
@@ -54,7 +43,37 @@
                 <div class="col-lg-12">
                     <div class="row">
                         <div class="col-sm-12 col-lg-6 oNas_box-main">
-                         <div class="col-12  oNas_img_hover hover_1">
+
+
+                      
+
+                        <div class="col-12  oNas_img_hover hover_2">
+                                <img src="..//BTeam_rev2/images/galleries/oNas/22.jpg">   
+                            </div>
+                            <div class="oNas_pawel-box" id="lukasz" data-swap="false">
+                                <div>
+                                    <img src="images/galleries/oNas/2.jpg" class="oNas__bottom-img">
+                                    <p class="oNas__bottom-text">Łukasz Bochenkiewicz</p>
+                                    <p>&nbsp&nbsp&nbsp&nbsp Trener z powołania. Trener przygotowania motorycznego, trener personalny, pasjonata treningu funkcjonalnego i sztuk walki.</p>
+                                    <p>&nbsp&nbsp&nbsp&nbsp Wychowanek WKS Śląsk Wrocław w koszyk&oacute;wce. Czterokrotny medalista Mistrzostw Polski w tym dwa razy Mistrz Polski i najlepszy zawodnik MVP. Reprezentant kraju na Mistrzostwach Europy i Świata. Absowent Akademii Wychowania Fizycznego we Wrocławiu. Uczestnik wielu prestiżowych szkoleń z zakresu przygotowania motorycznego i treningu funkcjonalnego (m.in. NCSC/ EXOS/ FMS).</p>
+                                    <p>&nbsp&nbsp&nbsp&nbsp Ze sportem związany od ponad 20 lat. Trenuje zawodnik&oacute;w sport&oacute;w zespołowych i indywidualnych pod kątem przygotowania motorycznego. Trener Mistrz&oacute;w Świata, Europy i Polski zawodnik&oacute;w r&oacute;żnych sztuk walki (K1, Karate, MMA) itp. Trener przygotowania fizycznego koszykarskiego G&oacute;rnika Wałbrzych w sezonie 2016/17. Trener młodzieżowej reprezentacji polski w siatk&oacute;wce kobiet. Przygotowuje r&oacute;wnież służby mundurowe do selekcji na komandos&oacute;w oraz wiele innych.</p>
+                                    <p>&nbsp&nbsp&nbsp&nbsp Jako trener personalny pomaga swoim podopiecznym osiągnąć wyznaczony cel ze znakomitą skutecznością. Członek Polskiego Związku Trener&oacute;w Personalnych.</p>
+                                    <p class="oNas__bottom-text-last">  Motywator i profesjonalista.</p>
+                                </div>
+                            </div> 
+
+
+
+                        </div>
+
+                     
+
+
+
+                        
+                        <div class="col-sm-12 col-lg-6 oNas_box-main">
+
+                        <div class="col-12  oNas_img_hover hover_1">
                                 <img src="..//BTeam_rev2/images/galleries/oNas/11.jpg">   
                             </div> 
                             <div class="oNas_pawel-box" id="pawel" data-swap="false">
@@ -68,22 +87,7 @@
                                     <p class="oNas__bottom-text-last">Perfekcjonista i Fanatyk.</p>
                                 </div>  
                             </div> 
-                        </div>
-                        <div class="col-sm-12 col-lg-6 oNas_box-main">
-                            <div class="col-12  oNas_img_hover hover_2">
-                                <img src="..//BTeam_rev2/images/galleries/oNas/22.jpg">   
-                            </div>
-                            <div class="oNas_pawel-box" id="lukasz" data-swap="false">
-                                <div>
-                                    <img src="images/galleries/oNas/2.jpg" class="oNas__bottom-img">
-                                    <p class="oNas__bottom-text">Łukasz Bochenkiewicz</p>
-                                    <p>&nbsp&nbsp&nbsp&nbsp Trener z powołania. Trener przygotowania motorycznego, trener personalny, pasjonata treningu funkcjonalnego i sztuk walki.</p>
-                                    <p>&nbsp&nbsp&nbsp&nbsp Wychowanek WKS Śląsk Wrocław w koszyk&oacute;wce. Czterokrotny medalista Mistrzostw Polski w tym dwa razy Mistrz Polski i najlepszy zawodnik MVP. Reprezentant kraju na Mistrzostwach Europy i Świata. Absowent Akademii Wychowania Fizycznego we Wrocławiu. Uczestnik wielu prestiżowych szkoleń z zakresu przygotowania motorycznego i treningu funkcjonalnego (m.in. NCSC/ EXOS/ FMS).</p>
-                                    <p>&nbsp&nbsp&nbsp&nbsp Ze sportem związany od ponad 20 lat. Trenuje zawodnik&oacute;w sport&oacute;w zespołowych i indywidualnych pod kątem przygotowania motorycznego. Trener Mistrz&oacute;w Świata, Europy i Polski zawodnik&oacute;w r&oacute;żnych sztuk walki (K1, Karate, MMA) itp. Trener przygotowania fizycznego koszykarskiego G&oacute;rnika Wałbrzych w sezonie 2016/17. Trener młodzieżowej reprezentacji polski w siatk&oacute;wce kobiet. Przygotowuje r&oacute;wnież służby mundurowe do selekcji na komandos&oacute;w oraz wiele innych.</p>
-                                    <p>&nbsp&nbsp&nbsp&nbsp Jako trener personalny pomaga swoim podopiecznym osiągnąć wyznaczony cel ze znakomitą skutecznością. Członek Polskiego Związku Trener&oacute;w Personalnych.</p>
-                                    <p class="oNas__bottom-text-last">  Motywator i profesjonalista.</p>
-                                </div>
-                            </div>  
+
                         </div>
                     </div>   
                 </div>
@@ -376,7 +380,7 @@
 
 
         <div class="container">
-                        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="z-index:0;">
+                        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="z-index:0;" data-interval="10000">
                             <ol class="carousel-indicators d-none d-md-flex">
                                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -469,19 +473,20 @@
                             </div>
                             <div class="col-sm-12 col-lg-6 kontakt-body-column google-kolumn" >
                                 <div class="col-12 kolumn-map">
-                                    <div id="googlemap"></div>
+                                    <div id="googlemap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2504.651112141391!2d16.971280115969982!3d51.11489694714562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470fc1e6d0a502b3%3A0xa252a05660f42f7!2sProjekt%20Fabryczna!5e0!3m2!1spl!2spl!4v1580508416513!5m2!1spl!2spl" frameborder="0" style="border:0;"></iframe></div>
                                         <div>
                                             <div class="row text-center kontakt-dane">
-                                                <div class="col-md-4">
+                                                <div class=" col-sm-4">
                                                     <p>Łukasz: 883 572 227</p>
                                                     <p>Paweł: 601 557 544</p>
                                                 </div>
-                                                <div class="col-md-4">
+                                                <div class=" col-sm-4">
                                                     <p>Wrocław</p>
-                                                    <p>Pon - Pt: 6:00-22:00</p>
-                                                </div>
-                                                <div class="col-md-4">
                                                     <p>info@bteam.pl</p>
+                                                </div>
+                                                <div class=" col-sm-4">
+                                                    <p>Pon - Pt: 6:00-22:00</p>
+                                                    <p>Sob: 8:00-15:00</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -504,32 +509,33 @@
             <div>
                                 
             <div class="row partnerzy-center">
-                <div class="partners-images col-12 col-md-8">
-                        <div class=" col-sm-6 " data-aos="flip-left"  data-aos-duration="1000">
-                            <a target="_blank" href="https://www.facebook.com/AdamMazurkiewiczSC/?fref=mentions">
-                                <img src="images/galleries/partnerzy/M-movement-room_1.png" class=".img-fluid" >
+                <div class="partners-images col-8">
+                        <div class="col-6  partner-logo-box" data-aos="flip-left"  data-aos-duration="1000">
+                        <a target="_blank" href="https://www.akielaszek.pl/">
+                            <img src="images/galleries/partnerzy/akielaszek_wektor_www.png" class=".img-fluid"  id="akielaszek_wektor_www">
+                            </a>
+                      
+                        </div>
+                        <div class="col-6  partner-logo-box"data-aos="flip-left" data-aos-duration="1500">
+                        <a target="_blank" href="https://www.facebook.com/AdamMazurkiewiczSC/?fref=mentions">
+                                <img src="images/galleries/partnerzy/M-movement-room_1.png" class=".img-fluid" id="M-movement-room_1">
                             </a>
                         </div>
-                        <div class=" col-sm-6 "data-aos="flip-left" data-aos-duration="1500">
-                            <a target="_blank" href="https://www.akielaszek.pl/">
-                            <img src="images/galleries/partnerzy/akielaszek_wektor_www.png" class=".img-fluid" >
-                            </a>
-                        </div>
-                        <div class=" col-sm-6 " data-aos="flip-left" data-aos-duration="2000">
+                        <div class="col-6  partner-logo-box" data-aos="flip-left" data-aos-duration="2000">
                             <a target="_blank" href="https://pztp.org/">
-                                <img class="partners-images-pztp" src="images/galleries/partnerzy/pztp.png" class=".img-fluid">
+                                <img class="partners-images-pztp" src="images/galleries/partnerzy/pztp.png" class=".img-fluid"  id="pztp">
                             </a>
                         </div>
                 </div>
-                <div class="partners-images col-12 col-md-8 d-flex" >
-                    <div class=" col-sm-6 " data-aos="flip-left" data-aos-duration="1000"> 
+                <div class="partners-images partners-images-bottom col-8" >
+                    <div class="col-6  partner-logo-box" data-aos="flip-left" data-aos-duration="1000"> 
                         <a target="_blank" href="http://www.sportcube.pl/">
-                            <img src="images/galleries/partnerzy/sc_ok_1.png" class=".img-fluid">
+                            <img src="images/galleries/partnerzy/sc_ok_1.png" class=".img-fluid"  id="sc_ok_1">
                         </a>
                     </div>
-                    <div class=" col-sm-6 " data-aos="flip-left" data-aos-duration="1500"> 
+                    <div class="col-6  partner-logo-box" data-aos="flip-left" data-aos-duration="1500"> 
                         <a target="_blank" href="https://www.facebook.com/pg/projektfabryczna/about/">
-                            <img src="images/galleries/partnerzy/projekt_fabryczna_logo.png" class=".img-fluid">
+                            <img src="images/galleries/partnerzy/projekt_fabryczna_logo.png" class=".img-fluid"  id="projekt_fabryczna_logo">
                         </a>
                     </div>
                 </div>
@@ -566,7 +572,7 @@
             <p>W 2012 roku Unia Europejska nałożyła na właścicieli witryn obowiązek informowania o używanie ciasteczek na stronie (efektywnie regulacje weszły w życie 22 marca 2013 roku).</p>
             </br>
             <p><strong>RODO</strong></p>
-            <p>Administratorem powierzonych nam przez Państwa danych osobowych jest BTeam. Zgodnie z przepisami Rozporządzenia RODO Parlamentu Europejskiego i Rady Europy (UE) z dnia 27 kwietnia 2016 w sprawie ochrony os&oacute;b fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE i z ustawą z dnia 29 sierpnia 1997 r. o ochronie danych osobowych przysługuje Państwu prawo dostępu do treści swoich danych, prawo ich poprawiania, a także żądania ich usunięcia z bazy danych. Podanie danych jest dobrowolne, jednak niezbędne dla realizacji oczekiwanych przez Państwa cel&oacute;w. Powierzone nam dane są przetwarzane wyłącznie w celu i zakresie w jakim zostały nam przez Państwa udostępnione.</p>
+            <p>Administratorem powierzonych nam przez Państwa danych osobowych jest Ł&P Bochenkiewicz -Bteam. Zgodnie z przepisami Rozporządzenia RODO Parlamentu Europejskiego i Rady Europy (UE) z dnia 27 kwietnia 2016 w sprawie ochrony os&oacute;b fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE i z ustawą z dnia 29 sierpnia 1997 r. o ochronie danych osobowych przysługuje Państwu prawo dostępu do treści swoich danych, prawo ich poprawiania, a także żądania ich usunięcia z bazy danych. Podanie danych jest dobrowolne, jednak niezbędne dla realizacji oczekiwanych przez Państwa cel&oacute;w. Powierzone nam dane są przetwarzane wyłącznie w celu i zakresie w jakim zostały nam przez Państwa udostępnione.</p>
         </div>
             <div class="modal-footer">
                 <button onclick="acceptCookies()" type="button" class="btn btn-secondary" data-dismiss="modal">Akceptuje</button>
