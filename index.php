@@ -120,13 +120,7 @@
                                 </div>
                                 <div>
                                     <p class="oferta__text">
-                                    Przygotowanie motoryczne/fizyczne zawodnika jest kluczowym elementem we współczesnym sporcie na
-                                    każdym jego etapie i poziomie. Głównym elementem naszej pracy jest ocena fundamentalnych wzorców
-                                    ruchowych jako podstawy do dalszego rozwoju sportowca. W oparciu o światowe standardy (NSCA/
-                                    EXOS/ FMS/ MCS itp.), dostęp do najnowszych badań i publikacji oraz wieloletnie doświadczenie
-                                    zawodnicze i trenerskie w sportach zespołowych i indywidualnych potrafimy doskonale zrozumieć i
-                                    zintegrować się ze swoimi podopiecznymi. Te wszystkie składowe pozwalają nam na dokładną analizę
-                                    potrzeb i wyznaczenie ścieżki działania.
+                                    Przygotowanie motoryczne/fizyczne zawodnika jest kluczowym elementem we wsp&oacute;łczesnym sporcie na każdym jego etapie i poziomie. Gł&oacute;wnym elementem naszej pracy jest ocena fundamentalnych wzorc&oacute;w ruchowych jako podstawy do dalszego rozwoju sportowca. W oparciu o światowe standardy (NSCA/ EXOS/ FMS/ MCS itp..), oraz dostęp do najnowszych badań i publikacji, a także wieloletnie doświadczenie zawodnicze i trenerskie w sportach zespołowych i indywidualnych pomaga nam doskonale zrozumieć i zintegrować się ze swoimi podopiecznymi.
                                     </p>  
                                 </div>
 
@@ -149,7 +143,9 @@
                                 </button>
                             </div>
                             <div class="modal-body">
-                                <p>Przygotowanie motoryczne/fizyczne zawodnika jest kluczowym elementem we wsp&oacute;łczesnym sporcie na każdym jego etapie i poziomie. Gł&oacute;wnym elementem naszej pracy jest ocena fundamentalnych wzorc&oacute;w ruchowych jako podstawy do dalszego rozwoju sportowca. W oparciu o światowe standardy (NSCA/ EXOS/ FMS/ MCS itp..), dostęp do najnowszych badań i publikacji oraz wieloletnie doświadczenie zawodnicze i trenerskie w sportach zespołowych i indywidualnych potrafimy doskonale zrozumieć i zintegrować się ze swoimi podopiecznymi. Te wszystkie składowe pozwalają nam na dokładną analizę potrzeb i wyznaczenie ścieżki działania. Wiemy jak ważne jest kształtowanie wszystkich cech motorycznych (tj. SIŁA, WYTRZYMAŁOŚĆ, SZYBKOŚĆ, ZWINNOŚĆ, SKOCZNOŚĆ, ZRĘCZNOŚĆ, GIBKOŚĆ) niezależnie od rodzaju dyscypliny sportowej, tak aby maksymalnie zminimalizować ryzyko kontuzji. Dokładamy wszelkich starań, swoją pasję, doświadczenie i zaangażowanie w pracę ze sportowcami. Nie jesteśmy teoretykami, lecz przede wszystkim praktykami, kt&oacute;rzy cały czas się rozwijają i pogłębiają swoją wiedzę, jednocześnie wykorzystując ją bezpośrednio w swoim treningu jak i naszych zawodnik&oacute;w. Podczas lat związanych ze sportem zdążyliśmy poznać wszystkie odmiany wysiłk&oacute;w fizycznych o r&oacute;żnej intensywności i przetestować je na sobie. Nieodzownymi elementami każdego sportowca podczas treningu i start&oacute;w jest krew, pot i łzy, aby miały one sens i przełożenie na wyniki sportowe trzeba wiedzieć jak działać. Z nami to osiągniesz.</p>
+                                <p>
+                                Uprzednio wymienione składowe pozwalają nam na dokładną analizę potrzeb i wyznaczenie ścieżki działania. Wiemy jak ważne jest kształtowanie wszystkich cech motorycznych (tj. SIŁA, WYTRZYMAŁOŚĆ, SZYBKOŚĆ, ZWINNOŚĆ, SKOCZNOŚĆ, ZRĘCZNOŚĆ, GIBKOŚĆ) niezależnie od rodzaju dyscypliny sportowej, tak aby maksymalnie zminimalizować ryzyko kontuzji. Dokładamy wszelkich starań, swoją pasję, doświadczenie i zaangażowanie w pracę ze sportowcami. Nie jesteśmy teoretykami, lecz przede wszystkim praktykami, kt&oacute;rzy cały czas się rozwijają i pogłębiają swoją wiedzę, aplikując ją bezpośrednio do program&oacute;w<br />treningowych. Podczas lat związanych ze sportem zdążyliśmy poznać wszystkie odmiany wysiłk&oacute;w<br />fizycznych o r&oacute;żnej intensywności i przetestować je na sobie. Nieodzownymi elementami każdego sportowca podczas treningu i start&oacute;w jest krew, pot i łzy, aby miały one sens i przełożenie na wyniki sportowe trzeba wiedzieć jak działać. Z nami to osiągniesz.
+                                </p>
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Zamknij</button>
@@ -167,7 +163,7 @@
                                 </div>
                                 <div>
                                     <p class="oferta__text">
-                                    Związani z treningiem i zdrowym stylem życia jesteśmy od najmłodszych lat. Jako profesjonalni sportowcy wiemy jak istotne jest to w każdej dyscyplinie sportowej, ale r&oacute;wnież w życiu codziennym. Każdy człowiek wykonuję fundamentalne czynności związane z ruchem, takie jak: chodzenie, bieganie, siadanie, podnoszenie r&oacute;żnych przedmiot&oacute;w, skakanie i wiele innych. Wykonując te wszystkie zadania życia codziennego przez wiele lat w nieodpowiedni spos&oacute;b można doprowadzić do trwałych uszczerbk&oacute;w całego układu ruchu. Nasz organizm jest bardzo tolerancyjny do czasu&hellip;
+                                    Związani z treningiem i zdrowym stylem życia jesteśmy od najmłodszych lat. Jako profesjonalni sportowcy wiemy jak istotne jest to w każdej dyscyplinie sportowej, jak r&oacute;wnież w życiu codziennym. Każdy człowiek wykonuję fundamentalne czynności związane z ruchem, takie jak: chodzenie, bieganie, siadanie, podnoszenie r&oacute;żnych przedmiot&oacute;w, skakanie i wiele innych. Wykonując te wszystkie zadania życia codziennego przez wiele lat w nieodpowiedni spos&oacute;b można doprowadzić do trwałych uszczerbk&oacute;w całego układu ruchu. Nasz organizm jest bardzo tolerancyjny do czasu&hellip;
                                     </p>  
                                 </div>
                                 <div class="oferta_button-center">
@@ -221,10 +217,7 @@
                                 </div>
                                     <div>
                                         <p class="oferta__text oferta__text-center">
-                                        Sprzęt z którego korzystamy pozwola nam na dokładną analizę i diagnozę wszystkich
-                                        parametrów motorycznych. Dzięki konkretnym badaniom diagnostycznym jesteśmy w stanie określić
-                                        dokładny profil motoryczny zawodnika. Na podstawie uzyskanego profilu dobieramy odpowiednią
-                                        i precyzyjną ścieżkę rozwoju sportowca pod kątem przygotowania fizycznego/motorycznego. 
+                                        Sprzęt opisany powyżej pozwola nam na dokładną analizę i diagnozę praktycznie wszystkich parametr&oacute;w motorycznych. Dzięki konkretnym badaniom diagnostycznym jesteśmy w stanie określić dokładny profil motoryczny zawodnika. Z kolei na podstawie uzyskanego profilu dobieramy odpowiednią ścieżkę rozwoju sportowca pod kątem przygotowania fizycznego/motorycznego.
                                         </p>  
                                     </div>
                                 <div class="oferta_button-center">
@@ -248,10 +241,9 @@
                                 </button>
                             </div>
                             <div class="modal-body">
-                                <p>
                                 <p><u>GymAware:</u></p>
                                 <p>&nbsp;To mały, przenośny i precyzyjny liniowy przetwornik położenia, kt&oacute;rego element w postaci pętli przyczepia się do pasa, sztangi lub maszyn izolowanych w celu pomiaru m.in. mocy. System GymAware służy m.in. do oceny wydajności treningu na siłowni.</p>
-                                <p>Natychmiastowy podgląd wynik&oacute;w pozwala monitorować postępy, optymalizować obciążenia, monitorować zmęczenie, przetrenowanie, kontrolować kilka parametr&oacute;w jednocześnie, w tym: przemieszczenie, prędkość, siłę, wykonywaną pracę i moc. Jedną z unikalnych cech GymAware jest czujnik zmiany kąta, dzięki kt&oacute;remu urządzenie koryguje pomiar w ćwiczeniach zawierających przemieszczenia w r&oacute;żnych osiach.</p>
+                                <p>Natychmiastowy podgląd wynik&oacute;w pozwala monitorować postępy, optymalizować obciążenia, kontrolować zmęczenie, przetrenowanie, sprawdzać kilka parametr&oacute;w jednocześnie, takich przemieszczenie, prędkość, siłę, wykonywaną pracę i moc. Jedną z unikalnych cech GymAware jest czujnik zmiany kąta, dzięki kt&oacute;remu urządzenie koryguje pomiar podczas ćwiczeń zawierających przemieszczenia w r&oacute;żnych osiach.</p>
                                 <p>Badane parametry:</p>
                                 <p>- Moc (W) - szczytowa, średnia</p>
                                 <p>- Szybkość (m/s) - szczytowa, średnia</p>
@@ -304,7 +296,6 @@
                                     <li>Maksymalna siła reakcji [N]</li>
                                     <li>Maksymalna prędkość [m/s]</li>
                                 </ul>
-                                </p>
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Zamknij</button>
