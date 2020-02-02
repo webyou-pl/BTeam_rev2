@@ -43,7 +43,7 @@
             
            
             img{
-                height: 930px;
+                height: 938px;
                 object-fit: cover;
                 transition: opacity 0.5s ease-in-out;
                 cursor: pointer;
@@ -61,10 +61,16 @@
             img{
                 @media (max-width: 575.98px) {
                     
-                    height: 1119px;
+                    height: 1155px;
+                }
+                @media (min-width: 576px) and (max-width: 767.98px) {
+                    height: 930px;
+                }
+                @media (min-width: 768px) and (max-width: 991.98px) {
+                    height: 930px;
                 }
                 @media (min-width: 992px) and (max-width: 1199.98px) {
-                    height: 957.54px;
+                    height: 974px;
                 }
             }
             
@@ -74,19 +80,19 @@
             img{
                 @media (max-width: 575.98px) {
                     
-                    height: 1142px;
+                    height: 1228px;
                 }
                 
                 @media (min-width: 576px) and (max-width: 767.98px) {
-                    height: 951px;
+                    height: 966px;
                 }
                 
                 @media (min-width: 768px) and (max-width: 991.98px) {
-                    height: 954.2px;
+                    height: 966px;
                 }
                 
                 @media (min-width: 992px) and (max-width: 1199.98px) {
-                    height: 957.54px;
+                    height: 974px;
                 }
             }
         }
@@ -127,11 +133,23 @@
                         clip-path: polygon(50% 100%, 100% 90%, 100% 0, 0 0, 0 90%);
                         filter: grayscale(100%);
                      
-                        @media   (min-width: 2000px) {     
-                            width:100%;
-                        }
-                    
-
+                        @media (max-width: 575.98px) { 
+                            width: 100%; 
+                        } 
+                         
+ 
+                        @media (min-width: 576px) and (max-width: 767.98px) { 
+                            width: 100%; 
+                        } 
+                         
+                        @media (min-width: 768px) and (max-width: 991.98px) { 
+                            width: 100%; 
+                        } 
+                         
+                        @media (min-width: 992px) and (max-width: 1199.98px) { 
+                            width: 100%
+                        } 
+                 
                     }
             
                         @media (min-width: 282px) and  (max-width: 991.98px) {
