@@ -41,7 +41,7 @@
             
            
             img{
-                max-height: 938px;
+                height: 938px;
                 object-fit: cover;
                 transition: opacity 0.5s ease-in-out;
                 cursor: pointer;
@@ -98,7 +98,7 @@
             background-color: black;
             color:white;
             
-                // background:red;
+                background:red;
                 p{
                     padding:10px 20px 5px 20px;
                 }
