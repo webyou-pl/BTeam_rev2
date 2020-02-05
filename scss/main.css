@@ -76,8 +76,7 @@ table {
 }
 
 .btn-primary:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(205, 202, 235, 0.5);
-          box-shadow: 0 0 0 0.2rem rgba(205, 202, 235, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(205, 202, 235, 0.5);
 }
 
 .btn-white {
@@ -233,15 +232,12 @@ a:hover {
 @media (min-width: 282px) and (max-width: 768px) {
   #navbar {
     background: rgba(90, 89, 89, 0.966);
-    -webkit-box-shadow: -10px 10px 30px -15px rgba(0, 0, 0, 0.75);
-            box-shadow: -10px 10px 30px -15px rgba(0, 0, 0, 0.75);
+    box-shadow: -10px 10px 30px -15px rgba(0, 0, 0, 0.75);
   }
   #navbar ul {
     display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
     -webkit-box-align: start;
-        -ms-flex-align: start;
             align-items: flex-start;
   }
   #navbar ul a {
@@ -265,8 +261,7 @@ a:hover {
   position: fixed;
   background: rgba(90, 89, 89, 0.986);
   padding-right: 16px !important;
-  -webkit-box-shadow: -10px 10px 30px -15px rgba(0, 0, 0, 0.75);
-          box-shadow: -10px 10px 30px -15px rgba(0, 0, 0, 0.75);
+  box-shadow: -10px 10px 30px -15px rgba(0, 0, 0, 0.75);
 }
 
 #navbar.scroll-nav .navbar-collapse {
@@ -277,25 +272,20 @@ a:hover {
   #navbar.scroll-nav {
     background: rgba(90, 89, 89, 0.986);
     padding: 0;
-    -webkit-box-shadow: -10px 10px 30px -15px rgba(0, 0, 0, 0.75);
-            box-shadow: -10px 10px 30px -15px rgba(0, 0, 0, 0.75);
+    box-shadow: -10px 10px 30px -15px rgba(0, 0, 0, 0.75);
   }
   #navbar.scroll-nav ul {
     display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
     -webkit-box-align: start;
-        -ms-flex-align: start;
             align-items: flex-start;
   }
   #navbar.scroll-nav ul a {
     -webkit-transform: scale(0.7);
             transform: scale(0.7);
     display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
             align-items: center;
   }
   #navbar.scroll-nav ul li {
@@ -346,10 +336,8 @@ a:hover {
 
 #navbar.scroll-nav ul {
   display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-align: start;
-      -ms-flex-align: start;
           align-items: flex-start;
 }
 
@@ -405,11 +393,9 @@ a:hover {
 
 #cookies {
   display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   position: fixed;
   -webkit-box-align: center;
-      -ms-flex-align: center;
           align-items: center;
   bottom: 0;
   z-index: 10;
@@ -744,10 +730,8 @@ a:hover {
 
 #oferta .oferta_bottom-line {
   display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
           justify-content: center;
 }
 
@@ -896,14 +880,11 @@ a:hover {
   background-color: 0;
   height: 700px;
   display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
           flex-direction: column;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
           justify-content: space-between;
   width: 100%;
   padding: 0 15px;
@@ -941,14 +922,11 @@ a:hover {
 #oNas .oNas_box .oNas_lukasz-box, #oNas .oNas_box .oNas_pawel-box {
   height: 700px;
   display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
           flex-direction: column;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
           justify-content: space-between;
 }
 
@@ -1057,12 +1035,9 @@ a:hover {
 #partners .partners-images {
   width: 100%;
   display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
+  justify-content: space-around;
   -webkit-box-align: center;
-      -ms-flex-align: center;
           align-items: center;
   padding-bottom: 60px;
 }
@@ -1074,14 +1049,11 @@ a:hover {
 
 .test {
   display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
           justify-content: center;
 }
 
 .test:first-child {
   margin-top: 30px;
 }
-/*# sourceMappingURL=main.css.map */

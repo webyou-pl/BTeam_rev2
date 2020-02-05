@@ -468,8 +468,8 @@
                                         <div>
                                             <div class="row text-center kontakt-dane">
                                                 <div class=" col-sm-4">
-                                                    <p>Łukasz: 883 572 227</p>
-                                                    <p>Paweł: 601 557 544</p>
+                                                    <p>Łukasz: 883572227</p>
+                                                    <p>Paweł: 601557544</p>
                                                 </div>
                                                 <div class=" col-sm-4">
                                                     <p>Wrocław</p>
