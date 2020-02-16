@@ -111,3 +111,34 @@ $(document).ready(function(){
     $('.navbar-collapse').collapse('hide');
 });
 });
+
+
+
+// const isSafari = /constructor/i.test(window.HTMLElement) || (function (p) { return p.toString() === "[object SafariRemoteNotification]"; })(!window['safari'] || (typeof safari !== 'undefined' && safari.pushNotification));
+// console.log(isSafari)
+// function veiwChange (){
+//   const partnersBottom_element = document.getElementsByClassName('partners-images-bottom')
+//   console.log(partnersBottom_element)
+//   if(isSafari === false){
+//     partnersBottom_element.classList.add('partners-images-bottom-safari')
+//   }
+// }
+// veiwChange()
+
+
+const safariTop = document.getElementById('partners-images-top')
+const safariBottom = document.getElementById('partners-images-bottom')
+
+function load(){
+  var userAgent = navigator.userAgent.toLowerCase(); 
+if (userAgent .indexOf('safari')!=-1){ 
+ if(userAgent .indexOf('chrome')  > -1){
+   //browser is chrome
+ }else{
+  safariTop.classList.add('partners-images-top-safari')
+  safariBottom.classList.remove('partners-images-bottom')
+  safariBottom.classList.add('partners-images-bottom-safari')
+ }
+}
+}
+load();

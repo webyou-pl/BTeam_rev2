@@ -69,6 +69,16 @@
               margin-top: 100px;
             }
         }
+        .partners-images-top-safari{
+            @media (max-width: 575.98px) {
+                margin-top: 200px;
+            }
+        }
+        .partners-images-bottom-safari{
+            @media (max-width: 575.98px) {
+                margin-top: 400px;
+            }
+        }
 }
 .partnerzy-center{
     display: flex;
