@@ -1,15 +1,3 @@
-jQuery(function ($) {
-    // Google Maps setup
-    var googlemap = new google.maps.Map(
-        document.getElementById('googlemap'),
-        {
-            center: new google.maps.LatLng(51.1148936,16.9734688),
-            zoom: 8,
-            mapTypeId: google.maps.MapTypeId.ROADMAP
-        }
-    );
-});
-
 
 // zmniejszanie nav
 const menu = document.getElementById('navbar');
@@ -37,27 +25,10 @@ window.onload = function () {
         menu.classList.remove('scroll-nav');
     }
 };
-//Main view carusel
 
-// var x = document.querySelectorAll('li');
 var x = document.getElementsByClassName('mySlides');
 var slideIndex = 0;
-// showDivs(slideIndex);
 
-// function plusDivs(n) {
-//     showDivs(slideIndex += n);
-// }
-
-// function showDivs(n) {
-//     var i;
-//     if(n>x.length) {slideIndex =1}
-//     if(n<1) {slideIndex=x.length};
-//     for (i =0; i <x.length; i++) {
-//         x[i].style.display = "none";
-//     }
-//     x[slideIndex-1].style.display ="block";
-    
-// }
 
 carousel();
 
@@ -130,4 +101,44 @@ $(document).ready(function(){
         });
       } // End if
     });
+
+
+
   });
+
+  $(document).ready(function(){
+  $('.navbar-nav>li>a').on('click', function(){
+    $('.navbar-collapse').collapse('hide');
+});
+});
+
+
+
+// const isSafari = /constructor/i.test(window.HTMLElement) || (function (p) { return p.toString() === "[object SafariRemoteNotification]"; })(!window['safari'] || (typeof safari !== 'undefined' && safari.pushNotification));
+// console.log(isSafari)
+// function veiwChange (){
+//   const partnersBottom_element = document.getElementsByClassName('partners-images-bottom')
+//   console.log(partnersBottom_element)
+//   if(isSafari === false){
+//     partnersBottom_element.classList.add('partners-images-bottom-safari')
+//   }
+// }
+// veiwChange()
+
+
+const safariTop = document.getElementById('partners-images-top')
+const safariBottom = document.getElementById('partners-images-bottom')
+
+function load(){
+  var userAgent = navigator.userAgent.toLowerCase(); 
+if (userAgent .indexOf('safari')!=-1){ 
+ if(userAgent .indexOf('chrome')  > -1){
+   //browser is chrome
+ }else{
+  safariTop.classList.add('partners-images-top-safari')
+  safariBottom.classList.remove('partners-images-bottom')
+  safariBottom.classList.add('partners-images-bottom-safari')
+ }
+}
+}
+load();
